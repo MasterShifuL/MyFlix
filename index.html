@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyFlix - Nonton Film Online</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+   <header class="navbar">
+    <div class="navbar-brand">
+        <a href="index.html">MyFlix</a>
+    </div>
+    <nav class="navbar-nav">
+        <div class="nav-item dropdown">
+            <a href="#" class="nav-link">Genre</a>
+            <div class="dropdown-menu" id="genreDropdown"></div>
+        </div>
+        <div class="nav-item dropdown">
+            <a href="#" class="nav-link">Tahun</a>
+            <div class="dropdown-menu" id="yearDropdown"></div>
+        </div>
+    </nav>
+    <div class="navbar-search">
+        <input type="search" id="searchInput" placeholder="Cari judul film...">
+        <button id="searchBtn">Cari</button>
+    </div>
+</header>
+
+    <main class="container">
+        <section class="movies-section">
+            <h2>Rekomendasi Film</h2>
+            <div class="movies-grid" id="moviesGrid">
+                </div>
+            <div class="load-more-container">
+                <button id="loadMoreBtn">Lihat Lebih Banyak</button>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

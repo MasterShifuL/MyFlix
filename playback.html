@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nonton Film - MyFlix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="navbar-brand">
+            <a href="index.html">MyFlix</a>
+        </div>
+    </header>
+
+    <main class="playback-container">
+        <div class="video-container">
+            <iframe id="videoPlayerFrame" class="responsive-iframe" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+
+        <div class="movie-info-box">
+            <h1 id="movieTitle"></h1>
+
+            <div class="meta-info">
+                <span id="movieRating" class="meta-badge rating"></span>
+                <span id="movieYear" class="meta-badge"></span>
+                <span id="movieQuality" class="meta-badge"></span>
+            </div>
+
+            <p id="movieDescription" class="movie-description"></p>
+
+            <div class="movie-details">
+                <div><strong>Genre:</strong> <span id="movieGenres"></span></div>
+                <div><strong>Sutradara:</strong> <span id="movieDirector"></span></div>
+                <div><strong>Artis:</strong> <span id="movieCast"></span></div>
+            </div>
+        </div>
+
+        <section class="recommendations-section">
+            <h2>Rekomendasi Film</h2>
+            <div class="movies-grid" id="recommendationsGrid">
+                </div>
+        </section>
+
+    </main>
+
+    <script>
+        // PENTING: Salin array allMovies dari script.js ke sini agar rekomendasi berfungsi.
+        const allMovies = [
+            { id: 1, title: 'Mean Girls', year: 2024, quality: 'WEBDL', genres: ['Comedy', 'Music'], sutradara: 'Samantha Jayne', artis: ['Angourie Rice', 'Reneé Rapp', 'Auli\'i Cravalho'], thumbnail: 'https://image.tmdb.org/t/p/w500/f2E0i224T3mhFh0r3d36doUv2bB.jpg', description: 'Cady Heron adalah seorang sukses besar dengan grup elite gadis-gadis populer yang disebut "The Plastics" yang dipimpin oleh Ratu Lebah licik Regina George.', rating: 6.5, videoUrl: '#'},
+            { id: 2, title: 'Atlas', year: 2024, quality: 'WEBDL', genres: ['Sci-Fi', 'Action'], sutradara: 'Brad Peyton', artis: ['Jennifer Lopez', 'Simu Liu', 'Sterling K. Brown'], thumbnail: 'https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8E8oM0Iodvan.jpg', description: 'Seorang analis data kontra-terorisme yang brilian namun misantropis dengan ketidakpercayaan mendalam terhadap kecerdasan buatan bergabung dalam misi untuk menangkap robot pemberontak.', rating: 6.8, videoUrl: '#'},
+            { id: 15, title: 'Shadow of God', year: 2025, quality: 'WEBDL', genres: ['Horror', 'Thriller'], sutradara: 'Michael Lohr', artis: ['Kirk Woller', 'Michael Oakley', 'Amy LoCicero'], thumbnail: 'https://image.tmdb.org/t/p/w500/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg', description: 'Saat melakukan eksorsisme tidak sah pada ayahnya, seorang pengusir setan elit mencurigai entitas yang ia lawan mungkin adalah makhluk suci – bahkan mungkin Tuhan.', rating: 6.9, videoUrl: 'https://newer.stream/v/uG0WXrlYNHaN/'},
+            { id: 13, title: 'Moana 2', year: 2024, quality: 'CAM', genres: ['Animation', 'Adventure', 'Comedy'], sutradara: 'David G. Derrick Jr.', artis: ['Auli\'i Cravalho', 'Dwayne Johnson'], thumbnail: 'https://image.tmdb.org/t/p/w500/6oH378KUfXclzUaeaBGUd9kX2R.jpg', description: 'Moana melakukan perjalanan ke lautan jauh Oseania setelah menerima panggilan tak terduga dari leluhur penunjuk jalannya.', rating: 7.1, videoUrl: '#'},
+        ];
+
+        // Fungsi untuk menampilkan kartu rekomendasi
+        const renderRecommendations = (currentMovieId) => {
+            const recommendationsGrid = document.getElementById('recommendationsGrid');
+            if (!recommendationsGrid) return; // Keluar jika grid tidak ditemukan
+
+            // Langkah 2, 3, 4: Filter, Acak, dan Potong
+            const recommendedMovies = allMovies
+                .filter(movie => movie.id !== currentMovieId)
+                .sort(() => 0.5 - Math.random()) 
+                .slice(0, 6); 
+
+            recommendationsGrid.innerHTML = ''; 
+
+            // Langkah 5: Tampilkan ke layar
+            recommendedMovies.forEach(movie => {
+                const movieCard = document.createElement('div');
+                movieCard.classList.add('movie-card');
+                movieCard.innerHTML = `
+                    <div class="card-thumbnail">
+                        <img src="${movie.thumbnail}" alt="${movie.title}">
+                        <span class="quality-badge">${movie.quality}</span>
+                        <span class="rating-badge">⭐ ${movie.rating}</span>
+                    </div>
+                    <div class="card-info">
+                        <div class="title-container">
+                            <h3>${movie.title} (${movie.year})</h3>
+                        </div>
+                        <a href="#" class="watch-button">Tonton</a>
+                    </div>
+                `;
+                movieCard.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    sessionStorage.setItem('selectedMovie', JSON.stringify(movie));
+                    window.location.reload(); // Muat ulang halaman dengan data film baru
+                });
+                recommendationsGrid.appendChild(movieCard);
+            });
+        };
+
+        // Fungsi utama saat halaman dimuat
+        document.addEventListener('DOMContentLoaded', () => {
+            const movieDataString = sessionStorage.getItem('selectedMovie');
+
+            if (movieDataString) {
+                const movie = JSON.parse(movieDataString);
+
+                // Pastikan semua ID elemen yang dicari ada di HTML
+                document.title = `Nonton ${movie.title} - MyFlix`;
+                document.getElementById('videoPlayerFrame').src = movie.videoUrl;
+                document.getElementById('movieTitle').textContent = movie.title;
+                document.getElementById('movieRating').innerHTML = `⭐ ${movie.rating}`;
+                document.getElementById('movieYear').textContent = movie.year;
+                document.getElementById('movieQuality').textContent = movie.quality;
+                document.getElementById('movieDescription').textContent = movie.description; // Akan mengisi deskripsi
+                document.getElementById('movieGenres').textContent = movie.genres.join(', '); // Akan mengisi genre
+                document.getElementById('movieDirector').textContent = movie.sutradara; // Akan mengisi sutradara
+                document.getElementById('movieCast').textContent = movie.artis.join(', '); // Akan mengisi artis
+                
+                // Memanggil fungsi untuk menampilkan rekomendasi
+                renderRecommendations(movie.id);
+
+            } else {
+                alert("Data film tidak ditemukan!");
+                window.location.href = 'index.html';
+            }
+        });
+    </script>
+</body>
+</html>
