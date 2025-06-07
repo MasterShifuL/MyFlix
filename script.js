@@ -39,7 +39,7 @@ const allMovies = [
             "Paul Sun-Hyung Lee",
             "Scott Thompson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/04/nCejOVZcOxKS27nnbh28NKXOdXF.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/04/nCejOVZcOxKS27nnbh28NKXOdXF.jpg",
         "description": "A wolf and mountain lion team up when a meteor unleashes a virus turning zoo animals into zombies. They join forces with other survivors to rescue the zoo and stop the deranged mutant leader from spreading the virus.",
         "rating": 0.0,
         "videoUrl": "https://newer.stream/v/gbLPa9SV8xR7/"
@@ -60,7 +60,7 @@ const allMovies = [
             "Joseph",
             "L\u00c3\u00bc Yanting"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/04/Ne-Zha-2-2025.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/04/Ne-Zha-2-2025.jpg",
         "description": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
         "rating": 0.0,
         "videoUrl": "https://newer.stream/v/fV4Ap1LmEat2/"
@@ -83,7 +83,7 @@ const allMovies = [
             "Mr. Lawrence",
             "Tom Kenny"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/03/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/03/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg",
         "description": "Plankton\u00e2\u20ac\u2122s tangled love story with his sentient computer wife goes sideways when she takes a stand \u00e2\u20ac\u201d and decides to destroy the world without him.",
         "rating": 0.0,
         "videoUrl": "https://newer.stream/v/1ZCQwB9p4df7/"
@@ -104,7 +104,7 @@ const allMovies = [
             "Tatiana Varria",
             "Yeni Alvarez"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/03/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/03/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg",
         "description": "Barbie \u00e2\u20ac\u0153Brooklyn\u00e2\u20ac\u009d Roberts, Barbie \u00e2\u20ac\u0153Malibu\u00e2\u20ac\u009d Roberts, and best friends Teresa and Nikki head to the Big Apple for spring break to help with the launch of Teresa\u00e2\u20ac\u2122s cousin\u00e2\u20ac\u2122s new restaurant. Taking inspiration from her family recipes, Teresa and her friends learn about her Mexican heritage as they prepare for the big opening. Along the way, they\u00e2\u20ac\u2122ll embark on thrilling adventures, explore delicious family recipes, and learn valuable lessons about the power of friendship.",
         "rating": 6.0,
         "videoUrl": "https://newer.stream/v/8qmL5oYPwlET/"
@@ -128,7 +128,7 @@ const allMovies = [
             "Katee Sackhoff",
             "Marko Zaror"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/03/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/03/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",
         "description": "A mercenary takes on the job of tracking down a target on a plane but must protect her when they\u00e2\u20ac\u2122re surrounded by people trying to kill both of them.",
         "rating": 0.0,
         "videoUrl": "https://newer.stream/v/4m0mnt66uUlC/"
@@ -150,7 +150,7 @@ const allMovies = [
             "Pete Davidson",
             "Peter Hastings"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/02/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/02/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
         "description": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u00e2\u20ac\u201dand fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/RB8UTAlwSWHg/"
@@ -171,7 +171,7 @@ const allMovies = [
             "Doug Cockle",
             "Joey Batey"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/02/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/02/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
         "description": "Geralt of Rivia, a mutated monster hunter, is hired to investigate a series of attacks in a seaside village and finds himself drawn into a centuries-old conflict between humans and merpeople. He must count on friends \u00e2\u20ac\u201d old and new \u00e2\u20ac\u201d to solve the mystery before the hostilities between the two kingdoms escalate into an all-out war.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/yvDVF12205oX/"
@@ -192,7 +192,7 @@ const allMovies = [
             "Peter Kay",
             "Reece Shearsmith"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/12/6BxK38ehxuX2dJmZIMpJcVNbYks.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/12/6BxK38ehxuX2dJmZIMpJcVNbYks.jpg",
         "description": "Gromit\u00e2\u20ac\u2122s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a \u00e2\u20ac\u0153smart\u00e2\u20ac\u009d gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master\u00e2\u20ac\u00a6 or Wallace may never be able to invent again!",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/JEabPDDIanKq/"
@@ -212,7 +212,7 @@ const allMovies = [
             "Jayde Adams",
             "Lolly Adefope"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/12/oSbu5XhTHyXFrj04qVDHxD8kQBP.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/12/oSbu5XhTHyXFrj04qVDHxD8kQBP.jpg",
         "description": "A small fish with a big imagination gets lost in the deep wide ocean, until he is saved by his own storytelling.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/KzAJcFBVaG0H/"
@@ -234,7 +234,7 @@ const allMovies = [
             "Gaia Wise",
             "Luke Pasqualino"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/12/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/12/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg",
         "description": "183 years before the events chronicled in the original trilogy, a sudden attack by Wulf, a clever and ruthless Dunlending lord seeking vengeance for the death of his father, forces Helm Hammerhand and his people to make a daring last stand in the ancient stronghold of the Hornburg. Finding herself in an increasingly desperate situation, H\u00c3\u00a9ra, the daughter of Helm, must summon the will to lead the resistance against a deadly enemy intent on their total destruction.",
         "rating": 6682.0,
         "videoUrl": "https://boosterx.stream/v/dnET4ja5NBeF/"
@@ -256,7 +256,7 @@ const allMovies = [
             "Dwayne Johnson",
             "Hual\u00c4\u0081lai Chung"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/12/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/12/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg",
         "description": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she\u00e2\u20ac\u2122s ever faced.",
         "rating": 6968.0,
         "videoUrl": "https://boosterx.stream/v/IRqW3ZySlXdc/"
@@ -278,7 +278,7 @@ const allMovies = [
             "Lilly Singh",
             "Rainn Wilson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/12/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/12/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg",
         "description": "A porcine bounty hunter accepts his next hit: Pickles, a naive, ebullient elephant. Though he initially sets out to capture the perky pachyderm, the unlikely pair find themselves crisscrossing the globe on an adventure that brings out the best in both of them.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/jI2xnIUKZw23/"
@@ -298,7 +298,7 @@ const allMovies = [
             "Kaito Ishikawa",
             "Y\u00c3\u00bbki Kaji"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/12/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/12/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg",
         "description": "Shoyo Hinata joins Karasuno High\u00e2\u20ac\u2122s volleyball club to be like his idol, a former Karasuno player known as the \u00e2\u20ac\u02dcLittle Giant\u00e2\u20ac\u2122. But Hinata soon learns that he must team up with his middle school nemesis, Tobio Kageyama. Their clashing styles form a surprising weapon, but can their newfound teamwork defeat their rival Nekoma High in the highly anticipated \u00e2\u20ac\u02dcDumpster Battle\u00e2\u20ac\u2122, the long awaited ultimate showdown between two opposing underdog teams?",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/NoJiDDQruagG/"
@@ -320,7 +320,7 @@ const allMovies = [
             "Rikiya Koyama",
             "Wakana Yamazaki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/12/ctboIRYQHYJMge6M6fgcwrhREsj.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/12/ctboIRYQHYJMge6M6fgcwrhREsj.jpg",
         "description": "A message has arrived from Kid the Phantom Thief, that he will steal a Japanese sword belonging to wealthy Onoe Family in Hakodate, Hokkaido. Conan and Heiji Hattori, who happened to be in Hakodate, are on the case to capture Kid. Coincidentally the family lawyer of Onoe is found murdered in the warehouse district, apparently slaughtered by a Japanese sword. The suspect is an investor/arms dealer who is said to be after Onoe family\u00e2\u20ac\u2122s hidden treasure. In the North among cherry blossoms, the exciting hunt for treasure begins!",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/Jcjk3dbk9kjC/"
@@ -342,7 +342,7 @@ const allMovies = [
             "Michael Cerveris",
             "Troy Baker"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/12/4rBObJFpiWJOG7aIlRrOUniAkBs.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/12/4rBObJFpiWJOG7aIlRrOUniAkBs.jpg",
         "description": "Suspicious of the events ensnaring their former colleagues, Nite Owl and Silk Spectre are spurred out of retirement to investigate. As they grapple with personal ethics, inner demons and a society turned against them, they race the clock to uncover a deepening plot that might trigger global nuclear war.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/UO54Prlbwomv/"
@@ -365,7 +365,7 @@ const allMovies = [
             "Miguel Bernardeau",
             "Rachel Zegler"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/11/xFSIygDiX70Esp9dheCgGX0Nj77.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/11/xFSIygDiX70Esp9dheCgGX0Nj77.jpg",
         "description": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it\u00e2\u20ac\u2122s too late.",
         "rating": 6807.0,
         "videoUrl": "https://boosterx.stream/v/wpn4RfTaBZNi/"
@@ -387,7 +387,7 @@ const allMovies = [
             "Raffey Cassidy",
             "Sally Hawkins"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/11/9M8tTHbYFrGxCXxNMvAkvRbhtER.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/11/9M8tTHbYFrGxCXxNMvAkvRbhtER.jpg",
         "description": "A young boy and his family set off on a sailing trip of a lifetime until a violent storm erupts, sweeping Michael and his dog overboard. After washing up on a remote island, terrified, they struggle to survive and adjust to life alone, One day, Michael discovers he is not alone when he is confronted by a mysterious Japanese man who has lived there secretly since World War II, angry that Michael has arrived. However, as dangerous invaders threaten their fragile island paradise, Michael and the old man, Kensuke, join forces to save their secret world.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/WAVgKz3eaogO/"
@@ -408,7 +408,7 @@ const allMovies = [
             "Evanna Lynch",
             "Miranda Otto"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/11/h34lkT2CFufYuzmP0CEgn4lghyY.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/11/h34lkT2CFufYuzmP0CEgn4lghyY.jpg",
         "description": "On the cusp of her 13th birthday, Betty Flood \u00e2\u20ac\u201c budding musician and magical being \u00e2\u20ac\u201c just wants to be like the rest of her fabulous, but very different family, so why is her magical Mum so against it? As Betty wrestles with this, she also learns the amazing truth about her family and discovers that the not so normal, the magical and the musical are all a part of her fabulously freaky family.",
         "rating": 5.0,
         "videoUrl": "https://boosterx.stream/v/uaFBUZzOYAef/"
@@ -425,7 +425,7 @@ const allMovies = [
         "artis": [
             "Scott Jones"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/11/sJDluU3XcpTAQmw5ZYnkmpzkwQk.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/11/sJDluU3XcpTAQmw5ZYnkmpzkwQk.jpg",
         "description": "A disabled man living in Ottawa at the time of the freedom convoy protests ruminates on the concept of freedom.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/1Va3UFeqHa34/"
@@ -446,7 +446,7 @@ const allMovies = [
             "Gwen Stefani",
             "Pharrell Williams"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/11/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/11/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg",
         "description": "The story of the life and career of American musician Pharrell Williams in the style of LEGO animation.",
         "rating": 7969.0,
         "videoUrl": "https://boosterx.stream/v/HE4CkrzhVwzH/"
@@ -466,7 +466,7 @@ const allMovies = [
             "Yoichiro Saito",
             "Yuumi Kawai"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/10/AgBNLcHFEXCRFZuKv0H8RWMxNAJ.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/10/AgBNLcHFEXCRFZuKv0H8RWMxNAJ.jpg",
         "description": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
         "rating": 8.0,
         "videoUrl": "https://boosterx.stream/v/QLuWlXEU6UlG/"
@@ -486,7 +486,7 @@ const allMovies = [
             "Michael Godere",
             "Raul Ceballos"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/10/oEJC05CqPugMxC4rFu9r6r6vg6m.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/10/oEJC05CqPugMxC4rFu9r6r6vg6m.jpg",
         "description": "The crafty Bad Guys crew embarks on a high-stakes Halloween heist to swipe a priceless amulet from a spooky mansion. What could go wrong?",
         "rating": 7367.0,
         "videoUrl": "https://boosterx.stream/v/w5KzOvJ2VTCk/"
@@ -504,7 +504,7 @@ const allMovies = [
         "artis": [
             "Johnny Depp"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/10/mH1CEizCzcjl0f0S7bSf9CLLMgo.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/10/mH1CEizCzcjl0f0S7bSf9CLLMgo.jpg",
         "description": "Johnny Puff and his friends go on a secret mission to save Taigasville from the evil plans of the villainous engineer Otto von Walrus.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/k4crnCA4tydV/"
@@ -526,7 +526,7 @@ const allMovies = [
             "Chris Hemsworth",
             "Scarlett Johansson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/09/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/09/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg",
         "description": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
         "rating": 7595.0,
         "videoUrl": "https://boosterx.stream/v/ESrDmhc1Dnqb/"
@@ -551,7 +551,7 @@ const allMovies = [
             "Wasabi Mizuta",
             "Yumi Kakazu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/09/llyJNci45ABJkiGMw819U0tpRzT.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/09/llyJNci45ABJkiGMw819U0tpRzT.jpg",
         "description": "Music exists in our daily lives for granted. But what would happen if music disappeared from the earth? This is a completely original story about Doraemon and his friends who are trying to save the earth from a crisis with the familiar theme of music!",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/Wudvikzq3cBH/"
@@ -572,7 +572,7 @@ const allMovies = [
             "Corey Burton",
             "Troy Baker"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/08/xJbvpfSgYIYAMErNW8ot7WF2tjA-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/08/xJbvpfSgYIYAMErNW8ot7WF2tjA-152x228.jpg",
         "description": "In 1985, the murder of a government-sponsored superhero draws his outlawed colleagues out of retirement and into a mystery that threatens to upend their personal lives and the world itself.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/KIDTL8MCtEKa/"
@@ -590,7 +590,7 @@ const allMovies = [
         ],
         "sutradara": "Games Workshop",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/08/xARXzBLYk3bS95DgYwrzFLiwc4x-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/08/xARXzBLYk3bS95DgYwrzFLiwc4x-152x228.jpg",
         "description": "The remnants of Knight House Corvec fight for survival against the forces of Chaos while dealing with power struggles that pit their High Queen against her niece \u00e2\u20ac\u201c the rightful heir.",
         "rating": 4.0,
         "videoUrl": "https://boosterx.stream/v/Tk8tr38eOFaa/"
@@ -612,7 +612,7 @@ const allMovies = [
             "Clancy Brown",
             "Tom Kenny"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/08/30YnfZdMNIV7noWLdvmcJS0cbnQ-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/08/30YnfZdMNIV7noWLdvmcJS0cbnQ-152x228.jpg",
         "description": "When Bikini Bottom is scooped from the ocean, scientific squirrel Sandy Cheeks and her pal SpongeBob SquarePants saddle up for Texas to save their town.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/1QJmW5YorDlt/"
@@ -634,7 +634,7 @@ const allMovies = [
             "Kristen Wiig",
             "Steve Carell"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/07/3w84hCFJATpiCO5g8hpdWVPBbmq-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/07/3w84hCFJATpiCO5g8hpdWVPBbmq-152x228.jpg",
         "description": "Gru and Lucy and their girls \u00e2\u20ac\u201d Margo, Edith and Agnes \u00e2\u20ac\u201d welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Meanwhile, Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
         "rating": 7515.0,
         "videoUrl": "https://boosterx.stream/v/dgWZAwkP4faV/"
@@ -657,7 +657,7 @@ const allMovies = [
             "Kensington Tallman",
             "Maya Hawke"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/07/vpnVM9B6NMmQpWeZvzLvDESb2QY-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/07/vpnVM9B6NMmQpWeZvzLvDESb2QY-152x228.jpg",
         "description": "Teenager Riley\u00e2\u20ac\u2122s mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u00e2\u20ac\u2122ve long been running a successful operation by all accounts, aren\u00e2\u20ac\u2122t sure how to feel when Anxiety shows up. And it looks like she\u00e2\u20ac\u2122s not alone.",
         "rating": 7716.0,
         "videoUrl": "https://boosterx.stream/v/JHzkY8tSORLu/"
@@ -679,7 +679,7 @@ const allMovies = [
             "Hannah Waddingham",
             "Samuel L. Jackson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/07/xYduFGuch9OwbCOEUiamml18ZoB-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/07/xYduFGuch9OwbCOEUiamml18ZoB-152x228.jpg",
         "description": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u00e2\u20ac\u201c scruffy street cat Vic \u00e2\u20ac\u201c Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/qt2aFKmeYP7v/"
@@ -702,7 +702,7 @@ const allMovies = [
             "Luc\u00c3\u00ada P\u00c3\u00a9rez",
             "Mario Gas"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/07/aGEdhQw7hlN52LGGsq3LriGKPy0-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/07/aGEdhQw7hlN52LGGsq3LriGKPy0-152x228.jpg",
         "description": "Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/Wfa3xFMcLnao/"
@@ -728,7 +728,7 @@ const allMovies = [
             "Massimiliano Gallo",
             "Riccardo Scamarcio"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/07/7csTXU1sIyvrKeN5NICdu76M87Z-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/07/7csTXU1sIyvrKeN5NICdu76M87Z-152x228.jpg",
         "description": "A father, immersed in a difficult divorce process, embarks on a dangerous mission when his children disappear from their isolated country house.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/Yvwd2UDZlhwr/"
@@ -750,7 +750,7 @@ const allMovies = [
             "Gedde Watanabe",
             "Tamlyn Tomita"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/06/j886YEkIUsiImY53px5VHKD4lRa-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/06/j886YEkIUsiImY53px5VHKD4lRa-152x228.jpg",
         "description": "With Tokyo under attack from kaiju, Ultraman discovers his greatest challenge isn\u00e2\u20ac\u2122t fighting giant monsters \u00e2\u20ac\u201c it\u00e2\u20ac\u2122s raising one.",
         "rating": 0.0,
         "videoUrl": "https://vectorx.top/v/Y1x3gKXzdo9g/"
@@ -773,7 +773,7 @@ const allMovies = [
             "Chris Houghton",
             "Marieve Herington"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/06/wV0nNtlL0nxgse8llRi7SypkCQI-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/06/wV0nNtlL0nxgse8llRi7SypkCQI-152x228.jpg",
         "description": "When thrill-seeker Cricket tricks his family into taking a \u00e2\u20ac\u0153road trip\u00e2\u20ac\u009d in space, chaos in the cosmos quickly ensues. Despite growing frustrations between Cricket and his dad, Bill, the two must learn to appreciate each other\u00e2\u20ac\u2122s unique perspectives in order to prevent Big City from being destroyed by an interstellar disaster.",
         "rating": 8.0,
         "videoUrl": "https://vectorx.top/v/eWAVzcgWtOoW/"
@@ -792,7 +792,7 @@ const allMovies = [
             "Nobunaga Shimazaki",
             "Tatsuhisa Suzuki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/06/etbHJxil0wHvYOCmibzFLsMcl2C-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/06/etbHJxil0wHvYOCmibzFLsMcl2C-152x228.jpg",
         "description": "It\u00e2\u20ac\u2122s the ultimate showdown. The toughest fighters from \u00e2\u20ac\u0153Baki Hanma\u00e2\u20ac\u009d and \u00e2\u20ac\u0153Kengan Ashura\u00e2\u20ac\u009d clash in this unprecedented, hard-hitting martial arts crossover.",
         "rating": 8412.0,
         "videoUrl": "https://vectorx.top/v/K5NzISHdk2T3/"
@@ -813,7 +813,7 @@ const allMovies = [
             "Matt Stone",
             "Trey Parker"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/06/zxM1AIKBP83plf2buLR0cbGfvl2-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/06/zxM1AIKBP83plf2buLR0cbGfvl2-152x228.jpg",
         "description": "The advent of new weight loss drugs has a huge impact on everyone in South Park. When Cartman is denied access to the life-changing medicine, the kids jump into action.",
         "rating": 8022.0,
         "videoUrl": "https://vectorx.top/v/PuGQCNlOpEla/"
@@ -835,7 +835,7 @@ const allMovies = [
             "Miyu Tomita",
             "Shintaro Asanuma"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/05/k69kkwsipkPn7Nzq488kHGQTPo-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/05/k69kkwsipkPn7Nzq488kHGQTPo-152x228.jpg",
         "description": "A shy teenage boy\u00e2\u20ac\u2122s inability to say no is tested when a headstrong girl drags him on a mystical journey amid summer snow to find her missing mom.",
         "rating": 5.0,
         "videoUrl": "https://vectorx.top/v/BP5df7P1yaRF/"
@@ -856,7 +856,7 @@ const allMovies = [
             "Jemaine Clement",
             "Will Forte"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/05/yutiEZ7taGDNau2jGjKIdDwQpDw-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/05/yutiEZ7taGDNau2jGjKIdDwQpDw-152x228.jpg",
         "description": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma\u00e2\u20ac\u2122s wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
         "rating": 0.0,
         "videoUrl": "https://vectorx.top/v/Ctp7ijH3UgPJ/"
@@ -877,7 +877,7 @@ const allMovies = [
             "Jensen Ackles",
             "Meg Donnelly"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/04/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/04/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg",
         "description": "An endless army of shadow demons bent on the destruction of all reality swarms over our world and all parallel Earths! The only thing opposing them is the mightiest team of metahumans ever assembled. But not even the combined power of Superman, Batman, Wonder Woman, Green Lantern and all their fellow superheroes can slow down the onslaught of this invincible horde. What mysterious force is driving them? And how do the long-buried secrets of the Monitor and Supergirl threaten to crush our last defense?",
         "rating": 6091.0,
         "videoUrl": "https://vectorx.top/v/kPKNKYLirozf/"
@@ -898,7 +898,7 @@ const allMovies = [
             "Kevin Michael Richardson",
             "Tom Kenny"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/04/8BYT4D0E0f1qFb9WfJPH4YUirL-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/04/8BYT4D0E0f1qFb9WfJPH4YUirL-152x228.jpg",
         "description": "After getting kicked out of the forest, Woody thinks he\u00e2\u20ac\u2122s found a forever home at Camp Woo Hoo \u00e2\u20ac\u201d until an inspector threatens to shut down the camp.",
         "rating": 0.0,
         "videoUrl": "https://vectorx.top/v/KH2VTXzbbEY3/"
@@ -922,7 +922,7 @@ const allMovies = [
             "Bryan Cranston",
             "Jack Black"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/04/kDp1vUBnMpe8ak4rjgl3cLELqjU-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/04/kDp1vUBnMpe8ak4rjgl3cLELqjU-152x228.jpg",
         "description": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
         "rating": 6928.0,
         "videoUrl": "https://vectorx.top/v/7w88gcwwxRu3/"
@@ -943,7 +943,7 @@ const allMovies = [
             "Paulina Ch\u00c3\u00a1vez",
             "Sumalee Montano"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/03/1ZHetsKD44xB63ZjTjqryC0CtoL-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/03/1ZHetsKD44xB63ZjTjqryC0CtoL-152x228.jpg",
         "description": "On a birthday trip to Mexico, 12-year-old Ronnie Anne accidentally frees a demigod trapped in a mountain and needs her family\u00e2\u20ac\u2122s help to set things right.",
         "rating": 7.0,
         "videoUrl": "https://boltx.stream/v/KlyJozP5i2na/"
@@ -964,7 +964,7 @@ const allMovies = [
             "Keith Ferguson",
             "Laura Post"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/03/1N7terrMeZPwK5qq31MUD0HQ3IG-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/03/1N7terrMeZPwK5qq31MUD0HQ3IG-152x228.jpg",
         "description": "Megamind\u00e2\u20ac\u2122s former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol\u00e2\u20ac\u2122 Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
         "rating": 6036.0,
         "videoUrl": "https://bestx.stream/v/Yjay12qmXMbI/"
@@ -987,7 +987,7 @@ const allMovies = [
             "Henry Golding",
             "Lucy Liu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/02/iiid1xMhoAcW83VJ9LdAqf4Vtbr-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/02/iiid1xMhoAcW83VJ9LdAqf4Vtbr-152x228.jpg",
         "description": "After the death of his grandmother, Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on an evil force that threatens humanity.",
         "rating": 7204.0,
         "videoUrl": "https://bestx.stream/v/N936uaN5biJN/"
@@ -1009,7 +1009,7 @@ const allMovies = [
             "Jacob Tremblay",
             "Paul Walter Hauser"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-152x228.jpg",
         "description": "A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
         "rating": 6696.0,
         "videoUrl": "https://bestx.stream/v/TkL7fCFEtk9E/"
@@ -1030,7 +1030,7 @@ const allMovies = [
             "Jensen Ackles",
             "Matt Bomer"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/01/zR6C66EDklgTPLHRSmmMt5878MR-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/01/zR6C66EDklgTPLHRSmmMt5878MR-152x228.jpg",
         "description": "Death is coming. Worse than death: oblivion. Not just for our Earth, but for everyone, everywhere, in every universe! Against this ultimate destruction, the mysterious Monitor has gathered the greatest team of Super Heroes ever assembled. But what can the combined might of Superman, Wonder Woman, Batman, The Flash, Green Lantern and hundreds of Super Heroes from multiple Earths even do to save all of reality from an unstoppable antimatter armageddon?!",
         "rating": 7814.0,
         "videoUrl": "https://bestx.stream/v/lnwPaJNYdcb8/"
@@ -1052,7 +1052,7 @@ const allMovies = [
             "Saori Hayami",
             "Takuya Eguchi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/08/xlIQf4y9eB14iYzNN142tROIWON-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/08/xlIQf4y9eB14iYzNN142tROIWON-152x228.jpg",
         "description": "While under the guise of taking his family on a weekend winter getaway, Loid\u00e2\u20ac\u2122s attempt to make progress on his current mission Operation Strix proves difficult when Anya mistakenly gets involved and triggers events that threaten world peace.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/JctdCTaIiWJo/"
@@ -1075,7 +1075,7 @@ const allMovies = [
             "Ariana DeBose",
             "Chris Pine"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/01/AcoVfiv1rrWOmAdpnAMnM56ki19-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/01/AcoVfiv1rrWOmAdpnAMnM56ki19-152x228.jpg",
         "description": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force \u00e2\u20ac\u201c a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe \u00e2\u20ac\u201c the ruler of Rosas, King Magnifico \u00e2\u20ac\u201c to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
         "rating": 6533.0,
         "videoUrl": "https://bestx.stream/v/8lXCDFHeUIIx/"
@@ -1097,7 +1097,7 @@ const allMovies = [
             "Keke Palmer",
             "Michael Cera"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/12/dYubl9T67KKgggQUawHs0xYMWEU-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/12/dYubl9T67KKgggQUawHs0xYMWEU-152x228.jpg",
         "description": "Two crabs embark on an epic journey to get home after a storm sweeps them away. Their courage soon unites their families, paving the way for great summers to come.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/TujgYjbmqZYa/"
@@ -1119,7 +1119,7 @@ const allMovies = [
             "Thandiwe Newton",
             "Zachary Levi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/12/8hsOpZJvA1FN3XKnzLHb9475Gp6-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/12/8hsOpZJvA1FN3XKnzLHb9475Gp6-152x228.jpg",
         "description": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that\u00e2\u20ac\u2122s cooking up something suspicious.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/LyXauzjdaGOS/"
@@ -1140,7 +1140,7 @@ const allMovies = [
             "Erica Cerra",
             "Wesley Kimmel"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/12/tV0996od52EJ6S8dLKvcVGsO7B.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/12/tV0996od52EJ6S8dLKvcVGsO7B.jpg",
         "description": "The winter holidays are turning out to be especially stressful for Greg Heffley this year. After accidentally damaging a snowplow while making a snowman with best friend Rowley Jefferson, Greg worries he won\u00e2\u20ac\u2122t get the new video game console he so desperately wants for Christmas. To make matters worse, he gets snowed in with his family, including his grumpy older brother Rodrick and annoying younger brother Manny.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/q38DBvDXXBXW/"
@@ -1162,7 +1162,7 @@ const allMovies = [
             "Luke Wilson",
             "Yonas Kibreab"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/12/2J70guF8wcErbYbRgZUBcvShgI1.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/12/2J70guF8wcErbYbRgZUBcvShgI1.jpg",
         "description": "This Christmas, Damian Wayne wants to be a superhero like his dad \u00e2\u20ac\u201c the one and only Batman. When Damian is left home alone while Batman takes on Gotham\u00e2\u20ac\u2122s worst supervillains on Christmas Eve, he stumbles upon a villainous plot to steal Christmas and leaps at the chance to save the day.",
         "rating": 7929.0,
         "videoUrl": "https://bestx.stream/v/AeSxtrcxY2Yf/"
@@ -1184,7 +1184,7 @@ const allMovies = [
             "Rikiya Koyama",
             "Wakana Yamazaki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/12/ksQ8uNgoWsVH6a0oPB6zx08pOwU.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/12/ksQ8uNgoWsVH6a0oPB6zx08pOwU.jpg",
         "description": "Many engineers from around the world gather at the Interpol marine facility \u00e2\u20ac\u0153Pacific Buoy\u00e2\u20ac\u009d on Hachijo-jima, in the sea south of central Tokyo Prefecture coast, to witness the launch of a new system that connects all law enforcement camera systems around the world and enables facial recognition worldwide. Conan, along with his friends Kogoro, Ran, Agasa, Haibara, and the Detective Boys, also heads to the island with an invitation from Sonoko to see the whales. He receives a message from Subaru, who says that a Europol agent has been murdered in Germany by Gin. Perturbed, Conan sneaks onto the police ship led by Kuroda, which is bringing them to the island to protect the completion work, and tours the new facility, just in time for the Black Organization to kidnap a female engineer, seeking a piece of important data in her USB drive. A terrifying howl of screws is heard from the ocean as an unknown person approaches Haibara.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/krAld3nAaRAc/"
@@ -1205,7 +1205,7 @@ const allMovies = [
             "Michael Godere",
             "Raul Ceballos"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/12/atBDD05PbVDI2lm2OUy1KFQpzen-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/12/atBDD05PbVDI2lm2OUy1KFQpzen-152x228.jpg",
         "description": "To keep their annual Holiday Heist-tacular afloat, Mr. Wolf and his crew of animal outlaws will have to restore the whole city\u00e2\u20ac\u2122s Christmas spirit \u00e2\u20ac\u201d fast!",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/8HXaYnp8tw7b/"
@@ -1226,7 +1226,7 @@ const allMovies = [
             "Phoenix Laroche",
             "Samantha Colley"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/11/aM0ViG6LVkN1PQGe9Bon1gQXpc7-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/11/aM0ViG6LVkN1PQGe9Bon1gQXpc7-152x228.jpg",
         "description": "When seven-year-old William receives a new favorite toy for Christmas, he discovers a lifelong friend and unlocks a world of magic.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/Nk7YOBl1rf9d/"
@@ -1249,7 +1249,7 @@ const allMovies = [
             "Camila Cabello",
             "Justin Timberlake"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/11/bkpPTZUdq31UGDovmszsg2CchiI-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/11/bkpPTZUdq31UGDovmszsg2CchiI-152x228.jpg",
         "description": "When Branch\u00e2\u20ac\u2122s brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
         "rating": 6551.0,
         "videoUrl": "https://bestx.stream/v/Ek7zFefYDH1y/"
@@ -1270,7 +1270,7 @@ const allMovies = [
             "Bill Burr",
             "Cecily Strong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/11/gSOVog7ydsaF1YpgAqBqnKYFGY-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/11/gSOVog7ydsaF1YpgAqBqnKYFGY-152x228.jpg",
         "description": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students \u00e2\u20ac\u201d including an impossibly mean substitute teacher.",
         "rating": 7.0,
         "videoUrl": "https://bestx.stream/v/xpCkUauLu8jU/"
@@ -1291,7 +1291,7 @@ const allMovies = [
             "Laura Bailey",
             "Trevor Devall"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/11/rDzig50dj7VpLwJ7SThbamETK1G-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/11/rDzig50dj7VpLwJ7SThbamETK1G-152x228.jpg",
         "description": "The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow\u00e2\u20ac\u2122s father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn\u00e2\u20ac\u2122t the only one missing when they meet a dangerous new foe quite unlike anything they\u00e2\u20ac\u2122ve ever encountered before.",
         "rating": 6718.0,
         "videoUrl": "https://bestx.stream/v/PaJ5rMMba85L/"
@@ -1311,7 +1311,7 @@ const allMovies = [
             "Jackson Kelly",
             "Klarissa Hernandez"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/10/mfOZCsCyUcwSwy2O2aJBZZC8fNw-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/10/mfOZCsCyUcwSwy2O2aJBZZC8fNw-152x228.jpg",
         "description": "An imaginative 15-year-old is stubbornly determined to lose her virginity despite the pathetic pickings in the outskirts of Houston in the early \u00e2\u20ac\u212290s.",
         "rating": 6633.0,
         "videoUrl": "https://bestx.stream/v/Gcz1mnP1Bh55/"
@@ -1332,7 +1332,7 @@ const allMovies = [
             "Wasabi Mizuta",
             "Yumi Kakazu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/09/g9ksiIwYUUTWMR1PH22p8YAfUR1-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/09/g9ksiIwYUUTWMR1PH22p8YAfUR1-152x228.jpg",
         "description": "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/X9E0mYFgb8Z2/"
@@ -1353,7 +1353,7 @@ const allMovies = [
             "Jennifer Grey",
             "Joel McHale"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/10/1eKWqTHp4OgKdx1QX1O9LxKHr1M-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/10/1eKWqTHp4OgKdx1QX1O9LxKHr1M-152x228.jpg",
         "description": "In 1980s Hollywood, action star Johnny Cage is looking to become an A-list actor. But when his costar, Jennifer, goes missing from set, Johnny finds himself thrust into a world filled with shadows, danger, and deceit. As he embarks on a bloody journey, Johnny quickly discovers the City of Angels has more than a few devils in its midst.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/l6fXAHHMjPKy/"
@@ -1373,7 +1373,7 @@ const allMovies = [
             "Remy Hii",
             "Sam Neill"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/10/1tcLXVaXFG9OObnCN3a5KrymrQG-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/10/1tcLXVaXFG9OObnCN3a5KrymrQG-152x228.jpg",
         "description": "As her world is shrouded in darkness, a young girl must overcome her fears and travel to a mysterious city of light, save her father from a dangerous scientist and prevent the destruction of her planet.",
         "rating": 7583.0,
         "videoUrl": "https://bestx.stream/v/4tkfDIaMflDn/"
@@ -1391,7 +1391,7 @@ const allMovies = [
         ],
         "sutradara": "Kristijan Mili\u00c4\u2021",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/09/fBSLAMH5vczIWgzpa9x7Z52F4QH-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/09/fBSLAMH5vczIWgzpa9x7Z52F4QH-152x228.jpg",
         "description": "Two main characters, Cricket and Antoinette, represent two separate worlds, the world of noise, chaos and creativity on the one side, and the world of work, order and discipline on the other. As they fall in love, in spite of obvious differences, they manage to create harmony.",
         "rating": 10.0,
         "videoUrl": "https://bestx.stream/v/hNntD7QkUqj1/"
@@ -1412,7 +1412,7 @@ const allMovies = [
             "Nicolas Cantu",
             "Shamon Brown Jr."
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/09/ueO9MYIOHO7M1PiMUeX74uf8fB9-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/09/ueO9MYIOHO7M1PiMUeX74uf8fB9-152x228.jpg",
         "description": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O\u00e2\u20ac\u2122Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
         "rating": 7326.0,
         "videoUrl": "https://bestx.stream/v/GNChMEkvVIMU/"
@@ -1433,7 +1433,7 @@ const allMovies = [
             "Wasabi Mizuta",
             "Yumi Kakazu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/09/g9ksiIwYUUTWMR1PH22p8YAfUR1-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/09/g9ksiIwYUUTWMR1PH22p8YAfUR1-152x228.jpg",
         "description": "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/oQ5Xtth7qOxf/"
@@ -1452,7 +1452,7 @@ const allMovies = [
             "Jodi Benson",
             "Mandy Moore"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/08/q17tXNROOslj7uCGicKNlIf9Rx6-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/08/q17tXNROOslj7uCGicKNlIf9Rx6-152x228.jpg",
         "description": "Tiana, Moana, Snow White, Rapunzel, and Ariel are off on an adventure as they are each unexpectedly transported to a mysterious castle. Shortly after arriving, they soon discover that Gaston has hatched an evil plan to take over all their kingdoms! The Princess characters must work together to solve challenges hidden deep within the castle walls and try to save their kingdoms from Gaston. Will bravery, quick-thinking, and teamwork prevail?",
         "rating": 6955.0,
         "videoUrl": "https://bestx.stream/v/yVNRl04QPaOf/"
@@ -1475,7 +1475,7 @@ const allMovies = [
             "Jimmy O. Yang",
             "Jolie Hoang-Rappaport"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/08/i6ye8ueFhVE5pXatgyRrZ83LBD8-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/08/i6ye8ueFhVE5pXatgyRrZ83LBD8-152x228.jpg",
         "description": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods \u00e2\u20ac\u201d and his own ego \u00e2\u20ac\u201d along the way.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/abr4igC0LBnJ/"
@@ -1498,7 +1498,7 @@ const allMovies = [
             "Mamoudou Athie",
             "Ronnie del Carmen"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/08/6oH378KUfCEitzJkm07r97L0RsZ-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/08/6oH378KUfCEitzJkm07r97L0RsZ-152x228.jpg",
         "description": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/XmwMEa5pPpq1/"
@@ -1520,7 +1520,7 @@ const allMovies = [
             "Koki Uchiyama",
             "Y\u00c3\u00bbki Kaji"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/08/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-Part-2-2023-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/08/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-Part-2-2023-152x228.jpg",
         "description": "Reunited with Lancelot for the first time since their tragic accident, Tristan must learn to conquer his inner demons in order to save his mother\u00e2\u20ac\u2122s life.",
         "rating": 8679.0,
         "videoUrl": "https://bestx.stream/v/C8VRlm4E3nRe/"
@@ -1541,7 +1541,7 @@ const allMovies = [
             "Jensen Ackles",
             "Stana Katic"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/07/qmevjlNDaWoEughGlXFWHbQ4TaR-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/07/qmevjlNDaWoEughGlXFWHbQ4TaR-152x228.jpg",
         "description": "Until now, the Justice League has been a loose association of superpowered individuals. But when they are swept away to Warworld, a place of unending brutal gladiatorial combat, Batman, Superman, Wonder Woman and the others must somehow unite to form an unbeatable resistance able to lead an entire planet to freedom.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/ap422ydaCoaQ/"
@@ -1562,7 +1562,7 @@ const allMovies = [
             "Jimmy O. Yang",
             "Lisa Lu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/07/e9L7N5z3qHHgSNUIUuBSaicQvpT-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/07/e9L7N5z3qHHgSNUIUuBSaicQvpT-152x228.jpg",
         "description": "Zhi, a rookie race car driver, gets the opportunity to compete against the reigning champion of the rally car circuit. With help from a former driver-turned-mechanic, Zhi must overcome treacherous terrain, rival racers, and unexpected obstacles to prove he has what it takes to be the next great racer.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/Jri6m5CwOFD7/"
@@ -1583,7 +1583,7 @@ const allMovies = [
             "Kevin Dorman",
             "Matthew Mercer"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/07/qayga07ICNDswm0cMJ8P3VwklFZ-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/07/qayga07ICNDswm0cMJ8P3VwklFZ-152x228.jpg",
         "description": "In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
         "rating": 8859.0,
         "videoUrl": "https://bestx.stream/v/DO3FPfxuH6Hf/"
@@ -1605,7 +1605,7 @@ const allMovies = [
             "Emmanuel Curtil",
             "Kaycie Chase"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/07/gVPw9gRPsZZhzY6cIXp6h6nep5M-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/07/gVPw9gRPsZZhzY6cIXp6h6nep5M-152x228.jpg",
         "description": "An adventurous mouse sets off to battle dangerous creatures in Ancient Greece, including Poseidon.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/Uc4qkPKabJiQ/"
@@ -1627,7 +1627,7 @@ const allMovies = [
             "Nataliia Denysenko",
             "Nazar Zadniprovskyi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/07/eeJjd9JU2Mdj9d7nWRFLWlrcExi-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/07/eeJjd9JU2Mdj9d7nWRFLWlrcExi-152x228.jpg",
         "description": "Mavka \u00e2\u20ac\u201d a Soul of the Forest and its Warden \u00e2\u20ac\u201d faces an impossible choice between love and her duty as guardian to the Heart of the Forest, when she falls in love with a human \u00e2\u20ac\u201d the talented young musician Lukas.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/SafVC6MAtnFA/"
@@ -1650,7 +1650,7 @@ const allMovies = [
             "Eugene Lee Yang",
             "Riz Ahmed"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/07/2NQljeavtfl22207D1kxLpa4LS3-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/07/2NQljeavtfl22207D1kxLpa4LS3-152x228.jpg",
         "description": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence. But what if she\u00e2\u20ac\u2122s the monster he\u00e2\u20ac\u2122s sworn to destroy?",
         "rating": 8109.0,
         "videoUrl": "https://bestx.stream/v/iA8R2davgPPR/"
@@ -1672,7 +1672,7 @@ const allMovies = [
             "Su Xin",
             "Wang Ting Wen"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/06/znSKKjTpwnFmlieJtnlLoI6McKK-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/06/znSKKjTpwnFmlieJtnlLoI6McKK-152x228.jpg",
         "description": "Shenxiu has felt a deep sadness since her mother left. A storm plunges her into a dreamlike, 3D world of swirling colour. Led by the Hyjinx, and joined by inventive underwater chef Nanhe, she embarks on a quest to find solace in the Eye of the Deep Sea.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/m9i0HfltOQrP/"
@@ -1693,7 +1693,7 @@ const allMovies = [
             "Rodger Bumpass",
             "Tom Kenny"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/06/rozwpOPiTEYnXygWGvUPST4lVQa-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/06/rozwpOPiTEYnXygWGvUPST4lVQa-152x228.jpg",
         "description": "GrandPat travels through alternate dimensions and timelines to get home.",
         "rating": 7.0,
         "videoUrl": "https://bestx.stream/v/V8Rek0va6SAw/"
@@ -1715,7 +1715,7 @@ const allMovies = [
             "Hailee Steinfeld",
             "Shameik Moore"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/06/Spider-Man-Across-the-Spider-Verse-2023-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/06/Spider-Man-Across-the-Spider-Verse-2023-152x228.jpg",
         "description": "After reuniting with Gwen Stacy, Brooklyn\u00e2\u20ac\u2122s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse\u00e2\u20ac\u2122s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
         "rating": 8795.0,
         "videoUrl": "https://bestx.stream/v/dN6etGxColTE/"
@@ -1735,7 +1735,7 @@ const allMovies = [
             "Awie",
             "W.A.R.I.S"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/05/cicXScHuMNZlonpQ1tPuJ2tnfsp-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/05/cicXScHuMNZlonpQ1tPuJ2tnfsp-152x228.jpg",
         "description": "Hora Horey.. come to sing and dance with Didi and Friends!",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/P30WU9Q6x3YS/"
@@ -1758,7 +1758,7 @@ const allMovies = [
             "Charlie Day",
             "Chris Pratt"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/04/The-Super-Mario-Bros.-Movie-2023-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/04/The-Super-Mario-Bros.-Movie-2023-152x228.jpg",
         "description": "Nonton The Super Mario Bros. Movie (2023) sub indo \u00e2\u20ac\u201c While working underground to fix a water main, Brooklyn plumbers\u00e2\u20ac\u201dand brothers\u00e2\u20ac\u201dMario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
         "rating": 7507.0,
         "videoUrl": "https://bestx.stream/v/54IQNrZ8GLJd/"
@@ -1783,7 +1783,7 @@ const allMovies = [
             "Luis P\u00c3\u00a9rez Reina",
             "\u00c3\u201cscar Barber\u00c3\u00a1n"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/03/qVdrYN8qu7xUtsdEFeGiIVIaYd-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/03/qVdrYN8qu7xUtsdEFeGiIVIaYd-152x228.jpg",
         "description": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
         "rating": 0.0,
         "videoUrl": "https://watchx.top/v/M5GAZZn5iJgL/"
@@ -1805,7 +1805,7 @@ const allMovies = [
             "Mandy Patinkin",
             "Noah Jupe"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/03/cAoAgzOCxSytYBqqCQulhXNR3LB-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/03/cAoAgzOCxSytYBqqCQulhXNR3LB-152x228.jpg",
         "description": "Peter is searching for his long-lost sister when he crosses paths with a fortune teller in the market square. His one one question is: is his sister still alive? The answer, that he must find a mysterious elephant and the magician who will conjure it, sets Peter off on a journey to complete three seemingly impossible tasks that will change the face of his town forever.",
         "rating": 0.0,
         "videoUrl": "https://watchx.top/v/r12dWt5OqQth/"
@@ -1827,7 +1827,7 @@ const allMovies = [
             "John DiMaggio",
             "Patrick Fabian"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/03/Batman-The-Doom-That-Came-to-Gotham-2023-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/03/Batman-The-Doom-That-Came-to-Gotham-2023-152x228.jpg",
         "description": "Explorer Bruce Wayne accidentally unleashes an ancient evil, and returns to Gotham after being away for two decades. There, Batman battles Lovecraftian supernatural forces and encounters allies and enemies such as Green Arrow, Ra\u00e2\u20ac\u2122s al Ghul, Mr. Freeze, Killer Croc, Two-Face and James Gordon.",
         "rating": 0.0,
         "videoUrl": "https://watchx.top/v/Yq39p5DyyLBZ/"
@@ -1848,7 +1848,7 @@ const allMovies = [
             "Harry Shum Jr.",
             "Meg Donnelly"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/02/8M6bA5t2q5u1nWDTEIXuGDwvboW-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/02/8M6bA5t2q5u1nWDTEIXuGDwvboW-152x228.jpg",
         "description": "Kara, devastated by the loss of Krypton, struggles to adjust to her new life on Earth. Her cousin, Superman, mentors her and suggests she leave their space-time to attend the Legion Academy in the 31st century, where she makes new friends and a new enemy: Brainiac 5. Meanwhile, she must contend with a mysterious group called the Dark Circle as it searches for a powerful weapon held in the Academy\u00e2\u20ac\u2122s vault.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/JyBdcgUbagaN/"
@@ -1870,7 +1870,7 @@ const allMovies = [
             "Sean Burgos",
             "Trevor Devall"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/01/muIaHotSaSUQr0KZCIJOYQEe7y2-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/01/muIaHotSaSUQr0KZCIJOYQEe7y2-152x228.jpg",
         "description": "This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they\u00e2\u20ac\u2122re going to need some help! Jerry\u00e2\u20ac\u2122s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it\u00e2\u20ac\u2122ll be a rootin\u00e2\u20ac\u2122 tootin\u00e2\u20ac\u2122 good time!",
         "rating": 6899.0,
         "videoUrl": "https://chillx.top/v/7oIXfa4SD7IU/"
@@ -1894,7 +1894,7 @@ const allMovies = [
             "Harvey Guillen",
             "Salma Hayek"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/01/lmf0zzR7ritjOL3qumRh3hfvOFK-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/01/lmf0zzR7ritjOL3qumRh3hfvOFK-152x228.jpg",
         "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
         "rating": 8533.0,
         "videoUrl": "https://chillx.top/v/aJnoQPntJxB3/"
@@ -1917,7 +1917,7 @@ const allMovies = [
             "Emilia Clarke",
             "Hugh Laurie"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/01/ydhZeUjbzVEFclUpMhLfDZSavUY-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/01/ydhZeUjbzVEFclUpMhLfDZSavUY-152x228.jpg",
         "description": "Every town on Discworld knows the stories about rats and pipers, and streetwise tomcat Maurice leads a band of educated rodent friends (and a stupid kid) on a nice little earner. Piper plus rats equals lots and lots of money. Until they run across someones playing a different tune. Now Maurice and his rats must learn a new concept: evil\u00e2\u20ac\u00a6",
         "rating": 6.0,
         "videoUrl": "https://chillx.top/v/JtSpwxCIoFUx/"
@@ -1940,7 +1940,7 @@ const allMovies = [
             "Josh Groban",
             "Joshua Henry"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/01/xWpahhg9ETkiPPsG10RtxecjK0v-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/01/xWpahhg9ETkiPPsG10RtxecjK0v-152x228.jpg",
         "description": "This two-hour animated and live-action blended special pays tribute to the original Disney Animation\u00e2\u20ac\u2122s \u00e2\u20ac\u0153Beauty and the Beast\u00e2\u20ac\u009d and its legacy by showcasing the fan-favorite movie, along with new memorable musical performances, taking viewers on a magical adventure through the eyes of Belle.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/RC3Y6k03HT0r/"
@@ -1962,7 +1962,7 @@ const allMovies = [
             "Jaboukie Young-White",
             "Jake Gyllenhaal"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/mPywkW1dfDer6GxxTvjwOTsAVud-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/mPywkW1dfDer6GxxTvjwOTsAVud-152x228.jpg",
         "description": "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades\u00e2\u20ac\u201da family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
         "rating": 6344.0,
         "videoUrl": "https://chillx.top/v/xnnlS2OlmO8f/"
@@ -1984,7 +1984,7 @@ const allMovies = [
             "Larry the Cable Guy",
             "Owen Wilson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/uT3bmwLIvnYyjLVnnlVoTI3OQUr-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/uT3bmwLIvnYyjLVnnlVoTI3OQUr-152x228.jpg",
         "description": "Lightning McQueen and his best friend Mater head east from Radiator Springs on a cross-country road trip to meet up with Mater\u00e2\u20ac\u2122s sister.",
         "rating": 0.0,
         "videoUrl": "https://www.youtube.com/embed/Z3CIRgq8B2s"
@@ -2005,7 +2005,7 @@ const allMovies = [
             "Ryan Potter",
             "Scott Adsit"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/7r07OcVMXB57D4mkCjeccGci9zC-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/7r07OcVMXB57D4mkCjeccGci9zC-152x228.jpg",
         "description": "Return to the fantastical city of San Fransokyo where the affable, inflatable, inimitable healthcare companion robot, Baymax, sets out to do what he was programmed to do: help others.",
         "rating": 8092.0,
         "videoUrl": "https://www.youtube.com/embed/7xidOWnzSu4"
@@ -2027,7 +2027,7 @@ const allMovies = [
             "Joshua Bassett",
             "Thomas Lennon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/mkRQn520JQD07BNP03NK3iKCaPD-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/mkRQn520JQD07BNP03NK3iKCaPD-152x228.jpg",
         "description": "Nick Daley is following in his father\u00e2\u20ac\u2122s footsteps as night watchman at the American Museum of Natural History, so he knows what happens when the sun goes down. But when the maniacal ruler Kahmunrah escapes, it is up to Nick to save the museum once and for all.",
         "rating": 6932.0,
         "videoUrl": "https://chillx.top/v/CymqG0X0MHFe/"
@@ -2048,7 +2048,7 @@ const allMovies = [
             "Ewan McGregor",
             "Gregory Mann"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/vx1u0uwxdlhV2MUzj4VlcMB0N6m-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/vx1u0uwxdlhV2MUzj4VlcMB0N6m-152x228.jpg",
         "description": "During the rise of fascism in Mussolini\u00e2\u20ac\u2122s Italy, a wooden boy brought magically to life struggles to live up to his father\u00e2\u20ac\u2122s expectations.",
         "rating": 8483.0,
         "videoUrl": "https://chillx.top/v/ZKW3mr09Ykhg/"
@@ -2069,7 +2069,7 @@ const allMovies = [
             "Scott Menville",
             "Tara Strong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/3Hnhf1FqVGnh20hKlHbiRvHhB5b-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/3Hnhf1FqVGnh20hKlHbiRvHhB5b-152x228.jpg",
         "description": "With the help of an ancient Kryptonian power, Lex Luthor unites the world\u00e2\u20ac\u2122s Super-Villains to capture all of Earth\u00e2\u20ac\u2122s Super Heroes, until\u00e2\u20ac\u00a6only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower \u00e2\u20ac\u201c where they find much-needed allies in the Teen Titans!",
         "rating": 6917.0,
         "videoUrl": "https://chillx.top/v/ndigQvjCKKI5/"
@@ -2092,7 +2092,7 @@ const allMovies = [
             "Ryu Seung-gone",
             "Shim Kyu-hyuck"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/3b3C7FWpQQa15J02x2zp53D8imF-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/3b3C7FWpQQa15J02x2zp53D8imF-152x228.jpg",
         "description": "Dalam masyarakat yang menyukai ketampanan, seorang siswa sekolah menengah yang terbuang menjalani kehidupan ganda dengan beralih di antara dua tubuhnya yang berpenampilan berlawanan.",
         "rating": 7.0,
         "videoUrl": "https://www.youtube.com/embed/LPgBQSya5rU"
@@ -2113,7 +2113,7 @@ const allMovies = [
             "JP Karliak",
             "Pierce Gagnon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/iMmMxF6f2OonUrXrHKBLSYAhXly-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/iMmMxF6f2OonUrXrHKBLSYAhXly-152x228.jpg",
         "description": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa\u00e2\u20ac\u2122s elves and gets stranded at the North Pole.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/J30pjON73qbS/"
@@ -2135,7 +2135,7 @@ const allMovies = [
             "Luke Evans",
             "Olivia Colman"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/nOrnzHn9SCF6JTXfX02eSPyAAXL-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/nOrnzHn9SCF6JTXfX02eSPyAAXL-152x228.jpg",
         "description": "On a cold Christmas Eve, selfish miser Ebenezer Scrooge has one night left to face his past \u00e2\u20ac\u201d and change the future \u00e2\u20ac\u201d before time runs out.",
         "rating": 7591.0,
         "videoUrl": "https://chillx.top/v/bk9I4TxCEEHq/"
@@ -2154,7 +2154,7 @@ const allMovies = [
             "Kirsten Day",
             "Tatiana Varria"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/8qb8cLDBAWdahrtixN2mQdI6e52-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/8qb8cLDBAWdahrtixN2mQdI6e52-152x228.jpg",
         "description": "Join Barbie \u00e2\u20ac\u0153Brooklyn\u00e2\u20ac\u009d Roberts, Barbie \u00e2\u20ac\u0153Malibu\u00e2\u20ac\u009d Roberts, and her sisters Skipper, Stacie, and Chelsea on an underwater adventure as they transform into mermaids to help save the world of Pacifica! In Barbie Mermaid Power\u00e2\u201e\u00a2, Barbie and Barbie are summoned by Isla (from Dolphin Magic) to compete to be the underwater Power Keeper in a series of challenges designed to find their inner powers. Through these competitions, they discover whether they are mermaids of Earth, Air, Water, or Fire, all while making new animal and mermaid friends. In this fish-tale of friendship, adventure, and bravery, Barbie, Barbie, and family experience first-hand what it\u00e2\u20ac\u2122s like to balance the worlds above and below the sea and learn a lesson in finding their inner powers along the way.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/FRz5Z2W3l5vE/"
@@ -2174,7 +2174,7 @@ const allMovies = [
             "Nevin Kar",
             "Sydney Thomas"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/12/a6MUJa8xIBQnx0a5Us5pEe38l9P-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/12/a6MUJa8xIBQnx0a5Us5pEe38l9P-152x228.jpg",
         "description": "The Action Pack teams up with Santa Claus to save the day when greedy Teddy Von Taker plots to steal all of the Christmas cheer from Hope Springs.",
         "rating": 10.0,
         "videoUrl": "https://chillx.top/v/hJTdaYJluxjP/"
@@ -2195,7 +2195,7 @@ const allMovies = [
             "Eric Bauza",
             "Jon Daly"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/11/jJatuRAVIsxAIszL3QTxrbIzxzc-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/11/jJatuRAVIsxAIszL3QTxrbIzxzc-152x228.jpg",
         "description": "Everyone\u00e2\u20ac\u2122s favorite yellow canary unexpectedly becomes next in line for the crown when the queen of an island paradise disappears. His Little Highness\u00e2\u20ac\u2122 entourage includes motorbike daredevil Granny and sly Sylvester, whose allegiance is tested when he uncovers a sinister plot to eliminate Tweety for good.",
         "rating": 7.0,
         "videoUrl": "https://chillx.top/v/yuhE0PjQEXHv/"
@@ -2217,7 +2217,7 @@ const allMovies = [
             "Rikiya Koyama",
             "Wakana Yamazaki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/11/20rPbh8WIRns9D71zSgHv61lNCA-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/11/20rPbh8WIRns9D71zSgHv61lNCA-152x228.jpg",
         "description": "Shibuya, Tokyo, is bustling with the Halloween season. A wedding is being held at Shibuya Hikarie, where Detective Miwako Sato of the Metropolitan Police Department is dressed in a wedding dress. While Conan and the other invited guests are watching, an assailant suddenly bursts in, and Detective Wataru Takagi, who was trying to protect Sato, is injured. Takagi survived and the situation was settled, but in Sato\u00e2\u20ac\u2122s eyes, the image of the grim reaper that she had seen when Detective Matsuda, the man she had been in love with, had been killed in a series of bombings three years ago, overlapped with Takagi\u00e2\u20ac\u2122s.",
         "rating": 6038.0,
         "videoUrl": "https://chillx.top/v/ax2n9kXFdGC5/"
@@ -2239,7 +2239,7 @@ const allMovies = [
             "Minami Takayama",
             "Wataru Takagi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/11/6LZWf5nX9XjtySTCnBFDgXhHJh5-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/11/6LZWf5nX9XjtySTCnBFDgXhHJh5-152x228.jpg",
         "description": "A feature-length companion piece for the film \u00e2\u20ac\u0153Detective Conan: The Bride of Halloween.\u00e2\u20ac\u009d It consists of clips from past Conan TV series episodes associated with Detectives Miwako Sato and Wataru Takagi, showing the adventures they went through together and how they have grown to attracted to each other. This serves as a great companion to \u00e2\u20ac\u0153The Bride of Halloween,\u00e2\u20ac\u009d detailing the history of two lovebirds along with their (former) colleagues at the police headquarters, to dedicated Conan fans to help appreciate \u00e2\u20ac\u0153The Bride of Halloween\u00e2\u20ac\u009d even more.",
         "rating": 8.0,
         "videoUrl": "https://chillx.top/v/7lJvRMU2Ke4F/"
@@ -2262,7 +2262,7 @@ const allMovies = [
             "Michelle Jenner",
             "\u00c3\u201cscar Barber\u00c3\u00a1n"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/11/jvIVl8zdNSOAJImw1elQEzxStMN-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/11/jvIVl8zdNSOAJImw1elQEzxStMN-152x228.jpg",
         "description": "Tad would love for his archeologist colleagues to accept him as one of their own, but he always messes everything up. Tad accidentally destroys a sarcophagus and unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure that will take him from Mexico to Chicago and from Paris to Egypt, in order to put an end to the curse of the Mummy.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/cG9xGOuexlpk/"
@@ -2285,7 +2285,7 @@ const allMovies = [
             "Golshifteh Farahani",
             "Jacob Tremblay"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/11/6hgEe1w0An5fKi3ZqIUBwOyIN2y-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/11/6hgEe1w0An5fKi3ZqIUBwOyIN2y-152x228.jpg",
         "description": "Struggling to cope after a move to the city with his mother, Elmer runs away in search of Wild Island and a young dragon who waits to be rescued. Elmer\u00e2\u20ac\u2122s adventures introduce him to ferocious beasts, a mysterious island and the friendship of a lifetime.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/D3m5hXa0RDK8/"
@@ -2306,7 +2306,7 @@ const allMovies = [
             "Megan Rapinoe",
             "Zlatan Ibrahimovi\u00c4\u2021"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/11/sWoYDNPNZs5MtzPbirXV73tIHrA-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/11/sWoYDNPNZs5MtzPbirXV73tIHrA-152x228.jpg",
         "description": "When mysterious green slime monsters start popping out of soccer balls, all-star athletes Zlatan Ibrahimovi\u00c4\u2021 and Megan Rapinoe must team up with their four biggest fans to stop evil scientist \u00e2\u20ac\u0153Weird Al\u00e2\u20ac\u009d Yankovic from stealing their talent.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/wUh0IY4TL9HK/"
@@ -2327,7 +2327,7 @@ const allMovies = [
             "Jack Griffo",
             "Laura Bailey"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/11/nBaVsNvUxIuvhPw3xTaAJIw8me4-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/11/nBaVsNvUxIuvhPw3xTaAJIw8me4-152x228.jpg",
         "description": "After discovering he has powers, 11-year-old Jonathan Kent and assassin-turned-Boy-Wonder Damian Wayne must join forces to rescue their fathers (Superman & Batman) and save the planet from the malevolent alien force known as Starro.",
         "rating": 8008.0,
         "videoUrl": "https://chillx.top/v/KXSHzYCjaRnj/"
@@ -2349,7 +2349,7 @@ const allMovies = [
             "Keegan-Michael Key",
             "Lyric Ross"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/10/5dsX6UAHqkQz1kiV8bs8SvjyVNa-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/10/5dsX6UAHqkQz1kiV8bs8SvjyVNa-152x228.jpg",
         "description": "Two demon brothers enlist the aid of Kat Elliot \u00e2\u20ac\u201d a tough teen with a load of guilt \u00e2\u20ac\u201d to summon them to the Land of the Living. But what Kat demands in return leads to a brilliantly bizarre and comedic adventure like no other.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/S9NlmnFJP13n/"
@@ -2371,7 +2371,7 @@ const allMovies = [
             "Mayumi Tanaka",
             "Sh\u00c3\u00bbichi Ikeda"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/10/m80kPdrmmtEh9wlLroCp0bwUGH0-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/10/m80kPdrmmtEh9wlLroCp0bwUGH0-152x228.jpg",
         "description": "Uta \u00e2\u20ac\u201d the most beloved singer in the world. Her voice, which she sings with while concealing her true identity, has been described as \u00e2\u20ac\u0153otherworldly.\u00e2\u20ac\u009d She will appear in public for the first time at a live concert. As the venue fills with all kinds of Uta fans \u00e2\u20ac\u201d excited pirates, the Navy watching closely, and the Straw Hats led by Luffy who simply came to enjoy her sonorous performance \u00e2\u20ac\u201d the voice that the whole world has been waiting for is about to resound.",
         "rating": 7296.0,
         "videoUrl": "https://chillx.top/v/63QWYlP2v4mf/"
@@ -2396,7 +2396,7 @@ const allMovies = [
             "Shogo Sakata",
             "Tomori Kusunoki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/10/npdB6eFzizki0WaZ1OvKcJrWe97-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/10/npdB6eFzizki0WaZ1OvKcJrWe97-152x228.jpg",
         "description": "Denji has a simple dream\u00e2\u20ac\u201dto live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.",
         "rating": 8.0,
         "videoUrl": "https://www.youtube.com/embed/j9sSzNmB5po"
@@ -2417,7 +2417,7 @@ const allMovies = [
             "Julian Maroun",
             "Margot Nuccetelli"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/10/a3ZpDsvNCQUOD7ApAs9y3mFwVU4-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/10/a3ZpDsvNCQUOD7ApAs9y3mFwVU4-152x228.jpg",
         "description": "Mia discovers her magic stone is part of an ancient prophecy and embarks on a thrilling journey to the farthest islands of Centopia to face a great evil, and shape her own destiny.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/exBTLynpJ0l6/"
@@ -2439,7 +2439,7 @@ const allMovies = [
             "Pierre Coffin",
             "Raymond S. Persi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/10/wCQBzTOigP5eCyBAjQGlWYNo5DR-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/10/wCQBzTOigP5eCyBAjQGlWYNo5DR-152x228.jpg",
         "description": "This collection of Minions shorts from the \u00e2\u20ac\u0153Despicable Me\u00e2\u20ac\u009d franchise includes mini-movies like \u00e2\u20ac\u0153Training Wheels,\u00e2\u20ac\u009d \u00e2\u20ac\u0153Puppy\u00e2\u20ac\u009d and \u00e2\u20ac\u0153Yellow Is the New Black.\u00e2\u20ac\u009d",
         "rating": 7375.0,
         "videoUrl": "https://chillx.top/v/r1NQQqSH0doB/"
@@ -2462,7 +2462,7 @@ const allMovies = [
             "Ayumu Murase",
             "Mutsumi Tamura"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/09/iNf1wC8cK6e8zgNyuMUqWFT7Din-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/09/iNf1wC8cK6e8zgNyuMUqWFT7Din-152x228.jpg",
         "description": "Sixth-graders Kosuke and Natsume grew up in the same apartment building as childhood friends. During summer break, while playing in the apartment building that is set to be demolished, they find themselves caught in a strange phenomenon. All they can see around them is a vast sea. Will Kosuke and the others make it back to their world? A journey of farewells in summer has just begun.",
         "rating": 7156.0,
         "videoUrl": "https://chillx.top/v/DqYGRCFNdcvv/"
@@ -2483,7 +2483,7 @@ const allMovies = [
             "Li Daikun",
             "Zhang Lei"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/08/s6Q7dsbI6tMj4SYi22SKREYHiqs-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/08/s6Q7dsbI6tMj4SYi22SKREYHiqs-152x228.jpg",
         "description": "",
         "rating": 6.0,
         "videoUrl": "https://chillx.top/v/q4UGjJ1RZwZ2/"
@@ -2506,7 +2506,7 @@ const allMovies = [
             "John Krasinski",
             "Kevin Hart"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/08/r7XifzvtezNt31ypvsmb6Oqxw49-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/08/r7XifzvtezNt31ypvsmb6Oqxw49-152x228.jpg",
         "description": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack \u00e2\u20ac\u201c Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel \u00e2\u20ac\u201c to master their own newfound powers and help him rescue the superheroes.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/ntBaxQzWkaOG/"
@@ -2528,7 +2528,7 @@ const allMovies = [
             "Billy Dee Williams",
             "Kelly Marie Tran"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/08/2SatEFCs04oFRqkZuY1fODYXeFI-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/08/2SatEFCs04oFRqkZuY1fODYXeFI-152x228.jpg",
         "description": "Looking for a much-needed break, Finn arranges a surprise vacation for his friends Rey, Poe, Rose, Chewie, BB-8, R2-D2, and C-3PO, aboard the luxurious Halcyon. However, Finn\u00e2\u20ac\u2122s plan to have one last hurrah together quickly goes awry.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/WQ8818mwXoo0/"
@@ -2550,7 +2550,7 @@ const allMovies = [
             "Jane Fonda",
             "Simon Pegg"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/08/1HOYvwGFioUFL58UVvDRG6beEDm-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/08/1HOYvwGFioUFL58UVvDRG6beEDm-152x228.jpg",
         "description": "Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/xgnQtvCmEj4u/"
@@ -2572,7 +2572,7 @@ const allMovies = [
             "Ricky Gervais",
             "Samuel L. Jackson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/07/vccE9bBa9mgghFpkWzU1fQqmOKB-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/07/vccE9bBa9mgghFpkWzU1fQqmOKB-152x228.jpg",
         "description": "A hard-on-his-luck hound finds himself in a town full of cats in need of a hero to defend them from a ruthless villain\u00e2\u20ac\u2122s wicked plot to wipe their village off the map. With help from a reluctant mentor, our underdog must assume the role of town samurai and team up with the villagers to save the day.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/rY9PZc0TvP8a/"
@@ -2593,7 +2593,7 @@ const allMovies = [
             "Ike Amadi",
             "Jimmi Simpson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/07/gFfLw8kQtNizeabdFBPSYIhe3UM-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/07/gFfLw8kQtNizeabdFBPSYIhe3UM-152x228.jpg",
         "description": "Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn\u00e2\u20ac\u2122t come with instructions \u00e2\u20ac\u201c but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/TwfxTNmuWllV/"
@@ -2616,7 +2616,7 @@ const allMovies = [
             "Keke Palmer",
             "Peter Sohn"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/07/vpILbP9eOQEtdQgl4vgjZUNY07r-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/07/vpILbP9eOQEtdQgl4vgjZUNY07r-152x228.jpg",
         "description": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.",
         "rating": 7.0,
         "videoUrl": "https://chillx.top/v/KLkXP1Hz8bKF/"
@@ -2637,7 +2637,7 @@ const allMovies = [
             "John Roberts",
             "Kristen Schaal"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/07/31vliI2mopLlh5kUoWpJZ19cF8y-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/07/31vliI2mopLlh5kUoWpJZ19cF8y-152x228.jpg",
         "description": "When a ruptured water main creates an enormous sinkhole right in front of Bob\u00e2\u20ac\u2122s Burgers, it blocks the entrance indefinitely and ruins the Belchers\u00e2\u20ac\u2122 plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family\u00e2\u20ac\u2122s restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/pSIp6M2rqVHT/"
@@ -2660,7 +2660,7 @@ const allMovies = [
             "Russell Brand",
             "Steve Carell"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/07/wKiOkZTN9lUUUNZLmtnwubZYONg-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/07/wKiOkZTN9lUUUNZLmtnwubZYONg-152x228.jpg",
         "description": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/Eh9A44Z6Z08i/"
@@ -2682,7 +2682,7 @@ const allMovies = [
             "Karl Urban",
             "Zaris-Angel Hator"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/07/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/07/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d-152x228.jpg",
         "description": "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/RETLLKj0AW5x/"
@@ -2704,7 +2704,7 @@ const allMovies = [
             "Jun Fukuyama",
             "Rie Takahashi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/06/rxu2MgncYDe6CGSASAwIaC4SHbR-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/06/rxu2MgncYDe6CGSASAwIaC4SHbR-152x228.jpg",
         "description": "Once upon a time, in a far, faraway place, there were two lands. The world was divided into an inner land and an outer land. People feared the outer land, inhabited by eerie beings, the carriers of curse. One day, on the border to the inner land inhabited by humans, one such being finds a girl on heaps of abandoned dead bodies. The girl says her name is Shiva and shows affection to the \u00e2\u20ac\u0153being\u00e2\u20ac\u009d who found her, calling him \u00e2\u20ac\u0153Teacher.\u00e2\u20ac\u009d This is a story of two people\u00e2\u20ac\u201done human, one inhuman\u00e2\u20ac\u201dwho linger in the hazy twilight that separates night from day.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/VSuBUzAqx3b5/"
@@ -2727,7 +2727,7 @@ const allMovies = [
             "Jordan Tartakow",
             "Laila Berzins"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/06/2v6f1EqTo4FUxVT9MDXpF6158AX-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/06/2v6f1EqTo4FUxVT9MDXpF6158AX-152x228.jpg",
         "description": "Young Chickenhare is the adopted son of King Peter, a famous adventurer. Part chicken and part hare, he has a really tough time growing up and disguises himself as a hare to avoid the mockeries of his peers. When the day of the Royal Adventurer Society trials comes, Chickenhare, hampered by his disguise, fails miserably. But he is determined to grab a second chance and find the Scepter of the Hamster of Darkness, before his evil Uncle Lapin. The Scepter will give immense power to its holder. If Lapin gets hold of it, he will be unstoppable. Accompanied by his faithful servant Abe, a sarcastic turtle, and Meg, a martial arts expert skunk, he sets of on an epic and initiatory quest.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/kfLb16pMzzi9/"
@@ -2750,7 +2750,7 @@ const allMovies = [
             "John Mulaney",
             "KiKi Layne"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/05/7UGmn8TyWPPzkjhLUW58cOUHjPS-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/05/7UGmn8TyWPPzkjhLUW58cOUHjPS-152x228.jpg",
         "description": "Decades after their successful television series was canceled, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again when a former cast mate mysteriously disappears.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/8hprR928hgma/"
@@ -2771,7 +2771,7 @@ const allMovies = [
             "Julie Nathanson",
             "Pete Davidson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/05/tvhX4QQnMyMjlFeShLCXovvbf0c-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/05/tvhX4QQnMyMjlFeShLCXovvbf0c-152x228.jpg",
         "description": "Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak and a penchant for mischief that is tempered with a deep sense of love and responsibility for his human family, the Winslows. The new animation is set in the world of elite dog shows, rife divas, rivalries and slapstick comedy.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/JPfZrx7ITPF3/"
@@ -2815,7 +2815,7 @@ const allMovies = [
             "Jun Shison",
             "Riria"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/04/kk28Lk8oQBGjoHRGUCN2vxKb4O2-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/04/kk28Lk8oQBGjoHRGUCN2vxKb4O2-152x228.jpg",
         "description": "In an abandoned Tokyo overrun by bubbles and gravitational abnormalities, one gifted young man has a fateful meeting with a mysterious girl.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/hQ1VIBDhJuIH/"
@@ -2836,7 +2836,7 @@ const allMovies = [
             "Lee Eddy",
             "Milo Coy"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/04/fBShWJhX4oMlDicPHocQc7wDPlt-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/04/fBShWJhX4oMlDicPHocQc7wDPlt-152x228.jpg",
         "description": "A man narrates stories of his life as a 10-year-old boy in 1969 Houston, weaving tales of nostalgia with a fantastical account of a journey to the moon.",
         "rating": 0.0,
         "videoUrl": "https://beastx.top/v/ChVEYnA5TuqT/"
@@ -2857,7 +2857,7 @@ const allMovies = [
             "Eve",
             "Hanon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/03/vI3aahilqPyMpNQQ7421GSEHRLX-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/03/vI3aahilqPyMpNQQ7421GSEHRLX-152x228.jpg",
         "description": "Anime, live action and music by cutting-edge artist Eve \u00e2\u20ac\u201d all weave together into this dreamlike sonic experience inspired by the story of Adam and Eve.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/yvUNHbavVkK7/"
@@ -2879,7 +2879,7 @@ const allMovies = [
             "Rosalie Chiang",
             "Sandra Oh"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/03/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/03/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ-152x228.jpg",
         "description": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist \u00e2\u20ac\u201c when she gets too excited, she transforms into a giant red panda.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/1WnrrGMn6xrQ/"
@@ -2900,7 +2900,7 @@ const allMovies = [
             "Olivia Cooke",
             "William Shatner"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/02/nmD0vZk8jQg1Suhs0iv9cj0xdtZ-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/02/nmD0vZk8jQg1Suhs0iv9cj0xdtZ-152x228.jpg",
         "description": "The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/v69HSToRkR5a/"
@@ -2921,7 +2921,7 @@ const allMovies = [
             "Jonathan Banks",
             "Stephanie Beatriz"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/02/oS0iKblZSNfQscOJb7IAEt0ZnhS-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/02/oS0iKblZSNfQscOJb7IAEt0ZnhS-152x228.jpg",
         "description": "Catwoman\u00e2\u20ac\u2122s attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/IXCJT2FE0lSE/"
@@ -2943,7 +2943,7 @@ const allMovies = [
             "Simon Pegg",
             "Vincent Tong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/01/zzXFM4FKDG7l1ufrAkwQYv2xvnh-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/01/zzXFM4FKDG7l1ufrAkwQYv2xvnh-152x228.jpg",
         "description": "The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck\u00e2\u20ac\u2122s home: The Dinosaur World.",
         "rating": 8.0,
         "videoUrl": "https://chillx.top/v/EbUIU5laqOB6/"
@@ -2966,7 +2966,7 @@ const allMovies = [
             "Kathryn Hahn",
             "Selena Gomez"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/01/6zt5l4DYV1kLPL5Vqz1kLq3THXD-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/01/6zt5l4DYV1kLPL5Vqz1kLq3THXD-152x228.jpg",
         "description": "When Van Helsing\u00e2\u20ac\u2122s mysterious invention, the \u00e2\u20ac\u0153Monsterfication Ray,\u00e2\u20ac\u009d goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it\u00e2\u20ac\u2122s too late, and before they drive each other crazy.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/3KVFxVejfcF9/"
@@ -2989,7 +2989,7 @@ const allMovies = [
             "Ella Purnell",
             "Hailee Steinfeld"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/11/Arcane-S2-2024.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/11/Arcane-S2-2024.jpg",
         "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
         "rating": 0.0,
         "videoUrl": "https://www.youtube.com/embed/3Svs_hl897c"
@@ -3006,7 +3006,7 @@ const allMovies = [
         ],
         "sutradara": "Franz Kirchner",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/03/fQAO0q26u4l5OEHPbjGwqXBUuMB-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/03/fQAO0q26u4l5OEHPbjGwqXBUuMB-152x228.jpg",
         "description": "When Nebulous Industries announces they are recruiting Rabbids for a mission to Mars, Hibernation Rabbid doesn\u00e2\u20ac\u2122t think twice. As a genius Rabbid misunderstood by his stupid peers, he has always dreamed of going to the red planet. He takes off with three other Rabbids: Disco, the lively queen of the dance-floor, Cosmo, the pilot and Mini, the adorable tiny Rabbid. Facing an interplanetary space threat, our heroes will have to learn how to overcome their differences and understand that true wisdom comes from the heart!",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/2wq6-c26l0kdn-1"
@@ -3028,7 +3028,7 @@ const allMovies = [
             "Maaya Sakamoto",
             "Miyu Irino"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/03/zVeyEpClF1Oxjg2UBJl62HRgC2m-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/03/zVeyEpClF1Oxjg2UBJl62HRgC2m-152x228.jpg",
         "description": "A year after losing her mother, a young girl learns that she must journey across Japan to the annual gathering of gods in the sacred land of Izumo.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/ldzj7bn6wjy3314"
@@ -3050,7 +3050,7 @@ const allMovies = [
             "Nobuhiko Okamoto",
             "Y\u00c3\u00bbki Kaji"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/03/4NUzcKtYPKkfTwKsLjwNt8nRIXV-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/03/4NUzcKtYPKkfTwKsLjwNt8nRIXV-152x228.jpg",
         "description": "A mysterious group called Humarize strongly believes in the Quirk Singularity Doomsday theory which states that when quirks get mixed further in with future generations, that power will bring forth the end of humanity. In order to save everyone, the Pro-Heroes around the world ask UA Academy heroes-in-training to assist them and form a world-classic selected hero team. It is up to the heroes to save the world and the future of heroes in what is the most dangerous crisis to take place yet in My Hero Academia.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/1wm4-cj4526e-zk"
@@ -3075,7 +3075,7 @@ const allMovies = [
             "Khary Payton",
             "Scott Menville"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/03/rMoVOCw6DF3zC6hS76ZhQMWiXNX-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/03/rMoVOCw6DF3zC6hS76ZhQMWiXNX-152x228.jpg",
         "description": "The Teen Titans are visited by the Nerdlucks, the Space Jam villains who tried to capture Michael Jordan and the Looney Tunes. Astonished to discover his fellow Titans have never seen Space Jam, Cyborg organizes an exclusive watch party.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/RUh6iw0Y7w6M/"
@@ -3098,7 +3098,7 @@ const allMovies = [
             "Pierce Brosnan",
             "Sam Hardy"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/01/yn9DrhUBPrUTFEUHtdXSxgWcFTA-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/01/yn9DrhUBPrUTFEUHtdXSxgWcFTA-152x228.jpg",
         "description": "A young Irish boy named Keegan and Spanish girl named Moya journey into a magical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life. Based on the stage show phenomenon of the same name and featuring Bill Whelan\u00e2\u20ac\u2122s multi-platinum Grammy Award-winning music.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/oexbQqeXeBPj/"
@@ -3120,7 +3120,7 @@ const allMovies = [
             "Reese Witherspoon",
             "Scarlett Johansson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/01/aWeKITRFbbwY8txG5uCj4rMCfSP-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/01/aWeKITRFbbwY8txG5uCj4rMCfSP-152x228.jpg",
         "description": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/RcYEtqwTxnlR/"
@@ -3141,7 +3141,7 @@ const allMovies = [
             "Jessie T. Usher",
             "Matthew Rhys"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/01/yPZ3I27oeSm4zVesgMxXlhW8GDe-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/01/yPZ3I27oeSm4zVesgMxXlhW8GDe-152x228.jpg",
         "description": "After his best friend is killed in a shark attack, Quinn, a lovable yet tenacious seal assembles a SEAL TEAM to fight back against a gang of sharks overtaking the neighborhood. But this merry band of international seals are not at all trained for such a mission. They seek the help of a much more skillful combatant, Claggart, but even his tricks and flips can\u00e2\u20ac\u2122t whip these guys into shape. However, with a little bit of ingenuity, intelligence and a lot of heart, our SEAL TEAM may actually be able to bring peace back to their undersea community.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/e87jes-2pyl54z8"
@@ -3163,7 +3163,7 @@ const allMovies = [
             "Bella Ramsey",
             "Oliver Nelson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2022/01/kLltzS6akC5Klto8ROEHSJOuztw-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2022/01/kLltzS6akC5Klto8ROEHSJOuztw-152x228.jpg",
         "description": "When Hilda wakes up in the body of a troll, she must use her wits and courage to get back home, become human again \u00e2\u20ac\u201d and save the city of Trolberg.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/d86jlsx-zgrww5m"
@@ -3185,7 +3185,7 @@ const allMovies = [
             "Mar\u00c3\u00ada Cecilia Botero",
             "Stephanie Beatriz"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/4j0PNHkMr5ax3IA8tjtxcmPU3QT-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/4j0PNHkMr5ax3IA8tjtxcmPU3QT-152x228.jpg",
         "description": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal\u00e2\u20ac\u201devery child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family\u00e2\u20ac\u2122s last hope.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/nrqj0s20gm3zelq"
@@ -3209,7 +3209,7 @@ const allMovies = [
             "Minami Takayama",
             "Wakana Yamazaki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/fnDNBzt3jIOvA3xnnGXYYHnh0dZ-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/fnDNBzt3jIOvA3xnnGXYYHnh0dZ-152x228.jpg",
         "description": "At the opening ceremony of the WSG (World Sports Games) Tokyo Games, a sports festival held once every four years, it is announced that the world\u00e2\u20ac\u2122s first vacuum superconducting maglev with a maximum speed of 1,000 kilometers per hour will open. While attracting attention from around the world, top executives of large companies are kidnapped from the party venue where WSG tournament sponsors gather. Conan moves toward a solution and eventually finds a connection with the WSG abduction case that occurred 15 years ago in Boston, USA.",
         "rating": 7.0,
         "videoUrl": "https://drmaserial.xyz/v/3w57-cmq7wd5x65"
@@ -3230,7 +3230,7 @@ const allMovies = [
             "Nahanni Mitchell",
             "Terry Klassen"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/qLzgNOTXla5gjT9yQbcR7IMm0Fi-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/qLzgNOTXla5gjT9yQbcR7IMm0Fi-152x228.jpg",
         "description": "Summersette\u00e2\u20ac\u2122s biggest baddies join forces on New Year\u00e2\u20ac\u2122s Eve to battle Zoey and the Beam Team. But cool cousin Zara powers up to help save the day!",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/d86jlsx-rjq-67p"
@@ -3252,7 +3252,7 @@ const allMovies = [
             "Julien Crampon",
             "Kaycie Chase"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/pWPTnHtvlmggjGonie1VZNKViLV-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/pWPTnHtvlmggjGonie1VZNKViLV-152x228.jpg",
         "description": "Passepartout is a young and scholarly marmoset who always dreams of becoming an explorer. One day, he crosses paths with Phileas, a reckless and greedy frog, eager to take on a bet to circumnavigate the globe in 80 days and earn 10 million clams in the process. Seizing the opportunity of a lifetime to explore the world, Passepartout embarks with his new friend on a crazy and exhilarating adventure full of twists and surprises.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/nrqj0s20j-6g3lm"
@@ -3273,7 +3273,7 @@ const allMovies = [
             "Stephen A. Smith",
             "Will Arnett"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/mVKfyo2YQ1Sf0fKzZfc5t9HM6eK-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/mVKfyo2YQ1Sf0fKzZfc5t9HM6eK-152x228.jpg",
         "description": "In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father\u00e2\u20ac\u2122s footsteps by coaching a loveable underdog monster into a champion.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/y3jzyseg3kgjg5j"
@@ -3293,7 +3293,7 @@ const allMovies = [
             "Isabella Leo",
             "Wyatt White"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/p0ONYt2cw0vPEnZIoOHq1Ki7Ifm-152x228.jpg",
         "description": "After finding out her grandmother won\u00e2\u20ac\u2122t be visiting for Christmas, Lucy decides to cheer herself up by throwing the ultimate New Year\u00e2\u20ac\u2122s Eve party. Meanwhile, Charlie Brown tries to fulfill one of his resolutions before the clock strikes midnight.",
         "rating": 6.0,
         "videoUrl": "https://chillx.top/v/bKxchnHAlkD2/"
@@ -3315,7 +3315,7 @@ const allMovies = [
             "Isla Fisher",
             "Tim Minchin"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/zNXNRLH5wJprUG6B1olaBTNZOjy-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/zNXNRLH5wJprUG6B1olaBTNZOjy-152x228.jpg",
         "description": "Tired of being locked in a reptile house where humans gawk at them like they are monsters, a ragtag group of Australia\u00e2\u20ac\u2122s deadliest creatures plot an escape from their zoo to the Outback, a place where they\u00e2\u20ac\u2122ll fit in without being judged.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/4wld-czxnjllr50"
@@ -3337,7 +3337,7 @@ const allMovies = [
             "Jack Dylan Grazer",
             "Zach Galifianakis"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/gA9QxSravC2EVEkEKgyEmDrfL0e-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/gA9QxSravC2EVEkEKgyEmDrfL0e-152x228.jpg",
         "description": "In a world where walking, talking, digitally connected bots have become children\u00e2\u20ac\u2122s best friends, an 11-year-old finds that his robot buddy doesn\u00e2\u20ac\u2122t quite work the same as the others do.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/rzj7kcekz0q-37m"
@@ -3357,7 +3357,7 @@ const allMovies = [
             "Justin Fletcher",
             "Kate Harbour"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/1eh6Yv6bAU2ghHxP1zgUlMfaOR3-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/1eh6Yv6bAU2ghHxP1zgUlMfaOR3-152x228.jpg",
         "description": "Shaun\u00e2\u20ac\u2122s seasonal excitement turns to dismay when a farmhouse raid to get bigger stockings for the flock inadvertently leads to Timmy going missing. Can Shaun get Timmy back before he becomes someone else\u00e2\u20ac\u2122s present?",
         "rating": 7.0,
         "videoUrl": "https://drmaserial.xyz/v/3w57-cmqg-5mx61"
@@ -3379,7 +3379,7 @@ const allMovies = [
             "Fuzheng Zhang",
             "Tang Xiaoxi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/1j0KEGm2fSihFwl1sgM5mu2XE3S-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/1j0KEGm2fSihFwl1sgM5mu2XE3S-152x228.jpg",
         "description": "While trying to free her sister from Fahai\u00e2\u20ac\u2122s clutches, Xiao Qing/Verta winds up in a dystopian city and meets a mysterious man who can\u00e2\u20ac\u2122t recall his past lives. The sequel to Light Chaser\u00e2\u20ac\u2122s animated film about the legend of the White Snake.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/2wq6-c2wd86klmy"
@@ -3400,7 +3400,7 @@ const allMovies = [
             "Elisabeth Ventura",
             "\u00c3\u2030ric Herson-Macarel"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/12/iowz7MwaTWMYlfLUE6GeM0m3Hze-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/12/iowz7MwaTWMYlfLUE6GeM0m3Hze-152x228.jpg",
         "description": "A photojournalist\u00e2\u20ac\u2122s obsessive quest for the truth about the first expedition to Mt. Everest leads him to search for an esteemed climber who went missing.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/j61j4hd4d4383r0"
@@ -3421,7 +3421,7 @@ const allMovies = [
             "Gillian Anderson",
             "Richard E. Grant"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/bKIdlJbd17rrIm4oZzhXTbmqpon-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/bKIdlJbd17rrIm4oZzhXTbmqpon-152x228.jpg",
         "description": "A bird raised by mice begins to question where she belongs and sets off on a daring journey of self-discovery.",
         "rating": 7.0,
         "videoUrl": "https://drmaserial.xyz/v/wej1lanl7yx7wj2"
@@ -3442,7 +3442,7 @@ const allMovies = [
             "Patton Oswalt",
             "Richard E. Grant"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/fn2Qf36nD7CvduaaJ1EbLdSpDo7-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/fn2Qf36nD7CvduaaJ1EbLdSpDo7-152x228.jpg",
         "description": "In this ultra-violent, fantasy epic, ancient dark magic falls into sinister hands and unleashes ages of suffering onto mankind. A group of heroes from different eras and cultures must band together in order to defeat it at all costs.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/z4jmxujx2z71m5m"
@@ -3466,7 +3466,7 @@ const allMovies = [
             "Hailee Steinfeld",
             "Katie Leung"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/fqldf2t8ztc9aiwn3k6mlX3tvRT-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/fqldf2t8ztc9aiwn3k6mlX3tvRT-152x228.jpg",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai \u00e2\u20ac\u0153Kota Bawah Tanah\u00e2\u20ac\u009d. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri. Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo. Serial Arcane merupakan adaptasi dari permainan League of Legends (LOL) yang mendunia. Arcane dikembangkan dan diproduksi oleh Riot Games yang bekerja sama dengan Fortice Productions. Dua karakter utama dalam serial ini, yaitu Vi dan Powder, juga merupakan karakter legendaris dalam game LOL. Secara garis besar, sinopsis Arcane bercerita tentang aksi keduanya untuk menjatuhkan ketidakadilan yang dihadapi oleh masyarakat kota Zaun.",
         "rating": 0.0,
         "videoUrl": "https://www.youtube.com/embed/3Svs_hl897c"
@@ -3486,7 +3486,7 @@ const allMovies = [
             "Nancy Cartwright",
             "Yeardley Smith"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/p5jzbffrXuBTjsiwrQ3aOMTrvCj-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/p5jzbffrXuBTjsiwrQ3aOMTrvCj-152x228.jpg",
         "description": "The Simpsons host a Disney+ Day party and everyone is on the list\u00e2\u20ac\u00a6 except Homer. With friends from across the service and music fit for a Disney princess, Plusaversary is Springfield\u00e2\u20ac\u2122s event of the year.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/k7kj6f36-84dq48"
@@ -3507,7 +3507,7 @@ const allMovies = [
             "Izaac Wang",
             "Jack Whitehall"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/ygPTrycbMSFDc5zUpy4K5ZZtQSC-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/ygPTrycbMSFDc5zUpy4K5ZZtQSC-152x228.jpg",
         "description": "As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/AjPSRuYFZYNv/"
@@ -3529,7 +3529,7 @@ const allMovies = [
             "Jacob Tremblay",
             "Marco Barricelli"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/buq1OIx6nGsknTy2cHxWTqKXVB-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/buq1OIx6nGsknTy2cHxWTqKXVB-152x228.jpg",
         "description": "With his best friend Luca away at school, Alberto is enjoying his new life in Portorosso working alongside Massimo \u00e2\u20ac\u201c the imposing, tattooed, one-armed fisherman of a few words \u00e2\u20ac\u201c who\u00e2\u20ac\u2122s quite possibly the coolest human in the entire world as far as Alberto is concerned. He wants more than anything to impress his mentor, but it\u00e2\u20ac\u2122s easier said than done.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/j61j4hd4xnq8qp5"
@@ -3551,7 +3551,7 @@ const allMovies = [
             "Lilly Bartlam",
             "Will Brisbin"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/ic0intvXZSfBlYPIvWXpU1ivUCO-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/ic0intvXZSfBlYPIvWXpU1ivUCO-152x228.jpg",
         "description": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/z4jmxujx8yrj13w"
@@ -3573,7 +3573,7 @@ const allMovies = [
             "Tang Xiaoxi",
             "\u00e6\u00ad\u00aa\u00e6\u00ad\u00aa"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/1j0KEGm2fSihFwl1sgM5mu2XE3S-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/1j0KEGm2fSihFwl1sgM5mu2XE3S-152x228.jpg",
         "description": "Endless abyss, ruins, foreign objects, entanglement, everything indicates that this catastrophe about Xiaoqing is coming. The sequel to Light Chaser\u00e2\u20ac\u2122s animated film about the legend of the White Snake.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/y3jzyseg5gwy8ry"
@@ -3598,7 +3598,7 @@ const allMovies = [
             "Jorge R. Gutierrez",
             "Zoe Saldana"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/10/zUBixNeHU0cbSUH7JMktl9OMEMV-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/10/zUBixNeHU0cbSUH7JMktl9OMEMV-152x228.jpg",
         "description": "Sinopsis Singkat Maya and the Three (2021) \u00e2\u20ac\u201c Film serial animasi ini menceritakan tentang seorang putri prajurit Mesoamerika memulai pencarian untuk merekrut tiga pejuang legendaris. Hal itu ia lakukan untuk membantu menyelamatkan dunia para dewa dan umat manusia. Di dunia yang fantastis, di mana sihir mengubah dunia dan empat kerajaan menguasai tanah. Di mana seorang putri pejuang pemberani dan pemberontak bernama Maya akan merayakan ulang tahun kelima belas dan penobatannya. Tapi semuanya berubah ketika para dewa dunia bawah datang. Di mana para dewa tersebut mengumumkan bahwa nyawa Maya telah diserahkan kepada Dewa Perang.Yakni harga yang harus dia bayar untuk masa lalu rahasia keluarganya. Jika Maya menolak, seluruh dunia akan menderita pembalasan para dewa. Untuk menyelamatkan keluarga tercinta, teman-temannya, dan hidupnya sendiri. Kemudian Maya memulai pencarian mendebarkan untuk memenuhi ramalan kuno yang meramalkan kedatangan tiga pejuang hebat yang akan membantunya mengalahkan para dewa dan menyelamatkan umat manusia.",
         "rating": 0.0,
         "videoUrl": "https://www.youtube.com/embed/QrPMlYSbkEQ"
@@ -3620,7 +3620,7 @@ const allMovies = [
             "Justin Hartley",
             "Laura Bailey"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/10/lNRdCfVcjLs2LhO1Vb5rgnHV4JW-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/10/lNRdCfVcjLs2LhO1Vb5rgnHV4JW-152x228.jpg",
         "description": "When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=OtOhQ0kvYVUXCPX5oJN83w9tHxWDLe9%252F%252FTVYE%252BGz6%252FgtJ%252Fy%252Fpgo33PFPxs8r1xNz9lkUCYRFjWQlSm%252Fk4FnmUA4N%252Bw6BJ%252BdLIAIo2MM3cbJMbBLhjJTbg8LBoePbmvSRswCZy%252B18FItBbrI%252BX%252BSLXnOzLEzrMl5k2cU9LRG8SyX77kyUhxeQmqGhYXYKEanW34zSOXnrp2VeHMNEM2GlwAsRWKE8blDBvOPwHoSfas2w%253D%253D"
@@ -3641,7 +3641,7 @@ const allMovies = [
         "artis": [
             "Jeffrey Wright"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/10/lztz5XBMG1x6Y5ubz7CxfPFsAcW-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/10/lztz5XBMG1x6Y5ubz7CxfPFsAcW-152x228.jpg",
         "description": "Peggy Carter yang mendapatkan serum super dan membuatnya menjadi Captain Carter. Dalam MCU yang selama ini dikenal, serum tersebut diberikan pada Steve Rogers dan membuatnya menjadi Captain America.",
         "rating": 0.0,
         "videoUrl": "https://www.youtube.com/embed/IPjjbhAJyZM"
@@ -3662,7 +3662,7 @@ const allMovies = [
             "Chlo\u00c3\u00ab Grace Moretz",
             "Oscar Isaac"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/10/xYLBgw7dHyEqmcrSk2Sq3asuSq5-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/10/xYLBgw7dHyEqmcrSk2Sq3asuSq5-152x228.jpg",
         "description": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?c2tyRjhoVktRMjA4K05jWElpVDV4WHJFRlgyb2hXVjRDYWREdDQvN1Q2TVhZRW9wVWwwUlErRDcyUFhBd3BpWEJ0NGJmMUt3RFppb2xsYTFvYVhrd0diZUVSeFcyYVNHdmYrOTdEL2dNaW1LdjVZWldKZWM3MkJkNGNyNWNTM1h0bXI1MzlWNGlObDhMSGVNZG5odXR3PT06Otbja%2B4Ytxz%2B4HsuEN%2BqrFM%3D"
@@ -3685,7 +3685,7 @@ const allMovies = [
             "Jake Green",
             "Raphael Alejandro"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/10/fYiaBZDjyXjvlY6EDZMAxIhBO1I-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/10/fYiaBZDjyXjvlY6EDZMAxIhBO1I-152x228.jpg",
         "description": "Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader\u00e2\u20ac\u2122s castle and is renovating it into the galaxy\u00e2\u20ac\u2122s first all-inclusive Sith-inspired luxury hotel.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/wej1lanj43l22e5"
@@ -3709,7 +3709,7 @@ const allMovies = [
             "Kimiko Glenn",
             "Vanessa Hudgens"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/09/hzq5XRGgm6NDMOW1idUvbpGqEkv-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/09/hzq5XRGgm6NDMOW1idUvbpGqEkv-152x228.jpg",
         "description": "Equestria\u00e2\u20ac\u2122s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals \u00e2\u20ac\u201d and, hoof to heart, she\u00e2\u20ac\u2122s determined to prove it.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/DSAhptIH9AZK/"
@@ -3729,7 +3729,7 @@ const allMovies = [
             "Josh Duhamel",
             "Katharine Isabelle"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/09/mluarGbxZjgvhe5bteR7P24HHAw-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/09/mluarGbxZjgvhe5bteR7P24HHAw-152x228.jpg",
         "description": "An animated retelling of \u00e2\u20ac\u02dcNight of the Living Dead\u00e2\u20ac\u2122, in which a group of people in a rural farmhouse struggle to survive the threat of bloodthirsty zombies.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?a0U3T1VTbFZPZjdEaktNQnduemNGMTdsMmM0SVZ6ZkZ3M1hmd1ZWTE1KNG5Pc2F0ZDZxakY1WDB4ZVk4NElsVE1na2FKNTNPSkw1ZjEyR1VzcW4yWkVnTDB1UU1nVTEwVlN4R3EwNEFna0R1Ui9tOFkwdHlyZThOVzgzbGdHTERXenVIMkZBYnd3R1lTbnhqeWRRUGF3PT06Ogk51yMYDw8twOwjlT%2FExr4%3D"
@@ -3751,7 +3751,7 @@ const allMovies = [
             "Ken Jeong",
             "Rachel Bloom"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/09/tRnPT88iD5zgeUPjHqaZznrxk5m-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/09/tRnPT88iD5zgeUPjHqaZznrxk5m-152x228.jpg",
         "description": "Op and Ed, two adorable donut-shaped animals \u00e2\u20ac\u201c flummels \u00e2\u20ac\u201c accidentally time-travel from 1835 to modern-day Shanghai. There they discover traffic, trans fats, and worst of all, that flummels are now extinct. It\u00e2\u20ac\u2122s up to this bumbling pair to save themselves and their species\u00e2\u20ac\u00a6and, just maybe, change the course of history.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?NE5yU0JZQjVrOU5FNzdRZ0xhMlVSaUxZSnJDbVd0aHRhdHdYZ3MzNlYxbTQwOTNjbHRBVjVzUG5ROGVCaWVQWDB4K3RVWWRvbmxOdnliaGVaclNsczFob0VLeFNNNU96VlVzblJESEgxOEVGNE8rRXhYRThBZHpkdVNlWmYxamlMZG94YWRpelNWSlZXb1BzeGszNmVBPT06OmRFd9G9IE%2BLb7kcqfgzb0I%3D"
@@ -3772,7 +3772,7 @@ const allMovies = [
             "Gustavo Dudamel",
             "Los Angeles Philharmonic"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/09/kU3EJpMLrGrrzcZ0oIgBiFvXbpj-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/09/kU3EJpMLrGrrzcZ0oIgBiFvXbpj-152x228.jpg",
         "description": "Fresh off the heels of her brand-new album, \u00e2\u20ac\u0153Happier Than Ever,\u00e2\u20ac\u009d this cinematic concert experience features an intimate performance of every song in the album\u00e2\u20ac\u2122s sequential order \u00e2\u20ac\u201c for the first and only time \u00e2\u20ac\u201c from the stage of the legendary Hollywood Bowl.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?Z2JNMlF0UHhMM1BvYWtnS3YyM1VmTmpuMFR0Rkg1cDJ5VlppclJJNXhYM1Jxa3h5Y2lOQ1dJekhkaHd4eHFQM1ZETTFSNjJNK09DTVVINmhaNmFiZWdCdFFybmpmZVRaU205NmF1NnM1bFpGS1BiRVQ3N25odEVpcW5YbFl6REMzQkRzK2JqaTZoa3VFQXd6WGJ0WWRBPT06OtlDl4akiuNa3znv6QTJ7Xc%3D"
@@ -3793,7 +3793,7 @@ const allMovies = [
             "Joel McHale",
             "Jordan Rodrigues"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/09/ablrE8IbWcIrAxMmm4gnPn75AMS-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/09/ablrE8IbWcIrAxMmm4gnPn75AMS-152x228.jpg",
         "description": "The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/ldzj7bn7pwrm4rq"
@@ -3814,7 +3814,7 @@ const allMovies = [
             "Lara Pulver",
             "Theo James"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/08/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/08/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ-152x228.jpg",
         "description": "Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?eUZEc0diSzBraU92WjFCWkxVeXlDaHNnMExZLzQ3MmowQmljaTdPMTdtd0tZVUdmcTg3ZjA5TFBwd2F1VEMrdlRmMzFwSWJCZ0htaUtWMmg3TURMZVZ0YVM1UXYwdGZuSk9VcmYrdzV0RUlzVStLV1ZYSEFicWdjdUtETFJ2WUlxcDB2R0JrTGRrUzJyMEVwYzhMZ2ZRPT06OjySjCT7FN8wVdT4OD0Cpq0%3D"
@@ -3836,7 +3836,7 @@ const allMovies = [
             "Catherine Taber",
             "Liliana Mumy"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/08/mab5wPeGVjbMyYMzyzfdKKnG9cl-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/08/mab5wPeGVjbMyYMzyzfdKKnG9cl-152x228.jpg",
         "description": "The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?dlBNcWJFTVl0MGprZW4yOGQrYy9WVENVTDBIcURCaXZGU2lNWXVVNC9KYm85YTZNT2lkQzhUWFcySVJabHhmbXBqeVdhUGMrOGdRY0N3ME1kTkNYUFkvMFQrUHpvRHUxS2lQK1ZxZ3ljSVU3UFE5b0RuOU9vRm8rcEpwcGlDU0ttUSs3eHI3a3NiejJVUDFzRWtwNm93PT06Oj8Bx%2BBVZBBse0BNzK%2Boajo%3D"
@@ -3858,7 +3858,7 @@ const allMovies = [
             "Megumi Ogata",
             "Yuko Miyamura"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/08/q034rbTWteRNA8sMSc2YjegmiUx-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/08/q034rbTWteRNA8sMSc2YjegmiUx-152x228.jpg",
         "description": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei search for refuge in the desolate red remains of Tokyo-3. But the danger to the world is far from over. A new impact is looming on the horizon\u00e2\u20ac\u201done that will prove to be the true end of Evangelion.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?Qktub3lXSDVIUXdmcDBRcGl5SUdVQmtZT2loTUdZWmpNaUJCMjlBZkhIOFBTMzJZcVUydWNQcm9ScHFtdVVyNTIvZGpoVXp5WVA0T3p0T1d0ZFhTYVdhRHc4QVZVeFFmMGRMTTdWSmlvRCtmWTRJaEZxclEzT0x4UEhWWFE3V1ZJYVQyenc0ZktWaHFYRU9zZUFoVCtnPT06OtuGW5wjiJLS5C4eijsvGCo%3D"
@@ -3880,7 +3880,7 @@ const allMovies = [
             "Dante Basco",
             "Erica Lindbeck"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/08/fctSbleL7ozVcGyC163nPv4arW1-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/08/fctSbleL7ozVcGyC163nPv4arW1-152x228.jpg",
         "description": "In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?VlJ0Q1dqR3IyY3liSW9nQzRCOXk0MjdobEVhdGltOG80SysvampLWHZZTVVsVnVSeFY3eGg0dzFZOUF0djAwSWNOMWpEUnFLK0FxUTFNL0ZWUDZKYUxPckEwR1pKTlVCTnphUmtIbkljSmUvZlgvVlpFUkl3MTV2ZFhwcWNRRGlDalRBOVdBRkszaytxbUpZVTZyaDR3PT06OgYoH61YR3KtrJQXOrY7ZuA%3D"
@@ -3903,7 +3903,7 @@ const allMovies = [
             "Ynairaly Simo",
             "Zoe Saldana"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/08/eRLlrhbdYE7XN6VtcZKy6o2BsOw-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/08/eRLlrhbdYE7XN6VtcZKy6o2BsOw-152x228.jpg",
         "description": "Vivo, Sony Pictures Animation\u00e2\u20ac\u2122s first-ever musical adventure featuring all-new original songs from Lin-Manuel Miranda, will take audiences on an epic adventure to gorgeous and vibrant locations never before seen in animation.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?OG5iZDdxc3N1K2NEc3ZSWnJ0OUtVUEdSMm10YzBXK1ljeldxN1R0WHRobDFvc2Fyc1o0cFA0cnNsNUdqcVZPUTZIOTFiTDQ0eWhHdTlaNUo0SERXU3d3Ny9LaHJXbW0zUXZXNElXTGZtVDJ2RURISlE1cE53SjFMa2s2c2xYR01RNTZWL0pUZDZJeDN3ZFhrQzUyTktnPT06OpVkRDFaTM%2B%2F2dVwOf8ubBo%3D"
@@ -3926,7 +3926,7 @@ const allMovies = [
             "Mark Hamill",
             "Sarah Michelle Gellar"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/08/vIhyANmvTiBjlmX0Uy48Z9AD24j-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/08/vIhyANmvTiBjlmX0Uy48Z9AD24j-152x228.jpg",
         "description": "Setelah Eternia terpecah akibat pertempuran tragis, Teela dan seorang sekutu tak terduga harus mencegah agar Semesta tidak musnah di sekuel film klasik \u00e2\u20ac\u212280-an ini.",
         "rating": 7.0,
         "videoUrl": "https://www.youtube.com/embed/iXdEeRBh9Zk"
@@ -3951,7 +3951,7 @@ const allMovies = [
             "Emile Hirsch",
             "Lexi Medrano"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/07/zvUNFeTz0Sssb210wSiIiHRjA4W-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/07/zvUNFeTz0Sssb210wSiIiHRjA4W-152x228.jpg",
         "description": "Arcadia may look like an ordinary town, but it lies at the center of magical and mystical lines that makes it a nexus for many battles among otherworldly creatures, including trolls, aliens, and wizards. Now, various heroes will team-up in an epic adventure where they must fight the Arcane Order for control over the magic that binds them all together.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?ZXZ6QVJQSWlzYS93YnBublk4a0NJRVkzYW1adkN2T1B1TmtVU25id2xUVkpDeEpKUjNqR2NTYk5XQ0hHcGtrbFExUVBGcHJ4UVZJWkNoWE1iWnV3S2JIQTNtSTBjSEY5dXc2NjJKWk0vK2NmTk1sZ0c5ajhrY0YzZi9zUWNveFVmcGFCWEhTM3diR1lZSG9wSUhJaFZRPT06OqTSTx3JTkTTuIyBAqEshhw%3D"
@@ -3973,7 +3973,7 @@ const allMovies = [
             "Don Cheadle",
             "LeBron James"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/07/5bFK5d3mVTAvBCXi5NPWH0tYjKl-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/07/5bFK5d3mVTAvBCXi5NPWH0tYjKl-152x228.jpg",
         "description": "When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.\u00e2\u20ac\u2122s digitized champions on the court. It\u00e2\u20ac\u2122s Tunes versus Goons in the highest-stakes challenge of his life.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/m0mjds5jznyd2pw"
@@ -3996,7 +3996,7 @@ const allMovies = [
             "Nick Apostolides",
             "Stephanie Panisello"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/07/wWwTjKER5a8LRUGHrw86VU0gUy1-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/07/wWwTjKER5a8LRUGHrw86VU0gUy1-152x228.jpg",
         "description": "Bertahun-tahun setelah kengerian Raccoon City, Leon dan Claire menemukan diri mereka termakan oleh konspirasi gelap ketika serangan virus merusak Gedung Putih.",
         "rating": 8.0,
         "videoUrl": "https://www.youtube.com/embed/56_gTT-O7Nw"
@@ -4018,7 +4018,7 @@ const allMovies = [
             "Dino Andrade",
             "Thom Hoffman"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/07/mHnKFqciQeaZASXHcr65NKfQp83-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/07/mHnKFqciQeaZASXHcr65NKfQp83-152x228.jpg",
         "description": "A girl was born and grew up in the deepest jungle of the Amazon, Colonia, that rests on the back of the most powerful Mother Spirit in the Amazon, Turtle Motelo Mama. One day she discovers that her homeland is being threatened and realizes that there are other humans in the world besides her people. As she fights to save her paradise against the greed and exploitation of children, logging, and illegal mining, she begins to struggle to reverse this destruction and impending evil of the Yucuruna, the darkness that lives in the Amazon. Guided by her mother\u00e2\u20ac\u2122s spirit, Ainbo is determined to save her land and save her people before it\u00e2\u20ac\u2122s too late.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?L3lOY1QyaTNteVlvOFROSzVyL2VqQXNDZ2NxODN3WEdIUXBJNkJ6dFFoSC9qajlNZTM2dkJ2dm9VYnZxRW5BVjdXMllNNHZpTlE1N1o4UEpNcjlmMXBTSzludDExZU9JKzFrWURnYThVdUdjbWRwWENxNFFFUHBTVTBLWThOaE5KMUl6M1lQeTMyWGw5MDBFcmlhRDZBPT06OjTvpRXAmqdAf2UdlWU3PHw%3D"
@@ -4040,7 +4040,7 @@ const allMovies = [
             "James Marsden",
             "Jeff Goldblum"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/07/5dExO5G2iaaTxYnLIFKLWofDzyI-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/07/5dExO5G2iaaTxYnLIFKLWofDzyI-152x228.jpg",
         "description": "The Templeton brothers \u00e2\u20ac\u201d Tim and his Boss Baby little bro Ted \u00e2\u20ac\u201d have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again \u00e2\u20ac\u00a6 and inspire a new family business.",
         "rating": 8.0,
         "videoUrl": "https://drmaserial.xyz/v/z4jmxujxy6ld-r2"
@@ -4063,7 +4063,7 @@ const allMovies = [
             "James Corden",
             "Rose Byrne"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/07/cycDz68DtTjJrDJ1fV8EBq2Xdpb-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/07/cycDz68DtTjJrDJ1fV8EBq2Xdpb-152x228.jpg",
         "description": "Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can\u00e2\u20ac\u2122t seem to shake his mischievous reputation. Adventuring out of the garden, Peter finds himself in a world where his mischief is appreciated, but when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.",
         "rating": 0.0,
         "videoUrl": "https://racaty.my.id/stream/1303830204"
@@ -4086,7 +4086,7 @@ const allMovies = [
             "Jason Mantzoukas",
             "Olivia Munn"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/07/j0HnLa6FtGcslbqClKOIyvCXfpe-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/07/j0HnLa6FtGcslbqClKOIyvCXfpe-152x228.jpg",
         "description": "A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?NGZvMjljaXoraWRPUUtWbEFJZ0RWMnJId29Sa2l0bGZDRkp2TE1qTEIxQ3NDUG5DekU4TldNOVRhQ25ucG5NdVhXb2s2SDd5V3crcndid2lTNFZoVUl0VjFRMnBTVGdhVjNMd1JtQ3owNWg3dmk2N250MFhSbENtWUFYM1NOcEUwTEo5MFZLdXRzeERyUjZxZlpFUmpnPT06OjvmJOPMqPwcm%2FX40bU2kW0%3D"
@@ -4108,7 +4108,7 @@ const allMovies = [
             "Jake Gyllenhaal",
             "Julianne Moore"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/06/5cbGVDmRMYVzkq5cItZ7cYlDdDR-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/06/5cbGVDmRMYVzkq5cItZ7cYlDdDR-152x228.jpg",
         "description": "When Lucky, a young society girl, moves to the West to join her estranged father, she starts a new chapter in her life as she makes new friends, and forms an unbreakable bond with a wild stallion she names Spirit. Together, the girls and their horses undertake the adventure of a lifetime when they must save the stallion\u00e2\u20ac\u2122s herd from a gang of horse wranglers, proving to themselves to be true Western heroes.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?L3FxNVhic0VwSCtGRFpTR2NDY0hnNWRpZ2Z4SUJGUitWRnF4dnc0L0E1UDJFdVhEcWJCekVuVnEvK0IvQ25zWW1GcHZIaWQyK1FRVkVEb2FSNk1VcmhIVlJVN2lzaHJ4OXJXVU9FYktielJoR3NiNDRpWWZkZWFqTFBoZVlQMGpRUCtvYS9Ha1lNL1ZPTTJjQnFIQlNnPT06OnOcjD6Xqpx8qXlRAoMuTSY%3D"
@@ -4130,7 +4130,7 @@ const allMovies = [
             "Jack Dylan Grazer",
             "Jacob Tremblay"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/06/eSQvGZPUpDk9oCfi2R6NKzqPAV5-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/06/eSQvGZPUpDk9oCfi2R6NKzqPAV5-152x228.jpg",
         "description": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water\u00e2\u20ac\u2122s surface.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/rzj7kce-5-xqw8z"
@@ -4154,7 +4154,7 @@ const allMovies = [
             "Danny McBride",
             "Maya Rudolph"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/05/1RjkFdP1pQrqQ3DYKuxR9JnQ5JO-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/05/1RjkFdP1pQrqQ3DYKuxR9JnQ5JO-152x228.jpg",
         "description": "A quirky, dysfunctional family\u00e2\u20ac\u2122s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity\u00e2\u20ac\u2122s unlikeliest last hope.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/j61j4hd4m8gjege"
@@ -4175,7 +4175,7 @@ const allMovies = [
             "Richard Ayoade",
             "Tina Fey"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/05/32vLDKSzcCMh55zqqaSqqUA8naz-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/05/32vLDKSzcCMh55zqqaSqqUA8naz-152x228.jpg",
         "description": "Set before the events of \u00e2\u20ac\u02dcSoul\u00e2\u20ac\u2122, 22 refuses to go to Earth, enlisting a gang of 5 new souls in attempt of rebellion. However, 22\u00e2\u20ac\u2122s subversive plot leads to a surprising revelation about the meaning of life.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/0wz2-cln8k-z5--"
@@ -4196,7 +4196,7 @@ const allMovies = [
             "Matt Bomer",
             "Stana Katic"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/05/e4REOC6CZW8J6FslA4nRvdQXFXR-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/05/e4REOC6CZW8J6FslA4nRvdQXFXR-152x228.jpg",
         "description": "While speeding off to help in an impromptu battle, The Flash blazes and rips through time, only to find himself dropped into the middle of World War II. It\u00e2\u20ac\u2122s here that The Flash meets Wonder Woman and her top secret team, known as the Justice Society of America. Amidst the raging tides of war, gripping combat and the velocity of valor, The Flash must fight to return to his own timeline.",
         "rating": 0.0,
         "videoUrl": "https://drmaserial.xyz/v/1wm4-cj1qx36r7r"
@@ -4215,7 +4215,7 @@ const allMovies = [
             "Laila Berzins",
             "Nakia Burrise"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/04/rdFdIIFC8kb43ymcepCTrU6Bs6f-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/04/rdFdIIFC8kb43ymcepCTrU6Bs6f-152x228.jpg",
         "description": "Enjoy high-sea thrills as Barbie, Chelsea and the rest of the Roberts family set sail on an adventure cruise. \u00e2\u20ac\u0153Barbie & Chelsea The Lost Birthday\u00e2\u20ac\u009d tells the story of Chelsea, Barbie\u00e2\u20ac\u2122s precocious youngest sister, and the rest of the Roberts family as they set sail on an adventure cruise for her seventh birthday. When they cross the International Date Line, Chelsea discovers her actual birthday has been lost and she embarks on a fantastical journey through an enchanted jungle island in order to save it.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/m0mjds5lnql4-64"
@@ -4236,7 +4236,7 @@ const allMovies = [
             "Guy Nadon",
             "Karine Vanasse"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/04/mEaX5EIK6e9Qt6Wj0szK6TR0lPc-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/04/mEaX5EIK6e9Qt6Wj0szK6TR0lPc-152x228.jpg",
         "description": "Taking advantage of his mother\u00e2\u20ac\u2122s absence as she departs on a cruise ship for some rest and relaxation, 12-year-old F\u00c3\u00a9lix sets out to find his father, a fisherman who disappeared at sea two years earlier.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/2wq6-c2jy43jq72"
@@ -4257,7 +4257,7 @@ const allMovies = [
             "Mary Lambert",
             "Michael J. Woodard"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/04/oOQMJM7G2W8v2AEK722k8welIJY-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/04/oOQMJM7G2W8v2AEK722k8welIJY-152x228.jpg",
         "description": "Upon learning that he is from New York City, a wide-eyed boy, who is half human and half alligator, decides to leave his sheltered life in the swamp and search for his long lost father. A musical adventure.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/wej1lanr6j8n682"
@@ -4278,7 +4278,7 @@ const allMovies = [
             "Tianxiang Yang",
             "Xuan Xiaoming"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/04/Nazha-Reborn-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/04/Nazha-Reborn-152x228.jpg",
         "description": "3000 years after the boy-god Nezha conquers the Dragon King then disappears in mythological times, he returns as an ordinary man to find his own path to becoming a true hero.",
         "rating": 7.0,
         "videoUrl": "https://www.fembed.com/v/53w0-sdx2l31y30"
@@ -4300,7 +4300,7 @@ const allMovies = [
             "Jimmy Wong",
             "John Cho"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/03/Wish-Dragon-2021-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/03/Wish-Dragon-2021-152x228.jpg",
         "description": "Din, a working-class college student, and Long, a cynical but all-powerful dragon capable of granting wishes, set off on a hilarious adventure through modern day Shanghai in pursuit of Din\u00e2\u20ac\u2122s long-lost childhood friend, Lina.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/k7kj6f35765p14m"
@@ -4321,7 +4321,7 @@ const allMovies = [
             "Irina Obrezkova",
             "Valery Smekalov"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/03/Secret-Magic-Control-Agency-2021-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/03/Secret-Magic-Control-Agency-2021-152x228.jpg",
         "description": "The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/1wm4-cjkem8q5lz"
@@ -4343,7 +4343,7 @@ const allMovies = [
             "Izaac Wang",
             "Kelly Marie Tran"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/03/Raya-and-the-Last-Dragon-2021-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/03/Raya-and-the-Last-Dragon-2021-152x228.jpg",
         "description": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it\u00e2\u20ac\u2122s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?b1RwaDRyV3hTTVJnVWp2WWhhZnVoWVEybmZVSHB6VnYwcEhoeXpOOHJJNmMzMktNbVRBeGRmbzFpWTh6cXhKT0hKVTJwTWJRZ3RIZ1d5Rmt6YlhvUFBHdVhTMWszSW1ucWovNm5WTnkrUlgzTmttZEJvZHRJVWJFeVMzYWJUa2N0bmxPVW5TS00wRmxBOFdlTnMwS2pnPT06Ok6SrCFD%2BlMNRXB2XVmNOlg%3D"
@@ -4365,7 +4365,7 @@ const allMovies = [
             "Mel Blanc",
             "William Hanna"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/Tom-Jerry-2021-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/Tom-Jerry-2021-152x228.jpg",
         "description": "One of the most beloved rivalries in history is reignited when Jerry moves into New York City\u00e2\u20ac\u2122s finest hotel on the eve of \u00e2\u20ac\u0153the wedding of the century,\u00e2\u20ac\u009d forcing Kayla, the event\u00e2\u20ac\u2122s desperate planner, to hire Tom to get rid of him. The ensuing cat and mouse battle threatens to destroy her career, the wedding and possibly the hotel itself. But soon, an even bigger problem arises: a diabolically ambitious staffer conspiring against all three of them. An eye-popping blend of classic animation and live action, Tom and Jerry\u00e2\u20ac\u2122s new big-screen adventure stakes new ground for the iconic characters and forces them to do the unthinkable\u00e2\u20ac\u00a6 work together to save the day.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/wej1lanr2047k8e"
@@ -4388,7 +4388,7 @@ const allMovies = [
             "Grey DeLisle",
             "Matthew Lillard"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/5ad9ODDyCgtWPJDxB0FpXmmeEKq-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/5ad9ODDyCgtWPJDxB0FpXmmeEKq-152x228.jpg",
         "description": "An evil sorceress transports the gang back to the age of chivalrous knights, spell-casting wizards, and fire-breathing dragons.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/53w0-sdede203wj"
@@ -4411,7 +4411,7 @@ const allMovies = [
             "Kelly Hu",
             "Mark Dacascos"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/jzhbZZWHMOxVF9uz8lNilDEx8dl.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/jzhbZZWHMOxVF9uz8lNilDEx8dl.jpg",
         "description": "Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?d2ZMOE5sbm9kSFVZRytzV1RyTGQwNjN5aGI2elk2ZnVNODlvWlZ2WUFQb1JEcklaSnhQODNja2toZDI2L2tvSVJ2cFp1aXRiRVMyRXZVVkp5Tk4zbHEwKzlJU1NRUUFveXNacFZYZjJDYUk1ZTNUNEx1NS84dHR3WnFCVHA3WXE1ZVBPTmMwczdNVWdkQ0w4R1BxV01XU2JqRWswY1NBcjQ1UHRnekRZMkUvdStqYlplSHROd3ZKMXJ6Y25NMXEvaVNWZ0l0T3VmTDZjSGNLWEpOUGFwTlQ1U0VkNEh2SE8yYmszbHVyazNRV1dRdXZVZ2xVUGVmbXRENzdxQko5clB6eE1ZbkhNR1BGYTdQbkhuYXFXQVBXa2txZEIvWlYrVjlVU2hBZGZGTDh1alYrbHNxUWNZc21ScWJDRGdUb3Q6OqWKDpmE9v2MZKKUdEGmm0o%3D"
@@ -4432,7 +4432,7 @@ const allMovies = [
             "Lee Tockar",
             "Lisa Durupt"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/ohWU8bPbAK5WEAboIabivld9Hyw.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/ohWU8bPbAK5WEAboIabivld9Hyw.jpg",
         "description": "Overwhelmed with his Kingly duties, Norm\u00e2\u20ac\u2122s crown is stolen and he embarks on a journey to find it in conjunction with repairing his family\u00e2\u20ac\u2122s relationship.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?blIxbXc1M2YxMVBtQ25MTUlCZyttbXh0WktWMW9xajkxS2NMQnBUY1dyaWpNSHM1aDE5QXM4eHlTOEZuYkkwL0xjRUNVZ3NJckNXV1FlbEhZSG1sSHBKYmp6WHpYWExPRmxoL04xVWZSZGNRQysrL1hYVDlXR0pzV3dwVlB2Ti9OZUdxMDZwbHc4MVEwVFprbTdVVXdVOEN0eW1JcUZXL3NXS0hVRmNvaFdCTEh6bDVDdGJWK0x1KzVOdjRtWS83WlpaUklMeTZPV3FOM2lYejNvRDl0Y1JaMVh3S3RLSjFQbWRJWE50N1IwK2QwTi8zQ3RqY0RrMlRTK3gxUjE0K25naTk5MnpnUGMwbGdKNWhzNzZBUkEwdTA5VGpCM0VZWDUrREtGeWpDN2c2eDlBVUJwV2pHR2N3S2VCaSt0dnphaDFMS1pEWkh0blRCSFp5NjNGbjNRPT06OisPmDW916LOY2Uu%2F0wUr8Y%3D"
@@ -4456,7 +4456,7 @@ const allMovies = [
             "Colin O\u00e2\u20ac\u2122Donoghue",
             "Lena Headey"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/10/aAMcPNLzCML40q7qmuB0jrZIcsI-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/10/aAMcPNLzCML40q7qmuB0jrZIcsI-152x228.jpg",
         "description": "Merlin\u00e2\u20ac\u2122s apprentice joins Arcadia\u00e2\u20ac\u2122s heroes on a time-bending adventure in Camelot, where conflict is brewing between the human, troll and magical worlds.",
         "rating": 8232.0,
         "videoUrl": "https://www.youtube.com/embed/nb_Y_r821vg"
@@ -4479,7 +4479,7 @@ const allMovies = [
             "Hiro Shimono",
             "Natsuki Hanae"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/05/h8Rb9gBr48ODIwYUttZNYeMWeUU-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/05/h8Rb9gBr48ODIwYUttZNYeMWeUU-152x228.jpg",
         "description": "Tanjir\u00c5\u008d Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar\u00e2\u20ac\u2122s head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Ky\u00c5\u008djur\u00c5\u008d Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/k7kj6f311-476w1"
@@ -4498,7 +4498,7 @@ const allMovies = [
             "Wasabi Mizuta",
             "Yumi Kakazu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/04/mu5t94c8IZU781aMg1E1FKinYG2-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/04/mu5t94c8IZU781aMg1E1FKinYG2-152x228.jpg",
         "description": "She and her beloved Shizuka are finally married! Nobita\u00e2\u20ac\u2122s childhood dream was supposed to come true on his wedding day, but for some reason, Nobita doesn\u00e2\u20ac\u2122t show up\u00e2\u20ac\u00a6 One of the most popular episodes from the original story transcends time and space, and leads to Nobita\u00e2\u20ac\u2122s future. Doraemon and Nobita\u00e2\u20ac\u2122s great adventure begins in order to fulfill his grandmother\u00e2\u20ac\u2122s wish to see his bride at first sight. This is a story of tears and bonds, set in the past, present and future.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/64xr-u04x6xnq72"
@@ -4516,7 +4516,7 @@ const allMovies = [
         ],
         "sutradara": "Weifeng Deng",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/ljSzSwaceFCJuquz1n75Lwv9Jb4.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/ljSzSwaceFCJuquz1n75Lwv9Jb4.jpg",
         "description": "Brightheart and her insect buddies form a task force called the Firefly Action Brigade to protect and serve their village. One day their peace is broken by a mysterious alien spaceship landing nearby, and it\u00e2\u20ac\u2122s up to them to save the day.",
         "rating": 10.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?U3ZKckRnOWlGcVhDc1pXSjZoMlhyYVJUVC9rNGdWblp4bmltcDFRa0ZJRi9rQnk0MTl5MFptU2s4dlJyMy9UUHBCOGJiTXdZdHREekM5bkFOOE55d2ZDd3JiZ1FCdUN4dFpCNlFMQW1MalBqS0VVd2hjcS9YTXd6T0UwRTZ1RVFiRDZ3Ym1PbVBIQ1htd0ZGd2hTdy9xYlZJSnNlV3lpYi9zODkrZHplbjhhTTdwUzc5WklsNEdWQ1NXYWFQcFE0Rk11MDF2cDFSN0ZzVUJLQXY5aGhyL3FhUW9UVEtDVWFXNE1nSkUzSnNxQ3Y5UTdiQnNtMXVreGZsbnRKTUIwYUlHaWpHSG9iYkRxenFQejRiU3BQMjBObVlMaUlwTW9mYU1RWFdId09wZWRaeUY1bDVpb0pxZ09vUWowU3g3TUs3NGVpc0hrM3dnVlVtc240MmhNd3VBPT06OqGpgKZgFfpPzEPgSxaIowc%3D"
@@ -4536,7 +4536,7 @@ const allMovies = [
             "Simon Greenall",
             "Teresa Gallagher"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/wlizMbZByBYPOC4i2AN64e4W1iM.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/wlizMbZByBYPOC4i2AN64e4W1iM.jpg",
         "description": "The Octonauts embark on an underwater adventure, navigating a set of challenging caves to help a small octopus friend return to the Caribbean Sea.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?aE5Cb2hOd3NacnpvRWlBR0FHL3I5Q01QQW9adytSNlVtaHc0aXVkK1dWTkNnUVJUaEtHWlEzNEtHeG14aDJ5ZUk0aE1OKzFQeHpJRkpvekJUaFJqK2ZKbStVNStacG56T2FJVW5QNjNqYktYUUErWkZ6eXRrWVpneFFWaWNzTUF5NUM0TGhFWHFKTE9BUW5nVWlmb05hZFdHN2c4aldvUkxHZmRnbkM1THJ3ZXBGV1dIeXRTbWZ3cFRLeUZCbkVvYmxzcjd0YkxKYWozdUk5NUUybFVHcUhiNm0vTk1Wd2ZCcFlMNjFldFNRRkNqM3c3OFV3enVBTWRXYmpFcWUxY1RmT2hkbjNWQWVQaHdJTFdoOXVrK3JnYno4WWE1bGlJeDhvSWpFUlVZa241N1VPY3JVdGp1Z2hYTzRxSTFiUDVQNFRucFcyejNzSU1RbEl1QVRuSlV3PT06OotJcFNpldtDVESJqEBPUxI%3D"
@@ -4556,7 +4556,7 @@ const allMovies = [
             "Dayci Brookshire",
             "Robbie Daymond"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/6uFfmr790HSdCJcfCeQcltAZUrt.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/6uFfmr790HSdCJcfCeQcltAZUrt.jpg",
         "description": "The Fix-It Force makes a plan to hit every home as fast as they can, delivering Blunderberry Cakes before the town awakes to avoid a holiday disaster.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?dkNIaHppQVZWWEtEN0I3RndZd0kvQ25yOVJad2QwWmZzUEVqQXFRRkVqUHVuUmZ5V05wcmdHVTBNcDJ0NlBtL1FNWmtxdEVWU1VPcFFWREdFaThuN09NQ3dOdTN4blNyS0djc2EzakR2aTZiQ1B4K1ZCdHVVRzdSUFV3SWI2d2ZkK0xlcnRQZ0N6REcvRWpEeVgwUEFjcmg1eVgzRk9TR090OTVDLy9RSjkvWEVSRnVWVmxXTnkwcVRhSVRsTFJFY2ludzVaOENoVVZhNUxCMFBBZ295c1pHU3czM08xbWYwVXppMDJjRXFybWlDaTF3UlNwaHhsQkpWQ1ZmemhuVHpLbWN4dkw5cDR0aXNHY2lPU3lHYnloNmdzbE54SUV5T3lzZTRUN3U5VHVDWGpTUTBVZzloT1haTHVPOWozemJOMitkeGhiWjkwbVR6MjBsSEt2WXhnPT06Oi%2BI%2BpSvdoSNlwhKJNW8x8o%3D"
@@ -4576,7 +4576,7 @@ const allMovies = [
             "Nicole Anthony",
             "Vincent Tong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/lPjZGbGtWlwRb8Fvujz7yYCuVw1.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/lPjZGbGtWlwRb8Fvujz7yYCuVw1.jpg",
         "description": "The Super Monsters celebrate D\u00c3\u00ada de los Muertos in Vida\u00e2\u20ac\u2122s hometown with her magical family, some new monster friends and a spook-tacular parade!",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?T2liVkF6NnlaQUk1OU9QemFXWnpSMGVwRk94ZmhxOER3QlhPWDNSeW5HSDNlNEs5S0dqTVljUnBkOUd0K25DbU10SDBEYUtVelNKankyRWphOGRmNHcrc005ZG4yMHpuNU1HTElsY3VHb1RSallqMjN5aU9uQmZFcU96aFZSZWxtVEE5NzI2OTNNUkJpZ2ZaZkdjTkUyZGZxNXFxSlRSN2FvVDdiVnFyejdZaC9wU05RdjBJc0FCb0lYbkJwZEdacHFXMXFPaGhpeVJrUGVpVkVxbFFZNlBjUURsbks3R25KYmJoNHl1MU9NdWovZ3dGdEpyN0U3cU1WcUZpZ0wyekRXZG1PbGRYVEs2QVhYdXJJRUxGanNYOGUzTEtTRUI3dVg5UGNTKzdRR3VzTEIrRVlGK283c0l0dS9TSVNtdEdMdjF1enhuem9uSmthNXZqbU1mK09RPT06Om7E%2BXkiGSO79Bwc7i1vwOA%3D"
@@ -4596,7 +4596,7 @@ const allMovies = [
             "Joe Peery",
             "Leslie Bellair"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/t958e5rkQJtytl64EzbAKLGlRFE.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/t958e5rkQJtytl64EzbAKLGlRFE.jpg",
         "description": "It\u00e2\u20ac\u2122s almost Christmas and Santa\u00e2\u20ac\u2122s test flights have run into trouble. Can The Elf on the Shelf, a crew of adorable Elf Pets Reindeer and Santa\u00e2\u20ac\u2122s gang of trusted Scout Elf friends help him find the answer before it\u00e2\u20ac\u2122s too late? Join Santa\u00e2\u20ac\u2122s cast of whimsical characters in this animated Christmas Special full of toe-tapping humor and heart, as they work together to save the holiday season and discover the power of love.",
         "rating": 5.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?WHVpNlFCRGh4citvdlhVTzFJdW5Ud2lOUVZCeUJraWhaWGYyeXFxRkc5UUZTVWRsS01IbCtFbjZENHVPTTBORW4yd0JTRHJKcWdyOTVrMklVNVR3SzFJQzZ4TEsxT2NLN2M0ZzhTNDYwZzdoUGZkSUVWMGYrM2RNSzBUUFU4SHZmQkQvMjVVTjBhTFluWkNBZUg0YmorUUFwMDZkaVpnTWZUQ09NTWJNdk83TkVHK3VDeFhFUDF0a2ltSFFqbU1ONlVxTTNuMm9aa3lkb1ErMVF4aVV3S3NGQ256eXR4bVlFQlVaeGF2Z203NC9Tbk4rOUdjanVFbjhJSk5BL1ArdnRycWZrNjJsa29FaXk1RWswVkFFTUt2OEJGYnk1aUtRUnZFSk9XTnpCV0o5eWJtbW5vdUdKQVZBeEdUVSt2dDRYN004QUg4eFhKOVo1V21Yb3JLeUJ3PT06OjM1xIJqUOj8yrFFeNtx5vI%3D"
@@ -4613,7 +4613,7 @@ const allMovies = [
         ],
         "sutradara": "Logan Spence",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/acABBdTHQW5q578B20JeK5obOYK.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/acABBdTHQW5q578B20JeK5obOYK.jpg",
         "description": "Dastardly elf, Grumper, has done the unthinkable and STOLEN Santas prized Christmas sleigh. Now its up to E.L.F detective team Jingle, Bingle, Tingle, Dorabelle and Cheer to find the sleigh and save Christmas.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?bzlXRFROVFBMMkd4MVRyRk9HR24xNWJ2MHQ3VWZWZlpiMytwdURtUlhvTkQ0SDNmVHFkWGVKd2xqemVxUWN4Wmd4MGZVYUZYeC9pZ08vek5YQVgrUkxKaGtLQmxFL0U3aUswNTZUcmk0NVVHTFZKd2IrblV5VDEvK1VRa2EvS1FPUzZ5aDhraUsvajVKNDFrVDJHR29vazBlMmsxRU1YNDBIWEtyaWUwYU1la1JBSHR5RjJUeTAwcHFWa0tOdDh4a2FEbElIZXRzRGcrTmQyWjIvMzdIaFJPNGU2a05PZDQ1b1hiZm5KVldJZU9tbTVad1lpVU1UWFNrWHpTeTRKOU5CUTg2WXdrQzJ4a1VZRmhvVnNBWXpwbVM3Q2RDcUdqQ29RbEV1b2pVWUk9OjqEE%2BVC41pzUev2pMN1rfsu"
@@ -4632,7 +4632,7 @@ const allMovies = [
             "Natalia T\u00c3\u00a9llez",
             "Polo Mor\u00c3\u00adn"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/iwWDHYlmiOXNBCsvhCDfccluLQK.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/iwWDHYlmiOXNBCsvhCDfccluLQK.jpg",
         "description": "An intelligent 15-year-old high school student is unexpectedly transferred to a boarding school where he opens a portal of monsters from another dimension.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?OFVlMUUyUzYvTUFhOFNHbW1TTXV5Q0pMSzY2UHVkK2F4UVNGazVKM05CWkxrQ2FSSVFKV25FaWdqWEFmQ3hqQ21DbWRnS3lHYnBxKzlDeTBYRWtBK3pGdS9VaFp1VnFqRVdsUWdEWlF2RkcrWkNoejhRSnExYzE4SDFiMlJNcVJXUVpsc3JyUlN1TlpHUjNONDEwQWppZ0JJVWtqenZUNUVHVlB5NXZtWnFJSEJPRk8xOWs0UmR6d0JGeU92UGlqV2Y5UHN5STF2TG5zVVVKdUxxQ1g5NHd5K1FrbUU4ZmJIYVlEeWVxb0wwWVQrWHUrTCtqYUJ1UDhGSEVhU241bllNMVFvL2lwaGJ0TkpWeUJod0ZZUm5LWHpEMCt2VWZqWGJNck55RG1QeE9tSDJTV25rTzRWSlU4S0laYmZCWE5oaC8zWmQwWVVEb25QelJzYytUQnFnPT06Oo3iLFIo4PMrMO3zT3j6Oqs%3D"
@@ -4654,7 +4654,7 @@ const allMovies = [
             "Ji Guanlin",
             "Zheng Xi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/hOUx60eO3duEUsJzhkiSlRkBckE.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/hOUx60eO3duEUsJzhkiSlRkBckE.jpg",
         "description": "Atop the ruins of war, top commander Jiang Ziya is given the task to banish the Nine-tailed Fox Demon who threatens all mortals\u00e2\u20ac\u2122 very existence. When he discovers the Nine-tailed Fox\u00e2\u20ac\u2122s life linked to the soul of an innocent girl, he is faced with a challenging decision: follow the will of heaven or find his own path to righteousness.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/ldzj7bn37kn267m"
@@ -4677,7 +4677,7 @@ const allMovies = [
             "Jamie Foxx",
             "Tina Fey"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
         "description": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
         "rating": 0.0,
         "videoUrl": "https://chillx.top/v/WtllLPaeH5R4/"
@@ -4699,7 +4699,7 @@ const allMovies = [
             "Nicolas Cage",
             "Ryan Reynolds"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg",
         "description": "After leaving their cave, the Croods encounter their biggest threat since leaving: another family called the Bettermans, who claim and show to be better and evolved. Grug grows suspicious of the Betterman parents, Phil and Hope, as they secretly plan to break up his daughter Eep with her loving boyfriend Guy to ensure that their daughter Dawn has a loving and smart partner to protect her.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-zw2qz804"
@@ -4721,7 +4721,7 @@ const allMovies = [
             "Honor Kneafsey",
             "Sean Bean"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/ehAKuE48okTuonq6TpsNQj8vFTC.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/ehAKuE48okTuonq6TpsNQj8vFTC.jpg",
         "description": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?cW1sTjl1d1B3bE1CVzJiWVdPY2E4ZFpyeU5JSVNyM2REallxK3hHVEk2bGJVNkdhSXhoUzBEeEYxaGYyR20xOWJCdGVNNzd4cFJ6MlhhaU9nRTZVNUxOMExmZ1Y2SEsyYm42U1VDYmp2M1FGODVXWjFyRTdvdDFTUjI0VFB5NzM0Sjd1RzBpeEJ3RFBlMXhsUUhkRmVKd2hrNVluZHM2c3N2RmNxRS9zMkhmNDhxNXI1VEk5NVNPeklVSlQ0WWpuMDNzdzlQYnJ5cTlpQzJnQWFEaXExKzBYa1ZDd1dZelRpSTZmRkk3NGxwTTYycmZtWkJZRzFuK2dvQXNHQi9uSWFscnlqN1o1R0EvYi8yZ0thczUyc0ZZd21kODVXMlNoNnZrdENiWDdubG89Ojrx0TVO6Cn8wyX2l4UaZ7WQ"
@@ -4742,7 +4742,7 @@ const allMovies = [
             "Vivian Lu",
             "Yuri Lowenthal"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/mJaNBADFKRiMys8DiGemrLGYd9U.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/mJaNBADFKRiMys8DiGemrLGYd9U.jpg",
         "description": "Princess Odette and Prince Derek are going to a wedding at Princess Mei Li and her beloved Chen. But evil forces are at stake and the wedding plans are tarnished and true love has difficult conditions.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?QnRPaE1RaE1VOUovL2hmeFlqMmdyWXdteEJxRTM3TGE4RTRWMVQwWmpDeHdOVVNvNXpYbnlHd3R1cmZ0RjFaRDA2VjJOMW5ETXlPamk0S3NJTXFiYXNaakxZZ3BaRDZOdUk4QVlZMHY3bVhMQWpFYjM1VWRKWnVKYURBbHlOZDJkZ04vSXM0Q1IvalRaSFphTGRtYXRqRXUrL3pmMGw4Vnd6dG5LK2Z3RDR0Mm1pTXZVRkRETlo4bG8xOTZxSlVuQkw4MHFJbklYK1JqWWtISFBaVFVOKzllRXEvdFNSSjU0R1IvY0ltQ3ltV1NhcFlESGRGblZDWXJBd2M3dVBPV3haQ2FHTlNLaFpveGpnblBrSmVPWU5RTytkTmRjL2gvL25UMlU0ZEV1dllIYVd3SWd4aG1Qc2dFdFAxcndTOXc6OtK8ieO0MijrbllrmTxAoBs%3D"
@@ -4762,7 +4762,7 @@ const allMovies = [
             "Liza Klimova",
             "Stephen Thomas Ochsner"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/jOyuQvgyakZABLrl4oXRamBGEI6.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/jOyuQvgyakZABLrl4oXRamBGEI6.jpg",
         "description": "A young dolphin with an active imagination saves Fish Town from evil Moray Eels and reunites with his father after discovering a magic arch that makes wishes come true.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?UGR6cG9jMGo3aXRSYm5JQUgwSnJWOVF6aVlGc1k1ZGRJTmpmRHZHR1RmWE1aQnVMRnhmTUR3ZnJrYzZxRzhYcHpNb2FJV2pVZ1UrM3RWeTV2dDZTSUVnUWo4NTUwSi9LYUQxWnFIVnAxSjM1T1VKTXJwQUM1K29XM0hxWC9XYXRJR0tUaUJuMUh0cFliT1oyOFQ3MTZJWXJVbC9yMUd1RTE1R1FhWFErUFZFZFhSekpDV1JObEVUV1hzUUNINGVIZCtwcXNESEJ2VXhlU20vR0hHclAxSmVPWXNrSEk2aExCKzdSRklpeTFWVjF6NDJvRERtL256cVd5OWFtcFAxWUxSUmNZSWtLSjVxcWtWVU9mTjErclIvbDc1L25rMlYyUW9yNTZSUmdRbUE9OjoGIVoIGgFHGbDaGESTGn%2BG"
@@ -4784,7 +4784,7 @@ const allMovies = [
             "Khary Payton",
             "Luke Wilson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg",
         "description": "Get ready for a big shake-up when misfit bobbleheads take on trashy humans and a slobbery dog who crash their home with plans to swap a new baseball player bobblehead for a valuable one of them. With some guidance from Bobblehead Cher, they find the courage to bobble-up for an outrageous battle of wits and wobble.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?SEZPWjBRaHN0d3lhYUJOaTh3eHJkaGFhSXRYRG1yTm93UDJVVGtZc2tZNmNJb1g1ZmhPTHkyLzhBeE91OXBYa0xPMy9Yc1c1WG5QZVdTb2RURS9vZUZ3VTUySTVlaTh5b1hWZ05XWXk5cHR1WXA0Q2o0OXk5MEtJa09YMS9ta2FNRDhTbzNJdXhsenBwL0RIL24wK0JDWCsrcFRtZE9xdStFQ05ITldKM0FoTGhtOVBmSjNQOUUyRXpCMlZGZFUydFpVMVZ0dHkrN2NBeDYyeHN5YzJ1WDdkcnpoOUZWZWw2ZkRoR0RWelFEaDF3YUdkNTBGNXpZWS90SVR1Qk9rb2FuSUtscmpHbDdsRi9mdHJMRFBOQXpUK0pFQktGU2hqUWVPMTlKeWRURGs9OjpElfxUMt75oUQoxkwYIsrx"
@@ -4804,7 +4804,7 @@ const allMovies = [
             "Krystyna Janda",
             "Maja Ostaszewska"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/xDMfChYB9GNDgrdefRt46JBFx1z.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/xDMfChYB9GNDgrdefRt46JBFx1z.jpg",
         "description": "Fleeing from despair after losing those dearest to him, the hero hides in a safe land of memories, where time stands still and all those dear to him are alive.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?N1l3ek9Dd01ya05Lc1JCeUNuZ1FUY0tscFZLdlh3WHFQMjV3NjM4Qi9KTHZvRXVHQmZWelQ0cTZWZkZOTVdSZHBFbzAyMTlqOERZZlE0WXIzTXhscFpaRHlCeXBFbW5WTXNESVJjNFhycVJrZWZmbnlBUXZlelRZMHBKUG9jbWgxc2V1SjQzd2NOelVBN3VJN0pqQjgyRDErVkozWkNrRU4yNTJadXg4a3F5dWtzQndRS0hVR3VpTEprb1Qydjc0VklCYXNjMDJhZk9iSG1BTHF5bnIvSDNxekdSc0V2WjZ5b09PblU4Y1dlU2VkL1RPOGpvVTlRSnliQy9sQWpuem93Z3UzUDdSeENxWFNsMXNCSnM0V0w5MnFpWFpYQlYyKzlUeXp0djRJT1N3YXZ3WnN5NlB1dVVPS3dCZzh3Y1B6TFYxbUpteDlHcU9PdTJBbXhGdm93PT06OnEeK%2BOgXxP5zyp5nOAp0tg%3D"
@@ -4825,7 +4825,7 @@ const allMovies = [
             "Carlos Alazraqui",
             "Pierre Coffin"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/zZI1nByCI0jOQqAUeTahU3j6pt1.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/zZI1nByCI0jOQqAUeTahU3j6pt1.jpg",
         "description": "Four mini-movie escapades starring the Minions, with various special guest appearances, all to celebrate the holidays!",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?U3luUTZDOWkraXdWbmQ1WTFxRUtpWWIrQUt6cjZPWEdGMVEyL2w3Y0ZDMC8xN2dQdTRCc0l6b2k0Z3crektjc1BhankrR0g4bG5xNjRCeEpkM1ltTnpER2RTZDd0WS8wNzVzUGxzNkJXeXhzK3VKck5BQlFBbmN4cU16eHQ5ZERrWjZwQ1JyR3NRT0twL3lRb3VJeGU4dzRDTTM3VlV3RnhCeWgvK0xsd2JCVzVmSFBvaERhQW00aE1MUEhZejFqb09tc1dFMWtXN2g0YXY3NjJ3RjBkQkl3eC9JWDhUc2FuUWx3TkNRd2dnbHNteWppSXVpeFVIS0tYQTBTaXlZZmpTK1pLa2V2ekViOXRxOVExTXE4aFkyWTVPWjZlcnlJcTZmQlRkT2ZLbGVlbHVobHltb3J4Y0E5Zi9DZ3FpWjg6Omz0cNygtOU7mR%2FWlXGYARQ%3D"
@@ -4842,7 +4842,7 @@ const allMovies = [
         "artis": [
             "Lucy O\u00e2\u20ac\u2122Connell"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/eu747ko823mktL3ygo7ohdZznP7.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/eu747ko823mktL3ygo7ohdZznP7.jpg",
         "description": "A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?Tk9zM2NNVEwvazlMMnNWQXYvODkxeGUwM1YvVnEreER2SmdSRkgxZGFEcWlLWVFXYjRGOEZjNE1tRTg5dW8wK0h5OUh1VTRVNE9weXo4VXdlTEJhUUdFVFRDcWs1WkZvd2lJTnpWQnU0ajhvNFQzdHVnaWxNSnhBeklRNXpIRGFsVDNDd2srNEZMQ0NnbWEyN0dFQjhnPT06Ot%2BD3uhQKWPJGFN3zs%2BMW8c%3D"
@@ -4862,7 +4862,7 @@ const allMovies = [
             "George Babbit",
             "Kylian Trouillard"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/jSqUnWlcb83NyQ4xgu4SLxdOeps.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/jSqUnWlcb83NyQ4xgu4SLxdOeps.jpg",
         "description": "Bigfoot, Adam\u00e2\u20ac\u2122s father, wants to use his fame for a good cause. Protecting a large wildlife reserve in Alaska sounds like the perfect opportunity! When Bigfoot mysteriously disappears without a trace, Adam and his animal friends will brave anything to find him again and save the nature reserve.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-mqt9lzmkuy8m.html"
@@ -4883,7 +4883,7 @@ const allMovies = [
             "Emilie Koppel",
             "Rasmus Botoft"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/c1F0vrX4tGuAHdvsuyfmBDpCQS3.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/c1F0vrX4tGuAHdvsuyfmBDpCQS3.jpg",
         "description": "Minna, a young girl, misuses her newfound ability to create and control other people\u00e2\u20ac\u2122s dreams to teach her bothersome stepsister a lesson. When her stepsister can no longer wake up, Minna has to enter the dream world to save her.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-luubw2iqisjc.html"
@@ -4904,7 +4904,7 @@ const allMovies = [
             "Dee Bradley Baker",
             "Kirk Thornton"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg",
         "description": "A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth\u00e2\u20ac\u2122s gravity \u00e2\u20ac\u201d and steal all the presents.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-4w1vzy104cpl.html"
@@ -4927,7 +4927,7 @@ const allMovies = [
             "Jake Green",
             "Omar Miller"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/zyzJSI7UZZzz5Toj10rYGF5689z.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/zyzJSI7UZZzz5Toj10rYGF5689z.jpg",
         "description": "Rey leaves her friends to prepare for Life Day as she sets off on an adventure to gain a deeper knowledge of the Force. At a mysterious temple, she is hurled into a cross-timeline adventure. Will she make it back in time for Life Day?",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-cx5zojotobuv.html"
@@ -4951,7 +4951,7 @@ const allMovies = [
             "Rodger Bumpass",
             "Tom Kenny"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/jlJ8nDhMhCYJuzOw3f52CP1W8MW-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/jlJ8nDhMhCYJuzOw3f52CP1W8MW-152x228.jpg",
         "description": "When his best friend Gary is suddenly snatched away, SpongeBob takes Patrick on a madcap mission far beyond Bikini Bottom to save their pink-shelled pal.",
         "rating": 0.0,
         "videoUrl": "https://files.im/embed-womtp94mkzlq.html"
@@ -4973,7 +4973,7 @@ const allMovies = [
             "Kensho Ono",
             "M\u00c2\u00b7A\u00c2\u00b7O"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/5vr2GOHcED3vU5HeTzRyLeJt71c-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/5vr2GOHcED3vU5HeTzRyLeJt71c-152x228.jpg",
         "description": "",
         "rating": 0.0,
         "videoUrl": "https://files.im/embed-c47s1sigvdxn.html"
@@ -4993,7 +4993,7 @@ const allMovies = [
             "Lynn",
             "Shiina Natsukawa"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/egYHxSKVU0q3ZXF2Xw3uTpJgvwT-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/egYHxSKVU0q3ZXF2Xw3uTpJgvwT-152x228.jpg",
         "description": "",
         "rating": 0.0,
         "videoUrl": "https://files.im/embed-bgzaz0akfcec.html"
@@ -5016,7 +5016,7 @@ const allMovies = [
             "Montse Hernandez",
             "Tara Strong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/34KSOJVowmkeh6G0HZJMxqdHq6s-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/34KSOJVowmkeh6G0HZJMxqdHq6s-152x228.jpg",
         "description": "A blast from Ben\u00e2\u20ac\u2122s past returning to do double the damage on Team Tennyson and planet Earth itself, forcing Ben to go interstellar to save the day.",
         "rating": 0.0,
         "videoUrl": "https://files.im/embed-45huiokep6gr.html"
@@ -5038,7 +5038,7 @@ const allMovies = [
             "Phillipa Soo",
             "Robert G. Chiu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/11/lQfdytwN7eh0tXWjIiMceFdBBvD-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/11/lQfdytwN7eh0tXWjIiMceFdBBvD-152x228.jpg",
         "description": "A girl builds a rocket to travel to the moon in hopes of meeting the legendary Moon Goddess.",
         "rating": 0.0,
         "videoUrl": "https://files.im/embed-wbj1k6da5v8l.html"
@@ -5058,7 +5058,7 @@ const allMovies = [
             "Noah Kaye Bentley",
             "Zach Callison"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/08/7ECPZaRczTQiUgPtZzyOiHxlfbe-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/08/7ECPZaRczTQiUgPtZzyOiHxlfbe-152x228.jpg",
         "description": "When a musical dragon with a beautiful voice hypnotizes the dragons and people of Huttsgalor, the Rescue Riders have to find a way to break the spell.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.io/embed2.php?link=717LekJnUYNSk7kn%252B5JcHwwFDwp0%252FUnrGxBHqbEu%252F3UjlDfRrL%252BsmSb13Q9EOlv9NU3qM624u8q6hvhIE1GyONV9cgSe1jNgnVxPy6WYS3IhE1dGO%252BZZAvwcPEHWXM0t%252BM9TB8t5ATgno9aZYKigOmFk62GlEw5tozrPL0DyiIroWEsSoGM3vZmy8BmQ4GV3g%253D"
@@ -5078,7 +5078,7 @@ const allMovies = [
             "Hong Beom-gi",
             "Kang Shin-hyung"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/07/uHdxICUIRGoJjK67aOp3ykvL8ZW-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/07/uHdxICUIRGoJjK67aOp3ykvL8ZW-152x228.jpg",
         "description": "Back at home, Chuck relates the island shenanigans of his larva pals Red and Yellow to a skeptical reporter in this movie sequel to the hit cartoon.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.io/embed2.php?link=WY8s38s21RMzszUqYtgGoADmtoa8Wf9npzeE%252FD%252Bk68RemxbfaAuBfIxJcWG6cU8wgjDo1JijPKu6pF2PbHDOee8QwTt1Deuh%252FBq6JB0FIaprUcBN5%252FUjE76U5Xgwjw84F1DFCDl0ezkWSoXO5jYWB3BCWYRzoM7L2jiX3SC3%252BY7p5AFaZJLQUikRvsjm7u9kQ%253D"
@@ -5098,7 +5098,7 @@ const allMovies = [
             "Jacob Tremblay",
             "Meryl Streep"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/07/tZWgclntziFRPQg0u0nI2FU4nYg-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/07/tZWgclntziFRPQg0u0nI2FU4nYg-152x228.jpg",
         "description": "On the eve of Earth Day, a precocious seven-year-old learns about the wonders of the planet from his parents\u00e2\u20ac\u201dand a mysterious exhibit at the aptly named Museum of Everything. Based on the best-selling children\u00e2\u20ac\u2122s book by Oliver Jeffers.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.io/embed2.php?link=oeNlwEuNvIDVF0tMfidmHAN9NgGDPERN46ExduayjB0UtPO1%252FmvI0%252BYAkxHX48LLMIldTosB758R0MK%252FQHWJIf981AKUtEe6zqSWY%252FGxxL2eNKq3LMel6rrl5VW%252BL8sQKl6H9MbHmTI0faYfC1CZvrn5MEtFWDvJp%252BiPiPw%252BQYqtGpBg0O1rXgXj5xGqL0U24%253D"
@@ -5122,7 +5122,7 @@ const allMovies = [
             "Justin Timberlake",
             "Ron Funches"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/04/7W0G3YECgDAfnuiHG91r8WqgIOe-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/04/7W0G3YECgDAfnuiHG91r8WqgIOe-152x228.jpg",
         "description": "Queen Poppy and Branch make a surprising discovery \u00e2\u20ac\u201d there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-gfvhdf1dl4qd.html"
@@ -5172,7 +5172,7 @@ const allMovies = [
             "Yuina Ito",
             "Y\u00c5\u00abji Kameyama"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/pTamgU6ZofNQeCAlwyjMvy7lKSx-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/pTamgU6ZofNQeCAlwyjMvy7lKSx-152x228.jpg",
         "description": "On the planet Latimer, Takeshi Kovacs must protect a tattooist while investigating the death of a yakuza boss alongside a no-nonsense CTAC.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=cXbyo122r01khiSlb2MOZQeRyPDWp%252FlOGDDmCL8WMRC5w5RL9%252FhxgE7P9%252BIPuRFyGvVbdhRv334TSm1rsGWFaBJLcdNjMsiY%252Fv8TJfcSqFr%252FNYFYw2%252Bhx%252Fx1Eh6mxIU440uHT56Xm0tiOkWV6J1kLRufhrc59L98pc8g5321CFN5kIIiXWBBHETqO6q5%252B8Rdo%253D"
@@ -5195,7 +5195,7 @@ const allMovies = [
             "Gerard Butler",
             "Jay Baruchel"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
         "description": "It\u00e2\u20ac\u2122s been ten years since the dragons moved to the Hidden World, and even though Toothless doesn\u00e2\u20ac\u2122t live in New Berk anymore, Hiccup continues the holiday traditions he once shared with his best friend. But the Vikings of New Berk were beginning to forget about their friendship with dragons. Hiccup, Astrid, and Gobber know just what to do to keep the dragons in the villagers\u00e2\u20ac\u2122 hearts. And across the sea, the dragons have a plan of their own\u00e2\u20ac\u00a6",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?dldUcjBCVXJ0WDJ1SnkyUkEzUXhDdFBlNHN1NGJ6cGFGdklveExQOFdyZHArQkszR3BlZlhqdC80NWN0c2kwK2NLeHh1eVpSLzA1aUIzeDRqdE9KNXdZM3U5RE1Rb1ZTL2tOcDU3YWlCd24xUEpGUi9QcGdHa01YNUg5MjZabXRVT1ZoZmlaeS80UGl4S1NFbytIWWljOENHOEFUdEVVc3FHV0RQTk1EUjhjV3pLVkhvR1NFNkUxNEY2by91WWorSlFPVXRKRjEwOTR5eDBMbVNMa1Rwbm9ZT2haWmVlbGZ5YUxac2d2c2JyQzRiNHBqV01sUkNYaGZCRW9RdW16T3NuT005Nmc2RkwyY05sZjd6SzJqcmRnZjhpOXdFZHg2cGNQbHpYbHlMM0pUZEhBWVB3WmJyWDZTMUIwdVVxNkc6OgnZhbSlezera7V7LbY%2BMH8%3D"
@@ -5216,7 +5216,7 @@ const allMovies = [
             "Masato Sakai",
             "Taichi Saotome"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/4fVcLdImgW2EXQyrflA5oLTvwCD.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/4fVcLdImgW2EXQyrflA5oLTvwCD.jpg",
         "description": "Galo and the Burning Rescue Fire Department face off against BURNISH, a group of mutants who are able to control and wield flames, and the fire disaster they have unleashed on Earth.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?UkNUSVJ1Sk1mRlNwTW1sZ09HU21uNXIwaXBqOE9SM3BqdjFmdHdndHlBWUFaUnhHdHA0TXAzTWFFc0V6TUQvWXZnVzlLZ3ZtaVV3OEJncVQySVFlVDRBaWpsNEt2Q1RNd0RwUTFaazBnVVFwSFVkeU9LeElLeXNLUVpZeUdFS0FSYWhpZXZwL015T1VjSHdDM0V4R3lBdzFMNlhiRU92Z0VXTEYvSkFCNjFHN3NROEdxemlndUdoTVBzbk1SSzNNNWFjdXhvbUJSRVJJcXl1WDRxb2RHVUQ3WDhwMEZYYWJNMFN4YWpDbWlzcHhkMHpaWlFaK0tIZHdoREhzUGFwZ2lKME04czdLelBzRmM1K2tXdnR5ZWc9PTo6oJDWb3m1M16peSimm3obVA%3D%3D"
@@ -5238,7 +5238,7 @@ const allMovies = [
             "Luisa Wietzorek",
             "Timur Bartels"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/saxPKOrN6rNScTicLpBDZw58Cw.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/saxPKOrN6rNScTicLpBDZw58Cw.jpg",
         "description": "When a greedy bear steals a magic stone to keep the forest\u00e2\u20ac\u2122s water for himself, a brave hedgehog and a timid squirrel must work together to retrieve it.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?WTE1TGNWQ0RzZXNRaHRtdHZhYmZicFJiakd0MkdoRUpTTXRESzZhRGN6UEJrME5uUTdDV1Ztd0k4WDBRQkdxZTRhanVzOWRXUmpEVWNXWDdkOHZ1d21MOUNhOUNNbVIxZDMwQUR3NVhmaVh0VllFUW5TQlMvaExPMDNXZ1pKcCtuSTMwOEw3QlBrSGZqa1JEQm81eDl5NStPeXJKM3dZMUhObDVMZ1NudElQQkJrRjB2cE02OW1lV3UxMmJ2c0xmZUhHNGdabzJUK3N1QkdzU1VTVGpFNnlkQU94SStSVDFmNlluR0s3enBtSWpCclZ3Nm02VnU2a0t0eDRiVDdzdmxlSmJPRERidWhuZmFidEFCQkQyVityVkdDUy9LWm9oNG9MbmdsNVdnblJxQnhLcjlhZFVaa1ZDaUlYWFVIaXRRcGQ0K3drV1hITW1hYWxrS0NkcWorUGNsUU5JQkhwcjkzbXlkUVk4MWRyL3NYK1h2VzNGL25qRlQyWUFwb00wTE5OVFJvU1lGRkRzU2pFQW14WUhtMFIxeWFabUJHbHVqb1NZdGpDWjM2R2ZYZkVTRy9tdVovRGtkMEcwTUhwQTo6y73emEQ2c0bEGdU4gkKjCw%3D%3D"
@@ -5258,7 +5258,7 @@ const allMovies = [
             "Hiyori Sakurada",
             "Seishirou Katou"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/7iUoLTDTk5IgUJTboct2RHuuTMG.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/7iUoLTDTk5IgUJTboct2RHuuTMG.jpg",
         "description": "Hakubo tells the story of two young people who live in rural Fukushima: Sachi Koyama, a girl who excels at playing the violin, and Yuusuke Kijinami, a boy who loves to paint. After an awkward, chance encounter, the two meet and begin to fall in love, but Yuusuke is still living in the shadow of the 2011 Tohoku earthquake and tsunami.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?YlUwbitLbkhCWktqeVU2bVNjNVV4UkhOMmwwTEFlbkdMdG1hZ3lYNWVPVy9YZEYzc3FnY2tUUmk1RnVXRGZ1TnY3RXNJbGprdmR2ZlN0aU8zVi8zaGxFZlJvVmZQV2pZVGJhTjFLUU9yM0puTkRJTjFkRCszeUo0dU43QzJDWXVRdUE3Y3N0aExMUUx2b29CUjM1Y1ZlOUVwOXRyOGNqeGY5bWNGWjdMcitRUXVkek5IY3VYYWJaaDd3d3JuSVpnV096R1RxcXZSem5ZaElLWFFNbGtCemNQOFI1SStXcWJBT2kxS0ZtQm5XR0oyeFpBeGgzb2tUbFJtM1Rma21MK1Z5WlRwYW5YVTUvSTh6SlNSYU9oTVVHbE91UmcxdXVtTjMzUklvZXZMK3M9OjonkuDvZt2tI9ayRpf%2FewY3"
@@ -5280,7 +5280,7 @@ const allMovies = [
             "Jeff Burrell",
             "Natalie Dormer"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg",
         "description": "When Roger (a Robin Hood-esque, stray dog) and Belle (an elegant yet spoilt pet cat) are thrown together amidst the chaos of a robot take-over of their home city, they must push all their preconceptions aside in order to survive, as they embark on a high-stakes, action-packed adventure.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?OW5yUk1EcXUxWU9pZEsvUk5vZUdiNVhyU1BId3JubjNXYWJ1Q1l1aTY1M1lVaGVEdmRzeEZnc25pOXBWd3VRZTRqQzlwaE9HUmFzZWV1OGs5aUFzcnBtWHZHNEZMMm8wWTJwR0R2TEkxVkw3V3R2N01VNSs2WVNXT085aG1pMXJPWDhaemp5VU0wanhyNHkyaFdtdThFYjBiaWIyZkhldDRuUjJRRWdQakE0cFFIR3Q2TjJmVzFLMDRGS3c2V0p5THR5QnV1YVFaNExIRFhIbjhKbFo0OHdKWnl0VlhITERsbUR0U0Rob2hyOEVsK0p2U2dmeEp3TDhOcTFDclBpU3ZFMzlQRmVvTzR1TWJVMGtISTE3RFFIM2hPMmJwMk5BL1pFakZSWSt5SE09OjpegbK88zc2RoV70OCnqqIk"
@@ -5303,7 +5303,7 @@ const allMovies = [
             "Mayumi Iizuka",
             "Rica Matsumoto"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/xlO50h3EX1w99KGztTzsjQBwPfs.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/xlO50h3EX1w99KGztTzsjQBwPfs.jpg",
         "description": "After accepting an invitation from a mysterious trainer, Ash, Misty and Brock meet Mewtwo, an artificially created Pok\u00c3\u00a9mon who wants to do battle.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?M2QyQ1kwcHYxN2lCbmdRZC9EYm1rSmlDaTgwWnFJTE11L0x5OFFqa1FMbUJjL09aYWNjV3VtTDhXL2NkeVhlVVg0aENCckpvRHMzVE1IWEd4Tnc1VEJnWkVBYnJCRzhjaThFYitNK3VHc2w5d1JncndmRWJkYTAyV21Fb1pCK0NQelVIK05qRGxIL3BpblZueVZkSGMvbWFBaHB2cDFGY3JMTUNFRWpUVkhxdC94dFJMaVJmbFBPVjFSYzBBc3h4K0xyRlJPaGVMUkZpV2JvY3d1Q0syVzZoMTZ0ekxGM2FvckRtamdWWlQvYlpuWWZIYnF5eGtWRFRFbFltMFA5R0NEdGdVT3Z5UUV2SkVOcEFrSjZ5S284azZ6ZjJiZnRYQ01EVkFjS2h5b0Q5V1AxaVBsZXptem1jRXFBT2xsbkVoZ1pEUXNUN0N0cTk4dlhoNnNqMldDT2d5cW83M3hIU2c1RnBqaXdyYXVnPTo60D6iH4o9pizyaYvENUKrAQ%3D%3D"
@@ -5324,7 +5324,7 @@ const allMovies = [
             "Fernanda Castillo",
             "Memo Aponte"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/nR9mgNV2FaXLJs4BzZg160dXWJC-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/nR9mgNV2FaXLJs4BzZg160dXWJC-152x228.jpg",
         "description": "In the Mexican town of Santa Clara, Salma, a 16 year-old orphan who never got to meet her biological parents, has spent most of her life searching for clues of their identities and whereabouts, that is until she discovers a special book that is filled with stories of the town\u00e2\u20ac\u2122s past and the history of it\u00e2\u20ac\u2122s people.",
         "rating": 7.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?ZUlwaHZ0U2NFdENmcEVJL25uWlZmY0UwZXdkS0FwUzIyZ1lLdk54Mzk3VU5Eei9QSVl0Qm1Ea2NKYktaWVFLbmNReEhtWEYwNGhvN1FXMEQ4YzdCb1BkdVp4YXRFTFNyb1ZKWnVHbCs0Ym1QSEE3WVhwUFcrWU5QRUFhcEsvOEQrYktLZ2FVZUlaa3NFeFdZMFR2YktySmM0eWoyTHAydUpqWWE2anNPa3FzemlJdzB1dkFLQjZSVnZuSjlVL094eEhlWFJLSnRoUC9mUVpzenp0YWQ1eFRuRUg3Z2NUS3lGWjVZbHpNd3dUTldMc2hienFMb05FOXlCZS81RURPU3lCNHZHYjRXSVh5b3I3SUc3NWsyVG5wWXlsd2MxV1VndFBka0ViV00rSXZtQjJDZ21yUjc0SUY2Ni9BWTJ6VEE6OqXnRBlbitBYVc%2B5equBric%3D"
@@ -5348,7 +5348,7 @@ const allMovies = [
             "Maaya Sakamoto",
             "Yoshitsugu Matsuoka"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/vh1Ye1jWmR7pFJpTIHbSR521zO5.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/vh1Ye1jWmR7pFJpTIHbSR521zO5.jpg",
         "description": "In the city of Orario, beneath an impossibly tall tower, lies the dungeon. Only adventurers who form partnerships with the gods themselves have any hope of defeating the monsters that lie within. But the dungeon is not the only place where monsters exist. Far from Orario, in the ruins of an ancient city, a new threat arises. To counter this threat, the goddess Artemis has come to Orario in search of a champion\u00e2\u20ac\u201dbut it\u00e2\u20ac\u2122s not Ais Wallenstein (the legendary Sword Princess) nor Ottar (the strongest warrior to ever enter the dungeon) that she chooses. Rather it is Bell Cranel, a newbie adventurer partnered with a low-tier goddess.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?NWFBcW42cnpYYmt0SXMwbFlmbmUrT1pUWWRJSTVxY3crZktvbklEMHZrbE1PZE5OdHVsZThXdzJsY2hVWTFUOW9IUDZRQWxTQktLcW9XWlFmQTQxRUt2VUZ2eEhpRmxyc1l2ZVhmNWtkUnJoWkduaHJXQlo1UHR2Q1BOTS9PaW9ESXN3SjhERDJwZC9HOExxQU5wUGVlc1Y3OGVDN01LaHU4VkJYdi9BMXBzSmlDRkpsRlprNkdLcCtvQWtxSU5VdnYvZW1ybzlsbmgvMUZWLzFrMkFDN1M0RXRGOFkwTWk5R3BKSFdxVTd4M1M1SFhvUkxRbzlVQkRiQ0lJM0M5WjViaUNtL3BseXBMYThzRXB3NGplUFBqeXN3M3psMWpYaHJJaVc5MVlMRzVuUzdNMGpSaFJySUN2QnNvSTZGeTQ3d1FKRVhnY2svcHU1Ujh5WEpkVmVEaUMwR2lITlVzbjE3azVzZ05wNGM4PTo6OVFrKG94Di8W7hyx47Vjcw%3D%3D"
@@ -5370,7 +5370,7 @@ const allMovies = [
             "Grey DeLisle",
             "Matthew Lillard"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg",
         "description": "Scooby-Doo and his pals win an all-expense paid vacation and embark on a trip of a lifetime to a tropical paradise. Their destination however, turns out to be Zombie Island. As soon as they arrive, they realize the place looks strangely familiar and is reminiscent of a trip they took years ago, in which they became wrapped up in a mystery involving zombies. The gang soon learns that their trip to paradise comes with a price when the zombies re-emerge and attack their hotel. Will Scooby-Doo and the Mystery Inc. gang finally solve the mystery behind Zombie Island?",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?Nmppdnh5RnVvTXR3WVBobG8rb2NuelNCWDZscE1KWmJFU01kaWE3eEgyY29hZkIraVRYN0Mxc2s1ODhWT2JWQ21uYkxDRzhoMUZXNm1ob0gydW5QaHVya1UwWGNIdkIrQk1oa214KzkxeGRWQk1FUU9WWW1SLytoNjNkWDlGc3VLTWx4aEpqd28rYkk1WXZDUmNVWHh6cEJqSDJvQksxV1d0MHArQ3Z6dHljUTU1RDIyMXdEL3BGZThCYWdpSXRSSEpCak5WNmh6em82c1dJS0FqRjAyS3I5NER5cEdhWVoxMVE5Zkg5bW55bDZDYzQ3QUpoaVhteE5xUUtUSU1HNDg0WDM3VGNkMEZwZ1REWXNycjlhcXo4UmMxaWtCU29BY2IrWU1adVdMZDRmQnhuR2dGY3lmbHQwV2dUdFBVVnA6OkBXZ0nHVyhpWw0tLzrrT8Q%3D"
@@ -5392,7 +5392,7 @@ const allMovies = [
             "Ayane Sakura",
             "Yumi Hara"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/vh4f6N3VdgzmYnRK3VctwBZWdv9.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/vh4f6N3VdgzmYnRK3VctwBZWdv9.jpg",
         "description": "The series focuses on the adventures of Arata Kasuga, a high school student, who is targeted by Lilith, a teacher at a mystical school. Given three choices in an effort to help save the breakdown phenomenon of the world by evil forces and while attempting to solve the mystery of his beloved cousin and childhood friend, Hijiri, who disappeared to a difference space.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?eE9BWnJmYnRNTjdPcXNvUDBtc3NwT2xBYnVxcHJybFNlQW9Nd3pZd3RscjlWOVhjYW9zZmhmMjVtOFROODdUYWN3ZDBkaHhSdHIyUThiTXJyZTRZTENicFFQeDV2RkdJR0hCYzIwRW1kVUhtYUxDWEo0N1ArbVQwREY3WXAyMkN3NVpoZHhLSzF2eExtbEZZUmtDVStzQ0J0cjBkNHVkNHhtTFFzbTlzRnFRT2FmUnVUdkZCdGE4OHJhZFg5dUFURHZpdHpJWi9hWitqWUVZSlVyOU9vZEU3eDhWNmJya1NRWXJRK1E2RmhIMW16T0tlZEtubzYwYzBRM2NiRUw5V2Y3M2VsakVxbCtLamNYdzNYb3h0SFhCb1ZIV2szQVdCTkgrSUNxdnJ1V0tFZGtFdEsrMHRQYXlONHlaWjd4aHFYZlN5UE9yMFFlc1dXUTNyWUh4M0dRPT06Ogq3BHCzaquEo%2Bdnm%2FK1mzE%3D"
@@ -5412,7 +5412,7 @@ const allMovies = [
             "Bryan Andrews",
             "Darrick Bachman"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/osBa5SDOCyk8DzLcy8Qa3bdwUXu.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/osBa5SDOCyk8DzLcy8Qa3bdwUXu.jpg",
         "description": "Genndy Tartakovsky\u00e2\u20ac\u2122s Primal: Tales of Savagery features a caveman and a dinosaur on the brink of extinction. Bonded by tragedy, this unlikely friendship becomes the only hope of survival.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?Unp2Vi9BSytjNHFqeW53L0NZTXE3VVpWaVlmcHMyK1Y2TzhXdjArS0ExaE5VYTV2Zk9xTkhvd0lUd2dwU1J6Rm96QllLN1JTMklxN1dsK0k5YlFxN0F5YUJ3QU4wWUpuM2hRQVFGK1B5VDdoVWJnVjdVOVg0ZUFPbDVDZmpkZ1NSTTZIVlZGbTl1S0xmY05kMWtmTGpMTW1rejZXQUxPVzRNS0ZHTStIZml6Z1pUVWpYSkNUdGpVOG9hZTNicTVIS3NSQjhVS3RVNWFJeTB2TDBmbXgrSEVtQmRHYlZlbk8wK2duUkZwKzVCTkIvSzZHVS9wNzB4L0RxZFRzZkdZT1MzOVdPeU80b2N4cHBJWWNGb09hdXMwRFpQSHpXdWgvVWV1RWIyb1A0MXo1SWgzY09TNlF3cXAxa1pIMCtOcTU6Ov8a4elIKpigFpvo4xXm9UU%3D"
@@ -5434,7 +5434,7 @@ const allMovies = [
             "Saori Hayami",
             "Shin-ichiro Miki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/slamFBuUGFtL4LtWpS9qXQ1qSLl.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/slamFBuUGFtL4LtWpS9qXQ1qSLl.jpg",
         "description": "With its armies sweeping across the continent, the Empire seems unstoppable. After securing victory over the remnants of the Republic\u00e2\u20ac\u2122s army, the Empire\u00e2\u20ac\u2122s ultimate victory is finally within reach. However, dark clouds are gathering in the East. The communist-led Russy Federation is mustering troops on its western border, preparing to enter the war. Supported by a detachment of Allied volunteer magicians\u00e2\u20ac\u201damong whom is Mary Sioux, the daughter of a soldier killed by Tanya\u00e2\u20ac\u201dthe Federation is determined to spread the communist creed and bring the Empire to its knees. Meanwhile, Tanya and her battalion return to the imperial capital from the southern front. Upon their arrival, they are tasked with investigating troop movements on the border with the Federation. Any escalation of violence at this point may lead to new conflicts, plunging the world into a global war. Will the Empire eventually emerge victorious from its struggle, or will it crumble in the face radically different ideologies?",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?WDVwMXJPbGNLS0RIYVNleGJ5bHFQU2cybUhsQVFFdnBRSjdTVVlEWXNWL1E3OEo1eFByTmdqa2Zoc0JKNEVlOFhGU0JaeTI3ajNDVGw1OSsyWTYyOEpCRFJjZ2RLRG56d2NpTGdWbkh0K1VyelZkQzUrcVB0UDF4SHJRS0c5clhjWTJ1SDYyT2FNSVhiSVpLMWpHSU4yb0F2YVRLbS8vcC8xaXp6eEhFN0tQQmlQZTU4cEJWeWhNdE5NUWFYVU1qeWpUdENWek5xM1gwcE5QMVVXUDhoVkw1M0Uyc1RDbmJPd1hIVXdnUEJHWTBEa0hhS0o5L25PN1UzV3NmdHY0LzBHd1h4ZzRCRk1IT1FwcUY4bThqQ0p5VE9iUFdtZGkrSTlrbDZqakxpTzV2L0FOYW0zOU1yRGxLbU9heWYyZTE6OogsxCXgZs42f2FOvID0eUk%3D"
@@ -5454,7 +5454,7 @@ const allMovies = [
             "John Rhys-Davies",
             "Kristyn Getty"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/vtfsNxAsDHElFvYHUc9Khwqg17Y.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/vtfsNxAsDHElFvYHUc9Khwqg17Y.jpg",
         "description": "An epic journey, faithfully adapted to modern-day. Christian faces distractions, challenges, and perils at every turn of the way. But ends victorious, with helpful guides, as he stays on the narrow path to the distant Celestial City.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?T0tFdUZVT2tlOUV5NDdoVC9ESEpEemNtS3llU3BaUXExYnVqWVV4YjBmL3piTVNGOVFQZ2NOZFVDM0xnOTJvZVgrb3RkRDZyaGxCZmdybTFvQ21iUnpvckExbjc1VmloajZkL0Q2bVhoaDg3ZE1hc2VDSHRZV2ZKalJJcTRjT1Y1TmhYL24wTEltejdwN3Z3NTZ6NHdHT0twejJjb29lMWxQWHJ1djVBN1dFb2FZNE0reXk1djRpRmorV3RFZHdTaDdDZExKVzZ5aFVIQkVMNjFpRWVPYkhCa0hNWHdQclJzQ09ZRWhYNGhRTHV0ejBEU0t4aFZEQmx1amhmYjlPKzg2T1lDL01pUW9RajloMitSY0VTZjBiVFJwcjlEa0NhNlFTSDlkOW9ZKzNZakQ0bXNnZFhmZXFkdlNxVStwa0Y6OvgPZdH%2FiAHTdniAH2SWv0I%3D"
@@ -5476,7 +5476,7 @@ const allMovies = [
             "Drew Davis",
             "Max Calinescu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/h09VT8gNfRBlr7S8l1lm27m4rus.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/h09VT8gNfRBlr7S8l1lm27m4rus.jpg",
         "description": "When their latest scheme goes awry, Mayor Humdinger and his nephew Harold accidentally divert a meteor towards Adventure Bay. The meteor\u00e2\u20ac\u2122s golden energy grants the PAW Patrol superpowers. The heroic Mighty Pups are on a roll to super-save the day.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?NVVOMjY0VXByV1VrUnhDWWVlaHlDUUx2QW5TWElUdHlQYzFXNXlJM1ZuNk1qRm5tZE9oVlZySHJaUCtqZGdTR2x2akdob3V6cGRxZFdVOStFMVUyUVE4UElsSSs4TGs3Z1hlK1p6TnpVNUg1Z0tWMXBGcUhZRllsRjJnbVUzSDI3ZC9YN0hNdHArTVpLVFJhSUFyZzhoNk90ZHFkajZseGlxaG9LY0FpWGlzTGtsVnVSbEEzejRQaGUra29lS2hnMTh6RGtTRmNFWEJHNTNHazhtVmNhcE9HM3NvQmRtVEdSK0QvUkZLcEVxbE9OcFBpLzZLVDlIdFZmeGdrbitnMk56dUVOYUdnd1FjQnRzOXd5V0VqWUp6S0tySGw2dWxHUWNiSE1qWnc5SlU9OjosiNLn%2FXzuMVWWdlYTHQIh"
@@ -5496,7 +5496,7 @@ const allMovies = [
             "Khary Payton",
             "Scott Menville"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/jFE4ZeXNIDU6c0PAFhKJ1WlL7Oo.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/jFE4ZeXNIDU6c0PAFhKJ1WlL7Oo.jpg",
         "description": "In Teen Titans Go! vs Teen Titans, the comedic modern-day quintet takes on their 2003 counterparts when villains from each of their worlds join forces to pit the two Titan teams against each other. They\u00e2\u20ac\u2122ll need to set aside their differences and work together to combat Trigon, Hexagon, Santa Claus (that\u00e2\u20ac\u2122s right, Santa!) and time itself in order to save the multiverse.",
         "rating": 8.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?QTBOVU9sczVFbDdTdXBOUHdrTWd6b1E3aXo5bHRlS28wNmZNVG8rVHp0dXJ2NzhmM3p2Ri9UQUJZUVVTaDRIOURtOVdmNExnOEF4ZDIrb1c5YjVCQVVocmRoeUN3R1NvbmFhWHpEWno5OVFJVThPVTFrTGI3YzROdEJPelRNL0lJYTFZOFZqRjIwUGYzTXJHT2NGaUNyak5UNHBManZqenltK1BZditrQ0FMaFdrRS92U3ZQQi8xNWVGeEJ5R2FReTJwWWJ1RjFLQTFGTnRLdnNyNlJDMUVGTWRTSXhzQjdSaTlpVHFWWnI4MDF0QTNsQ1RIcWVJSTE4OEhvYTNhc0tLTFVrbkdCZW9tSXlOV0VnT0paMnFQWTdWWDRnTUtWWXJQU3hrZEdzVzR4eGdTRk5kcFloUnl0NXlDZ2YwQUI6OuHaY5BhkZMvhnSlpi2nUtc%3D"
@@ -5516,7 +5516,7 @@ const allMovies = [
             "Park Hee-soon",
             "Ra Mi-ran"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/w6N6xJvvjY6pLxOnHz5yu9Z8quG.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/w6N6xJvvjY6pLxOnHz5yu9Z8quG.jpg",
         "description": "Speckles, a ferocious tarbosaurus and his young son junior, mourning the loss of their family in an epic battle, roam the lands in search of food, adventure and peace. Under the watchful eye of his dad, Junior is growing up healthy and strong, but with an overconfidence thanks to his young age. After one encounter results in Junior being kidnapped, Speckles embarks on an adventure to the ends of earth to find his son. Encountering friend and foe, ally and enemy, Speckles will stop at nothing and will take on all corners to save his offspring.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?RnlKejdvTjg1am56N3VFeStWWjdhUlNzL2RHWWJsYVVST3Awbi9nT1FLaWJLZDU5M1JvaGRCd1BpdE93dEZYVVF5SVc3ZHBPOWY0NTJMczEyRnpiRGl2ODRsVlgwVmRUQ1V3cXpFSGZnSGtmc1BNOHlmT20xM0IrWkNRTnFoeWcrNFN3dVR1ZDJmdWdUYVNZT05CeU9nU1NwSmVOVGltR2JOalJpS1ZCbTkxcldWZUxQRFYzZU5QQmdseFdheXJLWGIxMkFLdkNwc0d3TDBiSHE0S2Z5bXVSTlRQMzYvaXFWbTlTaW8zYkxuL1hUODdVcXgyWEZlbVUxdUJJZXFZeitVcC94QXZEOHJHMy95bmNOZmtGL09GWWtZYTJEM3djeG14akE4Y2hCd3pZYWtRRWErcVpPSzYzS1hpWEcyTlI6Ohv0GuBwsvFxsUkTA5EWGSU%3D"
@@ -5538,7 +5538,7 @@ const allMovies = [
             "Yumi Uchiyama",
             "Yuusuke Kobayashi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/04/9l3ooXPAWxqxap7r1oRWycfnivq-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/04/9l3ooXPAWxqxap7r1oRWycfnivq-152x228.jpg",
         "description": "During the Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow OVA pre-screening event, it was announced that Re:Zero franchise will get another OVA. It will adapt the prequel novel \u00e2\u20ac\u0153Hyouketsu no Kizuna\u00e2\u20ac\u009d which was included in first Blu-ray and DVD volume of the TV series. The episode will revolve around Emilia and her meeting with Pack during the journey to Roswaal Mansion to be a candidate for the royal election.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=IHnXAI3BM7TrXUCoZs2nFAdAXU7PGey43LuP%252FYQPiSEDSKkiJ9r6wTQ%252F3rDW8ZThjcEVzqV3ueBI9DaO0YBbXpwfvC0d9N0iy4OasxqYIKgMxM%252BeHE%252F2PUwHAMCWCWRDRlCp3Hap1XKBqM9l6eCudeQFv%252FDikbSxwY4QTq%252Ftt1NMqwNEnsWW7hzTXzhzQdCL0%253D"
@@ -5578,7 +5578,7 @@ const allMovies = [
             "Uzo Aduba",
             "Zach Callison"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/8mRgpubxHqnqvENK4Bei30xMDvy-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/8mRgpubxHqnqvENK4Bei30xMDvy-152x228.jpg",
         "description": "Two years after the events of \u00e2\u20ac\u0153Change Your Mind\u00e2\u20ac\u009d, Steven (now 16 years old) and his friends are ready to enjoy the rest of their lives peacefully. However, all of that changes when a new sinister Gem arrives, armed with a giant drill that saps the life force of all living things on Earth. In their biggest challenge ever, the Crystal Gems must work together to save all organic life on Earth within 48 hours.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?UWQ5SVkrdlJqZDRBazBZN0lobnlkUUFQdlhPSnBJNE1pdDhweUlGN2Mzc2ZHQzh4MXRocGF4S0hPZlduRnFGY29HakIzYkhjSWd2UDNDR0swZmM3bnBTMWNmcG40TitBR2pPUWdNZmRzR21KU1BSTlRIT2pISUZPRVErUERCMVlHMTNvSXp6NjFGU0JNL0NsRG1OYzlDdkMrditvemhrejQ2NXNaOFM4VnN6VlNoQU9KRUVZdjBoTHZoN2xlVlA5M0pPNVZYUHdxaW9UL1VkYW54eE1ja3VScmhGeitwejZWem9lMG04Z3FwdEtaREh2a0pXam5TMFQzbVpkRThhc3FXUmEweFdJZmdTTHVka1FhZVRia21zbFFnUE8zSkNWMXFUZ0I3dk1DQkRRa2k4UGJuS05TenpTQTNNQ0lkQUY6Oo%2F5qitBzopZPfcJQbgbZmU%3D"
@@ -5612,7 +5612,7 @@ const allMovies = [
             "Takayuki Yamada",
             "Takeru Satoh"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/5R70ehKGh5V0ZYOdikxwSfoLGMt-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/5R70ehKGh5V0ZYOdikxwSfoLGMt-152x228.jpg",
         "description": "Luca follows in his father\u00e2\u20ac\u2122s footsteps to rescue his mother from evil Ladja. Finding the heavenly hero who wields the Zenithian sword is his only hope.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=gFB4Bm4TQE8zvkf3vbvdUg%252BBMYrSkGoEV7CYH2xwGuLEQeZKbZ7wtoddUcmC%252FszRZXiSMyKDezjwWeCiJzyQUs61H1h26BD4PJ8ltFu1EeGGXzy4oKt0sBaN%252BdQVJz5GHFJC8rjc6lLnLnp2YskQAiWqjffz1cf7bJ11TEfv1FB%252FoBJgTGs4cgd05VJ2U32Wo%253D"
@@ -5636,7 +5636,7 @@ const allMovies = [
             "Rina Kawaei",
             "Ry\u00c3\u00b4ta Katayose"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/02/Ride-Your-Wave-2019.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/02/Ride-Your-Wave-2019.jpg",
         "description": "Hinako is a surf-loving college student who has just moved to a small seaside town. When a sudden fire breaks out at her apartment building, she is rescued by Minato, a handsome firefighter, and the two soon fall in love. Just as they become inseparable, Minato loses his life in an accident at sea. Hinako is so distraught that she can no longer even look at the ocean, but one day she sings a song that reminds her of their time together, and Minato appears in the water. From then on, she can summon him in any watery surface as soon as she sings their song, but can the two really remain together forever? And what is the real reason for Minato\u00e2\u20ac\u2122s sudden reappearance?",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?cmNMdjlKQ3ZMdFpUS3FhUkduVmkybDdKeXlXTk5pZ1ZWejZtT09qMzAwRytyNWh3QUFiaWtybmRFMkJNR1BtRllZSHYwSmg2WkVhWGpnaXE1dTRiamR4RDJaczZMNWJia0RkcnYrVmFwYlZOT3pDb2U2R0xaTGR1T1U4cmRORE5JcGlIZGhFWS9pQjJudTNXbzVmU2lJcmNQR052RHVTZ0dDUDc0QUptdGM5Z3VnS0xWSmlFaGxWQ0ljdHRpbmx1UFl4Zk0zT2VpbHRVQUlSTk5saDRTL1FsR1dBcisyOFBrS3pXTXNNUEw4c2VHNVNycWh6YUZJWEdDajF0ZTRkRWtpajRxdXNGUUhJbnZxL1diejhxeEp5S0VDbEl6bDJ0SG0rMUdIaDdXUms9OjqZ%2F9g5QNon06LSwePLUdWV"
@@ -5669,7 +5669,7 @@ const allMovies = [
             "Teddy Blum",
             "Tucker Meek"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
         "description": "When Jesper distinguishes himself as the Postal Academy\u00e2\u20ac\u2122s worst student, he is sent to Smeerensburg, a small village located on a icy island above the Arctic Circle, where grumpy inhabitants barely exchange words, let alone letters. Jesper is about to give up and abandon his duty as a postman when he meets local teacher Alva and Klaus, a mysterious carpenter who lives alone in a cabin full of handmade toys.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?L1FCai9KZS9SNW56RUR2YXhmNlZCa3pDZUQyc3gwZktKZ3pKVnE5cVg3QXF1bmt0QnRDQWxNZElkenkwN01ibmY4Y1B0WXNDdStlMHJWR0g4K3FjY0pQWUhXYnBiSzBVWmZ2aVBKNk1CbldWTjlpTUVGY2k4ekpITmRTbVFYa3BncXcrU29mL0FJSTIzVWpBUlJFZ0lGQ09zZXAyQlZoRHh3VzhESmZPSUtucTZpalNBNUExd04vOU1MYVFxMnFTdjJCdWZLVFJKL3htY29KZmRFVHdieTZNa1dESzNtRWUxVkNZZ2xvU0IwS1lPRXJubXhmQXhHdmlEeWtsZWt3K3lUT1ptWGU5aHdMUkJvaTA2ZHFpY1E9PTo68rhSZj4pu9vy%2B9u2UAqXVw%3D%3D"
@@ -5694,7 +5694,7 @@ const allMovies = [
             "Yang Wei",
             "Yanting Lv"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/10/wCds1E0y9dNWPYFl1CN0UuFX05V.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/10/wCds1E0y9dNWPYFl1CN0UuFX05V.jpg",
         "description": "The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The Spirit Seed can be reincarnated as a human to help King Zhou establish a new dynasty, whereas the Demon Pill will create a devil threatening humanity. Ne Zha is the one who is destined to be the hero, but instead he becomes a devil incarnate, because the Spirit Seed and a Demon Pill are switched.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-csitmauejzgy.html"
@@ -5735,7 +5735,7 @@ const allMovies = [
             "Seth Rogen",
             "Shahadi Wright Joseph"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/10/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/10/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
         "description": "Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub\u00e2\u20ac\u2122s arrival. Scar, Mufasa\u00e2\u20ac\u2122s brother\u00e2\u20ac\u201dand former heir to the throne\u00e2\u20ac\u201dhas plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba\u00e2\u20ac\u2122s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=pkcTYCrHqt2JEa1nKuDQfgbV%252BflKt849t2SksJB42MOeAVbcKYQQQ03XU1BkDHK9HVDRBISojwRSBGF2fgSaU23X3rrXVjwQIQ8jUsC8AyyBeiCXx11CGswSKVSuj1NzZn3wVQxAZsU9AohoyrWKzpniyrdd426hxakP17AhY9fhm%252FvQtlEejodefeGUVTUkU%253D"
@@ -5765,7 +5765,7 @@ const allMovies = [
             "Ray Chase",
             "Rosario Dawson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/10/w1SBqj0fn1j72ST5i1jauWo3swT.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/10/w1SBqj0fn1j72ST5i1jauWo3swT.jpg",
         "description": "When Amazon princess Diana of Themyscira chooses to save fighter pilot Steve Trevor, it\u00e2\u20ac\u2122s a choice that will change her world and ours. Fulfilling the role of both ambassador as well as protector, Diana earns the name Wonder Woman from the gracious people of Earth. But her heart is as strong as her will as she is determined to help a troubled and embittered young girl whom has fallen in with a deadly organization known only as Villainy, Inc! Get ready for an exciting adventure packed with brutal battles, myth and wonder!",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?MGFJT0ZRcWZuTEt6QlE4SHoyc2Y0QnA4NzJuckJMazhnaGVadnI1ZVFsSjR2UmNTVTlwUmpuL3hDeDFpSFJvSC9xR1JUck44cVRXSEM4WmhjTER6a2JtYkxmaVhHdnJNOHYxbHB0MGRJcThNQVBVS2lKWkFVdW80aGk4c3pTVnp2cGViS0VkbHU2WGpER0ZhQ0c0anQxMSt3MFdDRFp4ZTZDMmR4dEZKZzRoKzZEODdEelFiV0U1YzZnOVQvYThMTWlsenptbGdleGliWVRKMVViRXNIUGwxWjAxNWhSWk83Tk1vak9NSDcrc3J2S3c1cmVtMTNod2F1a2ovK0w1SXhxNDBKMHJSTVp3U3VhZDIvNUNtVTYyd1NLekJaR01CY1ludXBjZmZwYzg0Ti84eEN5WVpQU3lIY1N2RzJuei86OtWECUqydPNhoyC7q%2FZRFQs%3D"
@@ -5793,7 +5793,7 @@ const allMovies = [
             "Rikiya Koyama",
             "You Taichi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/10/7ypOmAQ3TowBa4iBILBboOEQqYh.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/10/7ypOmAQ3TowBa4iBILBboOEQqYh.jpg",
         "description": "Rikka is a ninja descendant. Her grandfather Hyoe is the last chief of their ninja clan and her father is a cyborg researcher. Both are killed when a weapons\u00e2\u20ac\u2122 company raids his lab to use his research. Rikka sets out to avenge their deaths.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?U3FzL255UitCelVkVkV3OEtXWDI4dmdKRkVyK05rSTFaeGVrb1RZRkhsNmJ2TklINGZSRUROeWZSR0ZuQUw1Mk5RQVZMVTkxYWszclVxaThIZzRYdEhVZ0xoTWprRndycmR2VzIxdU1mRDZ0ZS9hbmJrYmlwYXBXNVNzSFZtNHZGMGVGdytESWxVeGtKUTNLN05yMXphYjdUWThtQ0YvK2FwQjdObGVtR1NFV1dKV2ozQml1WnJkRkQra3lsN0tQdVk2QTFhZ0xvVVhXUURsdVhKOU9Fb2haYm41NjRRdW43QTF4SVhHbWJlRUhabFdMc213Mk5XK1ZqTWRWV2YwMCtTamt1bnpneU45M2JvRTBwRnhQSk5kTjE5SHhOK0xidVo1aVptc0ExdmM9Ojr1%2FqSzljfRTZLx18q6O%2Bnn"
@@ -5815,7 +5815,7 @@ const allMovies = [
             "Christian Clavier",
             "Guillaume Briat"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/wmMq5ypRNJbWpdhC9aPjpdx1MMp.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/wmMq5ypRNJbWpdhC9aPjpdx1MMp.jpg",
         "description": "Following a fall during mistletoe picking, Druid Getafix decides that it is time to secure the future of the village. Accompanied by Asterix and Obelix, he undertakes to travel the Gallic world in search of a talented young druid to transmit the Secret of the Magic Potion.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt8001346"
@@ -5837,7 +5837,7 @@ const allMovies = [
             "Matt Ryan",
             "Robin Atkin Downes"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg",
         "description": "A decade after a tragic mistake, family man Chas and occult detective John Constantine set out to cure Chas\u00e2\u20ac\u2122s daughter Trish from a mysterious supernatural coma. With the help of the mysterious Nightmare Nurse, the influential Queen of Angels, and brutal Aztec God Mictlantecuhtli, the pair just might have a chance at outsmarting the demon Beroul to save Trish\u00e2\u20ac\u2122s soul. In a world of shadows and dark magic, not everything is what it seems, and there\u00e2\u20ac\u2122s always a price to pay. The path to redemption is never easy, and if Constantine is to succeed, he must navigate through the dark urban underbelly of Los Angeles, outwit the most cunning spawns of hell, and come face to face with arch-nemesis Nergal \u00e2\u20ac\u201c all while battling his own inner demons!",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt9177882"
@@ -5859,7 +5859,7 @@ const allMovies = [
             "Kana Asumi",
             "Rie Murakawa"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/4FYByiEtOy1NGzJPTrzWFUO6Q7a.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/4FYByiEtOy1NGzJPTrzWFUO6Q7a.jpg",
         "description": "The movie for Non Non Biyori series. Summer vacation is drawing to an end. When Suguru wins a free trip to Okinawa, all of the five students of Asahigaoka branch school are excited to end their vacation with a bang. Along with Hikage, Konomi, and their teacher and the candy store owner, everyone goes to Okinawa for a fun three-day trip. There, Natsumi makes friends with Aoi, the girl who helps out at the hotel they stay in.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/wej1lanzgepkexl"
@@ -5881,7 +5881,7 @@ const allMovies = [
             "Sora Amamiya",
             "Y\u00c3\u00bbki Kaji"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/63NOOAkaZAK8h93Sg7Ucq6XLJGP.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/63NOOAkaZAK8h93Sg7Ucq6XLJGP.jpg",
         "description": "Traveling in search of the rare ingredient, \u00e2\u20ac\u0153sky fish\u00e2\u20ac\u009d Meliodas and Hawk arrive at a palace that floats above the clouds. The people there are busy preparing a ceremony, meant to protect their home from a ferocious beast that awakens once every 3,000 years. But before the ritual is complete, the Six Knights of Black\u00e2\u20ac\u201da Demon Clan army\u00e2\u20ac\u201dremoves the seal on the beast, threatening the lives of everyone in the Sky Palace.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/2wq6-c210x7pmgp"
@@ -5903,7 +5903,7 @@ const allMovies = [
             "Rainn Wilson",
             "Rebecca Romijn"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg",
         "description": "When a hulking monster arrives on Earth and begins a mindless rampage, the Justice League is quickly called in to stop it. But it soon becomes apparent that only Superman can stand against the monstrosity.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?TGRheGk0ekFtMGxvOG1zenNyeHpKbFhjTnBVYWtVcFF2ekJxQzRaU0xRV2p6MGZxRlp3K29vN0dvd3RNUncydDF4YmdRMG10eFJMcnFhTFF6amdyV214dWxBWDI1SUcwcENNNFZTQjdXQ25GWGlxc3hGdDM1MWY1by90WnVRNTc4N3AySnJqc24xOS93NHhYNS9iVGgxOGJObU9SUXBaS1orL3RCbE9xVGY3RHJtL2ZnZ1huQTlRU2xxOHFFTDJvczNueVYzc2NBN3laMEhYSTRDaW1zYkJvMXFDbGZlZHJwTk1Ec3JJVENNbEhFbGhCNEZxZUJOV2tTVDhHYVMrTGlGOTZYVUNLdzN2M3Rzd2d2UFE5dmF6eU4xYlBjMHdmclA4VGQ3Nll4WlE9OjoVcmubd727knqrm8khRVVy"
@@ -5925,7 +5925,7 @@ const allMovies = [
             "St\u00c3\u00a9phane Coulon",
             "Thierry Fr\u00c3\u00a9mont"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/QVglFM8WHuA5F07IMzFcKu6RXa.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/QVglFM8WHuA5F07IMzFcKu6RXa.jpg",
         "description": "When the first snow falls in the valley, it is urgent to prepare its reserves for the winter. Alas, during the operation, a small ladybug is trapped in a box \u00e2\u20ac\u201c to the Caribbean. One solution: reform the shock team.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?dUNiOGZISkJuU01ibG9QSkV6NlFsZVUxTzlWNFNHRlJCWFJZMkYzMU9sc2lCbmVnYnVIa3hoS1MxaTFCek5XR2tyb3h0VXN1WE9XdWduZjdzOXJrZ1o5TnFyR0pIQzBRL0ljVXdEOVpjcVN6UnMvbjB6OERPdlZPZS90VUFsTkMwYWpHNnowd0E1Unc3Z013NFEzWjJWbXlWR1ZLRVoyK1hYVGZ2cUJGTkVmblZKaVRDamRyWEFxbDNYbmtTVE05ZDdEYXU3Q0xUMEVLK01TeWZVWHBDSWNYWFV4L0NCWHM4VGFDc2k5Tng1eXhUejFvd290NWkrWkpqQ05GbXpOOW12TFE5K3N0ZUpFaGt2Q0hNbm9yK3AzYjAycTBGQ3l0WnlpQWZ0RnljUDdQK0t2cmh0QzlMaG11OG9wY1VScTY6OoqRzfJ%2FkhVQFtHWb6%2BVtbo%3D"
@@ -5946,7 +5946,7 @@ const allMovies = [
             "Morena Baccarin",
             "Samantha Bee"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/sYq809WTep01HO5oJR9o9VbEDJv.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/sYq809WTep01HO5oJR9o9VbEDJv.jpg",
         "description": "When Blitzen announces his retirement on December 21st, a miniature horse has 3 days to fulfill his lifelong dream of earning a spot on Santa\u00e2\u20ac\u2122s team at the North Pole try-outs.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?QW9MUjNaZDVuTEhvV0tLdk9JY3B1QkVqeFZ5SUJPdXFXcXBrczJ0S1puS1FML0cwUmN2OXJHUWdML2QrYXpIZlFIaWlWVml3OUU3N2tmWWZXd0l2enNMVW9Pb21JQlc1OTBIQlJYWCtSREYxS0kzOE91bzNRSWttVFF6cHZSREpCSXZ5azB2d1U1d0ZtWmZKUy9GV2NjWm9mQVlXc3ZIK25ybGlsb2NETG5qUGFMd25WK2lhb1pVSS9yUDJncFhmTjA2VTB1Y0RWMnB6SW9uZ3VTSVoxU1R2N0ZQaEpyVUpBZ05kWDBJUTNzWjQybEZGNnlPQWxRZ0JGamJSMUlONnUzVmVaZmpHbnNUekxyS0pTTlV5aE9MTGFObDZ0RzgwSkFMbGEwL2h1WWFZdGVZODNzNjRMV1JRWVJjSkZmeDE6OodihpmAlJ%2BIygwYhcTUrFI%3D"
@@ -5967,7 +5967,7 @@ const allMovies = [
             "Haru Kuroki",
             "Moka Kamishiraishi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg",
         "description": "The movie follows a 4-year old boy who is struggling to cope with the arrival of a little sister in the family until things turn magical. A mysterious garden in the backyard of the boy\u00e2\u20ac\u2122s home becomes a gateway allowing the child to travel back in time and encounter his mother as a little girl and his great-grandfather as a young man. These fantasy-filled adventures allow the child to change his perspective and help him become the big brother he was meant to be.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?NUlEcGZGbzlhd3pRUmdkTEQ3TXI5SE1JYU4vR1NwckJSMmg2OFkxWmVMcHMxOVgvTnphdHlvOHNIcjJreElMUVJTakx3YzJXdW0zcTgvdmRIdjBWNkd5WU51M2JKZWhlMmxweTgrQndzNExaNXpTcVBQNFJlTXZvb3hkQjBFZkJFRVQ0TXRicjdMcWpXQWZLQkxxQXlpdUJ5MlJ3b2JLbGdOelFpejNRWUZJQUlLcVdBR3BHeFprcklrRWx6bGJlSm85cVJ1c2E5Zk5xL2lFaEFDRTVzTlVDSk5wNGF5QnVqSmppays2bXNTNEUrc3hUUk5HZW5oeEc1Q05hRk13L0VRR2RQUmZER0FRUTNSU1NvdStzbkE9PTo66Qq8HRfQMqsl7Q6%2BWgqMXg%3D%3D"
@@ -5990,7 +5990,7 @@ const allMovies = [
             "Kenta Miyake",
             "Mirai Shida"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg",
         "description": "All Might and Deku accept an invitation to go abroad to a floating and mobile manmade city, called \u00e2\u20ac\u02dcI Island\u00e2\u20ac\u2122, where they research quirks as well as hero supplemental items at the special \u00e2\u20ac\u02dcI Expo\u00e2\u20ac\u2122 convention that is currently being held on the island. During that time, suddenly, despite an iron wall of security surrounding the island, the system is breached by a villain, and the only ones able to stop him are the students of Class 1-A.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?QmtURDFmTHpFbHVtQVJadW9TaVRWeUxnbUFyQy94ak1kZytxT3Bhd3pXV0o3NW5Yc3lHNjZoN3MybnFiZ2dlTmpIbVZ6eWtNSDRTaXhNZEZNbUdSdXIvM2JCQU5rb2dTSDdiWk1SQlVJKzNCbmFTYUExNzlqVUJ6RjlSTTZESVdkMEpCSllYTkUrNXkrdkMrbkI2OENZNlFqUGp5UU5obC91RXVSL1pQZXQ5azhvTjgyMERLV2FYQnBPVXF4SDNqRXpSYmdDTWtkVmE5aklPRTBuQVRGT05VZkxGRVM5ZUhXVDk2MjV2bk9xZjRZUUsyU3Q1L2grSTRYNDdtMkQ2L3dLUXRWNjY2U1lXSjdxNEwvWm1PZEZTU1c3ajl5N2JEWE8ybk03SkROWUZCako4K2VsbldmUTROK0xjRjVLaFA6OsJM3w%2FIOa7qYbVthanvGYQ%3D"
@@ -6009,7 +6009,7 @@ const allMovies = [
             "Minori Suzuki",
             "Yuuma Uchida"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/10/zc2YSTf4YlPO5kMti5pr6MjxkI5.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/10/zc2YSTf4YlPO5kMti5pr6MjxkI5.jpg",
         "description": "Macross Delta is set in the year 2067, eight years after the events of Macross Frontier. The story focuses on Walk\u00c3\u00bcre, a team of talented idols and the Delta Squadron, a team of experienced Valkyrie pilots as they battle against the Var Syndrome, a mysterious phenomena that is consuming the galaxy, alongside the mysterious Aerial Knights Valkyrie fighter team of the Kingdom of Wind. This film recompiles scenes from the television anime with new scenes to tell a different story.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=trW6R%252Bdc3TCload0BE015QlPbxz%252BZCVruPV99NHDx7NFbDHIWLpHrb2UAAtbDVxGyKPOMKfIikGR31sBJGoX3Yun99Zgfrz0qB%252FXMhlbTIiMVcfwfcUffSzRUMX8vsPZVh8E7xBpRxGIZM4snLuTqobspE%252FIOXIISIn23w634Z%252B0HMcv0CsVHs5bPSs9hgdgw%253D"
@@ -6030,7 +6030,7 @@ const allMovies = [
             "Rie Kugimiya",
             "Wataru Takagi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Batman-Ninja-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Batman-Ninja-2018.jpg",
         "description": "Gorilla Grodd\u00e2\u20ac\u2122s time displacement machine transports many of Batman\u00e2\u20ac\u2122s worst enemies to feudal Japan, along with the Dark Knight and a few of his allies.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?dlFkWjNXYlNZeUQ2d1NRbko4QVV1UTk4ZitsR2xKNFNhSGFGU1VNN3oveHdZUmJZeGk2WHE0R2JpRkpyVW1vb090UExiSzBIb2k2VnBpNWFzakMxWWtPZ3lyK2hHa3NiR1RNbjEzc0NrN2JORnJXUWF6bVhINGRBWVhmc1BJbEs5YTltTUx4b0NMTGUyY29FVnorM1pmcmpOWlpMSTNxL0ZnWG1CdHZoK1dQaC9MMjlTWTRvRmhFenluRHZKeThsdy85WWpVd20xdS9JZTFRZVRsdFpEZTVqc29lc1p2UmpucWJvSnFaaFdWcCsrT3RacGlyajlwZGVRUWN5cG8yRHZRQ0hLYjlxSHNyaGtiSmVicEl1dVJKc2hmRVNGdTB2d1JnalIyOWpHbE09OjoZ1kDD9aPVzkSBpDu17t2%2B"
@@ -6052,7 +6052,7 @@ const allMovies = [
             "Kenta Miyake",
             "Y\u00c3\u00bbki Kaji"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Godzilla-City-on-the-Edge-of-Battle-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Godzilla-City-on-the-Edge-of-Battle-2018.jpg",
         "description": "Humanity\u00e2\u20ac\u2122s desperate battle to reclaim the Earth from Godzilla continues. The key to defeating the King of the Monsters may be Mechagodzilla, a robotic weapon thought to have been lost nearly 20,000 years ago.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?d0ZLVE5SY2QydVpEdXkyU2Z0b3BEdXQ0bEMxQkFxRVpZODFjL0xvclNiL1BBa3lyenZ0T0hWWENLZHpsR0NvZ20wRlZYNFYwUE1aZzVQcVMxMXdsOExKbnVQL1I2azRmY0Q2M2pvdUpieWpJWTByOUZSV201NGJPVlJSWGtockVlS0l5VUdRWHRhSE1EZ1pxbmNONVd3MmZ1TjZZOUlpTk43Z0NTa3plaDBYc3ZrM3ZXalMwUitOS2N2RlVYc09wT1VSZko4bnZGY1M2OXloRFVWV2dtWWJvQ2lEWC85VlV3dkJUN2FsbkNhRC91L3dIYmNFYk1PZlhZNDArNXFtaWdYUUZPQ1JZc3dTVHVrSEZvbE5nVVNuRVl1SlAzdzVrSU9idTV1OU9sZUNWZk9hRFRleWtXUUgzNnh0c3BLdkZFU3p5bmpKVHBkenRwSXFtaEh1Rk53PT06Or8tuGSYO4qDGqQgVJXuu7U%3D"
@@ -6069,7 +6069,7 @@ const allMovies = [
         ],
         "sutradara": "Haoling Li",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Flavors-of-Youth-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Flavors-of-Youth-2018.jpg",
         "description": "Three different stories of youth set in different cities of China. 1 Shanghai Love. 2 Sunny Breakfast. 3 Small Fashion Show. Directed by Zhenxing Yi, the plot revolves around a young man working in Beijing. He used to live with his grandma in his less developed hometown Hunan. While he is drown in his childhood reminiscence, he receives an unexpected call \u00e2\u20ac\u201c Grandma is in critical condition.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?NFlna0hOdjlLMkFDNHhKNzR3NDBkUTZzT1ovalVtcTNLTlQxbzBxamliMXJ2THNkbE5rTlVuVjh5MUJvbnNHOWlYN21LUCt5TVZuRG5ORnRkRmhwN3RWVkUydVhXaWxlbDlIMjJERmp5b0JJaWMvRzlieEZ1dUpKMlpqbVd4NkdJNmJ5RURCTVZKd3AyU09PSHh4VmZOSE9yaVA1YldOcDMyakVsR0YvVTBBS3FEU0J1NCtUYWZrb2c0eUZGSStBZHBlVGI5RlkxWGNhbzNrY01VbGNIRXdZVDM1Nk41enNNUTl4ZUJJUCtKdll3MitwRVZUUmZFVGkyUDRNRFpRemRnbVhlV1FUM3RWNWt6VTdacUM5ZEttcHNsQS85QzJOUUYyMDFvbEpnQTQ9OjorvCoquHHseAbzslQq%2BXAm"
@@ -6089,7 +6089,7 @@ const allMovies = [
             "James Corden",
             "Sia"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Peter-Rabbit-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Peter-Rabbit-2018.jpg",
         "description": "Feature adaptation of Beatrix Potter\u00e2\u20ac\u2122s classic tale of a rebellious rabbit trying to sneak into a farmer\u00e2\u20ac\u2122s vegetable garden.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?UVFUVVRyVDVIdXhXQUNqNTlxNmtqUExKY1NlNkw5VzZrTzgxRlJFTzJLeHZQeDJEaGVFZm5BdnpCUVlLRXJmMkpWNTRLOG5KQjh5Qjl5ZVVQR3JGV1BpY0dpNVRtZm1lcjU4V2hnU09nbVhneUorbnVZaHJkTWlKMnNKY3FROUZnSmFrSTVHUUVpTXJnUXJQM2tVT3lRcURLZmNDL3Axang4Nlpqc3UxU2JLekN0ZjYvUzAybE9kVi9kNmp6RmU4NHBQNlRjcWRTWE1kR2hwTWI0d3Rlb2g3Y3F6L3kwKzNVTzhkWVREenl4WnFoV3kxSlRPeWFGc2lmVGM2MHNEUXh0SGpzbjF3VTNad2c2RXhOTFpzSjI1cnJ5TFpmVDVvM25mTVFMbFFQSnc9Ojp5X6etH4LH4KSjWvuL0Ch6"
@@ -6111,7 +6111,7 @@ const allMovies = [
             "Richard Ayoade",
             "Tom Hiddleston"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Early-Man-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Early-Man-2018.jpg",
         "description": "Set at the dawn of time, when dinosaurs and woolly mammoths roamed the earth, Early Man tells the story of how one plucky caveman unites his tribe against a mighty enemy and saves the day!",
         "rating": 0.0,
         "videoUrl": "https://layarkacaxxi.icu/v/j80gzbd114pqz-n"
@@ -6133,7 +6133,7 @@ const allMovies = [
             "Erika Ishii",
             "J. David Brimmer"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Mobile-Suit-Gundam-Narrative-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Mobile-Suit-Gundam-Narrative-2018.jpg",
         "description": "U.C. 0097, one year after the opening of \u00e2\u20ac\u0153Laplace\u00e2\u20ac\u2122s Box\u00e2\u20ac\u009d. Despite the revelation of the Universal Century Charter that acknowledges the existence and rights of Newtypes, the framework of the world has not been greatly altered. The conflict later dubbed the \u00e2\u20ac\u0153Laplace Incident\u00e2\u20ac\u009d is thought to have ended with the downfall of the Neo Zeon remnants known as the Sleeves. In its final battle, two full psycho-frame mobile suits displayed power beyond human understanding. The white unicorn and the black lion were sealed away to remove this danger from people\u00e2\u20ac\u2122s consciousness, and they should now be completely forgotten. However, the RX-0 Unicorn Gundam 03, which disappeared two years earlier, is now about to show itself in the Earth Sphere once more. A golden phoenix\u00e2\u20ac\u00a6 named Phenex.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?Mnl3STdEWlh1Z1R6dEpqTUNDajg0TnphSEp1TWJSbWlrY20yV3kxdG5RcEp2VFlidUV2clZpTGNLNGx3Yk50RjlTZXB6SGd3SHBBdUY3SGQ3aXdhM1JFcER4VlhONkhGekVRWG1MSnNCOVJua29KL2ZNRUZSaDRxN1dWQTlVak9oMGlPNng2NDZKSWYvK3VVcUV2eWRLSW9TVHQyRy83TUFSR0dtVEppRHg4V1pvL1IvUmtCQ1BuNmNVRW1MVFg2cGNNSExwRDE2cTU2MC9UVkhscXZwc080RTJhUlJTekNKRXJ2SE83YmFGRGYzMVFMazdTQ3VlWEkyUVdYNFpiQVlGVnlKdzJtd2VVUmgvS1pGbDhMUU56Q1dpeG04cTlROFUxMVZHaTVJRVljTWtrYit3VmRrZExCYW92SzFYaVk6OgcVZ6tVPconukbxEEdvbzA%3D"
@@ -6154,7 +6154,7 @@ const allMovies = [
             "Anders Matthesen",
             "Emma Sehested H\u00c3\u00b8eg"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/05/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/05/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg",
         "description": "A possessed Ninja doll teams up with a teenage boy to avenge the murder of a poor child factory worker.",
         "rating": 10.0,
         "videoUrl": "https://www.fembed.com/v/1wm4-cjmkkw11lq"
@@ -6236,7 +6236,7 @@ const allMovies = [
             "Vin Diesel",
             "Wayne Sermon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/01/m110vLaDDOCca4hfOcS5mK5cDke.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/01/m110vLaDDOCca4hfOcS5mK5cDke.jpg",
         "description": "Six years after the events of \u00e2\u20ac\u0153Wreck-It Ralph,\u00e2\u20ac\u009d Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?d01UNDFnLy9SOUM3NndxUE9VMzR3VlRCNUZTNURSZldnY3VTZnk2aklWZ2grdkxhRDdxcDI2ZE1TaUIyTXdHeHdMb1F4emFPWnRqVUxYMXpzSnp4cGtTbjR6ZkRYMmhYVjg2Q3U0ZUIwNVJSOEFFdm5BNEdCOVNuVTlmWE9OQ3VIakE4YVRhV3plZ2Q1TVFTc21QTHpBPT06Oh4rUAuP2nkHWNmCQsy3Bj4%3D"
@@ -6271,7 +6271,7 @@ const allMovies = [
             "Tomokazu Sugita",
             "Toshio Furukawa"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/01/Dragon-Ball-Super-Broly-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/01/Dragon-Ball-Super-Broly-2018.jpg",
         "description": "Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called \u00e2\u20ac\u02dcBroly\u00e2\u20ac\u2122 who they\u00e2\u20ac\u2122ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what\u00e2\u20ac\u2122s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?aEFFWXE1RTI2MFJUQnhrYWU3L1djRyszVUtFbHFqQnExSjBjWUJIbXR3eXpEYi9NNHZIZ0RVY28xTU5VTXhhUFd2OG5jYnQ1NVJwUGpwSnpVNWJ5VnUvSEpCcHlhMlBhSFpmeFczQkJQNUNNTUZLOTl6elBJTDV1UmNkei9qTGdsbDJwOFJTYUR2T2Q4NklBcUZCK3B6MXVQT0Rodkp0cXY4MVhXdWVQNHMwRUVwSS9meTkwQlJIR3ZxVkxmMGhOVzB1bXBiZHdYZlVPYWN3YjViS0FSSStyR1dkRTg3QzdJVkFtSkVKK3JMV3VMQTVYUm16OHhqYnhMTkRCQVY1ZE9RU2twWnJ1L2o0UW9XWnJqR05RSlNlUFZ0dUs3c1B6QWJNd3RSSnhYbEFJVXJIZ3ZPMEZOc2JLRHJ4RUpIenM6Oh5R0rnjM1%2BkxBFO%2FAfF7C0%3D"
@@ -6307,7 +6307,7 @@ const allMovies = [
             "Trevor Devall",
             "Vanessa Williams"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/12/Suicide-Squad-Hell-to-Pay-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/12/Suicide-Squad-Hell-to-Pay-2018.jpg",
         "description": "Task Force X targets a powerful mystical object that they will risk their lives to steal.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?OHV2V3ZLOWoxVXUxbTMreXYxSWpFS25GcStJVUxRV3BVYlo3bVRkM29UdGphMjRpdTdDV242Q09QOGlSWGZVdUFtS1FocWhtc2tLZ2NranFscHdCZzBtZllCaE9WT1pyWTY1cW43MWtoL3IyVDBJNUhjaDlkYTk0NmxuNkJXVGFkMER6MXZYYXJFTjVFclRObWsyM3FqejIxTW90ZUErMi9GUXFMQjN6UEo0eFdFSWpyZVROY1JNUm1yNTM5SzhLeVFkVFBZaFlPV2VzMWdPT21XM3lWeGtGdUVmTEFvaXpISEVaRTdybitndVB3aDdVL2dabTFqUXBOUHRRUnJoOTNZanJBUmpDT21qaktCYUQ2NTVZMy9paEdYQzJia2kvRU1VZWVMWWROaFNHVWtYVy94QWFxS0wxSGdFeHBlTEE6OjtxKDMrBYjwdaYPT7TU6lw%3D"
@@ -6331,7 +6331,7 @@ const allMovies = [
             "Shin-ichiro Miki",
             "Unsho Ishizuka"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/12/Pok\u00c3\u00a9mon-the-Movie-The-Power-of-Us-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/12/Pok\u00c3\u00a9mon-the-Movie-The-Power-of-Us-2018.jpg",
         "description": "Every year the citizens of Fura City celebrate a Wind Festival. Where people live together with the wind. Long Ago, on the final day of the festival the Legendary Pokemon Lugia and bestow the blessings of the wind upon the people. This Film Focuses on Everyone\u00e2\u20ac\u2122s Story. from Lisa, a high school girl who is just starting out as a Pokemon trainer, to Karachi, a guy who can\u00e2\u20ac\u2122t stop lying to Torito, a researcher who lacks confidence in himself, to Hisui, an old lady who hates touching Pokemon, and Rarugo, a mysterious young girl who watches over the forest by herself.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?MTBpaTB1VndWWFNjbmdoOTVDUnJFNTBEUm5zSjRMdDg4LzAwQU5oclBHWDI4V255TnJ2Wm9ianN3VS9Ecm55UFNmdC9zYVlMTTFXbE1yQ2JqNlFqU2tjUnc4S0JEdmdMbmYrK3RuMHNTYnpVNmR5UTA1cGVJbkt0UDRKOU81OUdrcWE2V3hWTExVc0s3ZkUva0NyMkIybHNObUR3ZGJEOGhDMGZQL2FTanRQVnIrMlYvc2NnWmkzMitkd2Q3Q002RmZDZit1ZEcrK2dzL2dUN1M4bXFjNGNrdmpSRGVMNC9wYWRieDRHdDJrSmE2emoxZTE0dWtyZDQwWGFlWXp1cmEvN3FabU9zZ3llbDl2bUtjb0kvZktGSkdScTJOUmF2elNXMjR6K2NGMUtjK3p4TXpnZURXbU0veXZBeVQ5UWtGamdGdmo5UURsSUlLU1B5YXozNUd3PT06OudHS3cGftSfEqtw2oL5NB0%3D"
@@ -6355,7 +6355,7 @@ const allMovies = [
             "Yukiyo Fujii",
             "Yuuma Uchida"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/12/I-Want-to-Eat-Your-Pancreas-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/12/I-Want-to-Eat-Your-Pancreas-2018.jpg",
         "description": "One day, I\u00e2\u20ac\u201da high schooler\u00e2\u20ac\u201dfound a paperback in the hospital. The \u00e2\u20ac\u0153Disease Coexistence Journal\u00e2\u20ac\u009d was its title. It was a diary that my classmate, Sakura Yamauchi, had written in secret. Inside, it was written that due to her pancreatic disease, her days were numbered. And thus, I coincidentally went from Just-a-Classmate to a Secret-Knowing-Classmate. It was as if I were being drawn to her, who was my polar opposite. However, the world presented the girl that was already suffering from an illness with an equally cruel reality\u00e2\u20ac\u00a6",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?RXRyU2lKUEI4bGlla0ZvcWVJVEw2OER5VHRRZU43SDJuaTdEVEIwRUZuNUFqcjBEam83WmJXNWRHY25xVVdvL2xIOHN6QUdrdG9jS2xid0t3TUo2WEMwa0NEcVJscEpVZXZ3aVV6R2M1OEVLZGpTbE9FT0lpc3ZBaE8xaFI1b3VzOU9PT0JqeStzVTB3bnlTNzFWeDd1SXlRS3BwMlhJK25PeWg5Ky9Zb3JyQ0dMYkVvY2g0Y1dzbzl5RE5NVTZKaDcvZlh6d3pPQ1YrMks4Z2xTenl2WkxDQnlaamVBcTFydlJDTUxBTnM4VTJjb2l4S0kwd3p4RmNSRnNlYkFwamNJR3l6ckNiM1RZMTA0THZZZTZ1NEFyeG9TWVlUZWh2L3hsQUk5dXMxTndqVXFyRDFpQU5UdlozTzZ3WFNmWmE6Og9pvfVC%2FWsYjmAoqQWaHyA%3D"
@@ -6389,7 +6389,7 @@ const allMovies = [
             "Yara Shahidi",
             "Zendaya"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/12/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/12/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg",
         "description": "A bright young yeti finds something he thought didn\u00e2\u20ac\u2122t exist\u00e2\u20ac\u201da human. News of this \u00e2\u20ac\u0153smallfoot\u00e2\u20ac\u009d throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?WHlrQ0tKbHpxRTBUWThMc0RheXVMc3I3Z3N4M2dOMEhlYjg1QkhZcGlVUlpadU5uU3F6TTA2TngrT2dXSldaNE5yVWFrZTFrcXhWVDlxUFZkdVVuRk1UME5Ta3BSUWZocFNvQWtIdFB2OERHcVdjbktkYTFEY2JXK0hYc3FkOWdqZFAxVEdLbzFWM1BTeDlVMGhpUnVXUFNrNDFXQnRRTkV1NGxSRW9zaDlxSUN0U0NIZlB1YUlaKzhyMm0rbEljT1BmbVIyUmF6cG5IRjlpNm5VM3BlZ0lRS0FHNjBxSWE2bHBYa01yRTRwR05TKzAwNlVsdUg5L0xFMlJiMlNTaWRVU1RwUkNhZzhnam5jMzFiMVptSTNrejdCbVlRMUFxcmRKd3VYL3crdnM9OjrGkhQ6q78YV5fW6OhgOyZE"
@@ -6417,7 +6417,7 @@ const allMovies = [
             "Wataru Takagi",
             "Yukiko Iwai"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/11/Detective-Conan-Zero-the-Enforcer-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/11/Detective-Conan-Zero-the-Enforcer-2018.jpg",
         "description": "There is a sudden explosion at Tokyo Summit\u00e2\u20ac\u2122s giant Edge of Ocean facility. The shadow of T\u00c5\u008dru Amuro, who works for the National Police Agency Security Bureau as Zero, appears at the site. In addition, the \u00e2\u20ac\u0153triple-face\u00e2\u20ac\u009d character is known as Rei Furuya as a detective and Kogor\u00c5\u008d M\u00c5\u008dri\u00e2\u20ac\u2122s apprentice, and he is also known as Bourbon as a Black Organization member. Kogor\u00c5\u008d is arrested as a suspect in the case of the explosion. Conan conducts an investigation to prove Kogor\u00c5\u008d\u00e2\u20ac\u2122s innocence, but Amuro gets in his way.",
         "rating": 0.0,
         "videoUrl": "https://layarkacaxxi.icu/v/8e50ms86xp761dm"
@@ -6491,7 +6491,7 @@ const allMovies = [
             "Vivien Bridson",
             "Zain Falzon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/11/Christopher-Robin-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/11/Christopher-Robin-2018.jpg",
         "description": "Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/53w0-sdzy-11p0q"
@@ -6537,7 +6537,7 @@ const allMovies = [
             "Wil Wheaton",
             "Will Arnett"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/10/Teen-Titans-Go-To-the-Movies-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/10/Teen-Titans-Go-To-the-Movies-2018.jpg",
         "description": "It seems that all the major superheroes out there are starring in their own movies \u00e2\u20ac\u201d all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet \u00e2\u20ac\u201d putting the very fate of the young heroes on the line.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?ejNJOWdGNHdzQThmblluVmsrUGk0alVXMkdNeVlWK3dVakQ0NzdNQWcwMGpkQlZpKy9QVHZIeXpPcXg0a0J0Z1hyMHdiblNMSnF2MWFQelV3eU9UMis0aG9FRjdaNGJBSmpWVS9GNDZpcEEwcHN1OWRDeGxBSnc0SGozaXIwbkJ6dmthdVliVXhBWXZGT1hlZWUvN0JzZmZnUXRNOUxNbDJ0aGc3bzJXc1N1b2tDQStSdElvSUZjZE9yWTFoY3QxWHk4dUJwenYwcjcxTXZ2R0FiNU56RnF2azF0NktKZElraFpjTG54T1EwcGl0NjA5VGJZWDNURUxKckh4dm5nb0F2cFpvelBNVlBSTkdQWHhlaGZmYThQMTRSYlZpWHBiVk5RVHdXR0xZY0t0aVBGSHRFK05oTzVzZTdsa1p2eDE6OlyKgNtf9x6WsRXhevR2XcE%3D"
@@ -6562,7 +6562,7 @@ const allMovies = [
             "Toshiyuki Morikawa",
             "Yuuma Uchida"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/10/zc2YSTf4YlPO5kMti5pr6MjxkI5.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/10/zc2YSTf4YlPO5kMti5pr6MjxkI5.jpg",
         "description": "Macross Delta is set in the year 2067, eight years after the events of Macross Frontier. The story focuses on Walk\u00c3\u00bcre, a team of talented idols and the Delta Squadron, a team of experienced Valkyrie pilots as they battle against the Var Syndrome, a mysterious phenomena that is consuming the galaxy, alongside the mysterious Aerial Knights Valkyrie fighter team of the Kingdom of Wind. This film recompiles scenes from the television anime with new scenes to tell a different story.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/53w0-sdzjeq4643"
@@ -6612,7 +6612,7 @@ const allMovies = [
             "Sunny Sandler",
             "Tara Strong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/09/Hotel-Transylvania-3-Summer-Vacation-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/09/Hotel-Transylvania-3-Summer-Vacation-2018.jpg",
         "description": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship\u00e2\u20ac\u2122s captain, Ericka, who\u00e2\u20ac\u2122s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?OGtJbUlaS3F4VklML2EwQ2lXZ21EYTJpRFZodEx3TTJFTVJ0Ylh2WGluakxhcy8wRjBIRE4yRVhJWU5SQXpReHprVndEUGxqd3BxemRVR3YwVFBGWlp2NFBJOWZOY3FPZStZdHZZOTQzN0lDSmgybm5ma2Nycnl1UXROTjFwRWhOR0xUWXM4WkxibFRxWDRrN25LVDIvanJBcVdVaWZPalh3N0pxMUxmYzRwN2RLTjlzN0hoZ1FQSzFSUzErMTdPNGdudFVTVzd1YVUwMEFmSTYyZ2xFN2JSUGNTUUlsNVVuZWxLUEd1bXhITTlGUWkvQTA0OEVWbnlHU1JNWHljVjRBbHUxdjdEbjRJS3Q3S252R2Rlb0VQc1pDRkNoZnd2S1hwQlN6cGZTcnlGODdTdnlqdVQ2S1U0a1JQK2s4Rmg6OpYiw0TMYrdk50IGLlTfh8c%3D"
@@ -6635,7 +6635,7 @@ const allMovies = [
             "Kate Micucci",
             "Matthew Lillard"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/09/Scooby-Doo-and-the-Gourmet-Ghost-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/09/Scooby-Doo-and-the-Gourmet-Ghost-2018.jpg",
         "description": "The Scooby gang visits a culinary resort run by Fred\u00e2\u20ac\u2122s uncle, Bobby Flay. While enjoying the sights, a ghost attacks the guests and destroys the resort, leaving the gang to put a stop to its threat.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?UDBvZGltOEU1YmFNZFVBR3JEQ1hKSEN3WUZiUk80SitNTVkzQmFZOFFqT2tac1g1QWRGUnBXOWVzb3I3RXFZWnVvdzZEakgzSTYwQnB6SzBKcXYrVityVmZNVytsRkRGTDdGeGh6bENGYXVUNU9lK2o5eEd3N1huazUwY3lHQmFRTGUwR0pmdW1uWmRVS2R1cUJKVmdxbGxBcFpTNWVlY0E3eGpIY2NwNW5TWFUwNVMrSzlEdVN2ckkyaisyVGh3KzVDcnA2L0FibUR6dFE4WFRlWXpwRWV3Qks4RmsxWlZzaCtzLzZZRmhWTUlxSE1Db0tCUi9FbTQyZTVPZW8zWXN2aUl2MkNienVHeCtVVE1uWFdrK29PbkpqL3d4MHVkRUdLTGRQd1RuWmwya2lsT3RwckM1aTVxdlhyNDZ4Yk06OqS5GsIeJsaIw6r2mVS%2Bq%2BA%3D"
@@ -6650,7 +6650,7 @@ const allMovies = [
         ],
         "sutradara": "Kazuaki Imai",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/08/nWe3eY9YZC2EG5PFwIAENiqay4J.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/08/nWe3eY9YZC2EG5PFwIAENiqay4J.jpg",
         "description": "The story is based on Robert Louis Stevenson\u00e2\u20ac\u2122s Treasure Island novel.",
         "rating": 9.0,
         "videoUrl": "https://acefile.co/player/3364775/doraemon-the-movie-nobitas-treasure-island-doraemon-nobita-no-takarajima-2018-bagifilm21-mp4"
@@ -6717,7 +6717,7 @@ const allMovies = [
             "Yojiro Noda",
             "Yoko Ono"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/07/Isle-of-Dogs-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/07/Isle-of-Dogs-2018.jpg",
         "description": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island that\u00e2\u20ac\u2122s a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/xyjkeh5qwy6eg20"
@@ -6756,7 +6756,7 @@ const allMovies = [
             "Richard Wilson",
             "Stephen Merchant"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/06/Sherlock-Gnomes-2018.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/06/Sherlock-Gnomes-2018.jpg",
         "description": "Garden gnomes, Gnomeo & Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?SCtKV0RuSmJJUXVucmVXL0VwbjQrMDhVdjNxVC9RUFJXNG43cmlwU0JZWmJLMXZ3bGF5NDk2dnVERG5Oa2xuSFVXV0hkc2ZJa0pmWEZTUXp3OGcwS2xYNmtxNE4venBsbDJid3VoQVU3WTg4Y2VwdDg0dy9uVStEUzBxbWZDcENnbGNhSk1mRklIRmEvSHFjcDVIVjFPbnRySUZjTllEK1JuWkRKRFlBWFVxbkprd1RuQkVCVmFBenVuOHYrWmFFR2oyVXpLMVltSTA4bmF2OUNpR0F4YUJ6dUlDN1RQUmQ2NUFiMmM2T0ROWExNeUFEV2xBNDdTOHdoeldCMzFRVmFMdEhBeFNLaHdqM2NjOUlpckFzVE02V0d3ZnlGK0o5M1hhRG5hTGNBVDQ9OjqJw8uGZvi0d%2BKZ3Pc2bjVM"
@@ -6790,7 +6790,7 @@ const allMovies = [
             "William Salyers",
             "Yuri Lowenthal"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/03/7souLi5zqQCnpZVghaXv0Wowi0y.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/03/7souLi5zqQCnpZVghaXv0Wowi0y.jpg",
         "description": "In an alternative Victorian Age Gotham City, Batman begins his war on crime while he investigates a new series of murders by Jack the Ripper.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?OWRsRW1RcURSK05sanltTTgzYk5vY0l1ckJqT3BZd29LMHhKZnBIaGlSMHdvdjJXNE9YNDBHUjNicFFVOVpqT1FDSW5WRmJVNnhmTjU2elE4TmhNUloxQmNWSkt3c2lyOGpVM0NQVXlHcm5tbGNka1Nrb3lZUFNOUWtvZzA1V0xxRmdWYWNkTVhZUG84RGMyUlBFcVdyaDFsWFNhVWcxTVZiaWlKU0U4VXJETzVrV25EWk94ZEZ0cjFmaGV6cWlMR3NhcVhVT0xLakNadk9kMkJ1a1gvNEorTklhMGdXYktPM2xoWGU2UFo1c3QxYXorczNQSEJmUFpwVTl5dnBoMFJmdVRKRU41QUExcmRLbUs2VW1Cam1RMmhvcCtOeXd3SytmSUV0bVlVaElSRFppOEs0Skx1ZWxFSWRieDFWY1U6OkvU%2BKmCXV92bJXDb%2Fjzj8U%3D"
@@ -6822,7 +6822,7 @@ const allMovies = [
             "Tara Strong",
             "Tom Kenny"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/03/hSPeF1zoYH8kCOhFMu7x3B55zu6.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/03/hSPeF1zoYH8kCOhFMu7x3B55zu6.jpg",
         "description": "Batman teams up with the Scooby gang when villains from both of their worlds unite to wreak havoc on the city. Featuring classic DC villains like the Joker, Catwoman, Harley Quinn and the Riddler alongside heroes like Aquaman, Black Canary, and Plastic Man. Also featuring classic Scooby-Doo villains like the Ghost Clown, Space Kook, and Miner 49er.",
         "rating": 7.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?R1Q2YWpUSUZUZnBVMU12ZE5pb0dDQzJzTm9HMzQvclRUYUg3ckdIWG5wYWR6TUVqU3k1RXRNMUk2SmFBQ2dHQ1ZEMzZja050cWEvVzNuSXlCYkZGSzgzb1JYMm1BYmRiK091UVpYeU5XdnBFcmlLRlhXTmxaSElJUHZ6dkhRT1NBd0ZCSmxJZTNqaW9lL0FXUS9XL0pKMmpuamlIenYvWG04UG43S2RGek9jU3E1bGF1Z1RYam50ZmNrU2Z5NlA3bGMzZXRvN28rRFBFODhhWjRvVTBMdlFURzc0akpYb3BkQ0ZmLzVpNVJkOFkvTFQ2a1pKdU1XSlUrT0tPbHBwd2JlNmIvS2hjeTdYNk1NMHo1WTlCcFM3RDNxQlNmeFpabk5uN1BqUVZDN2ZTM2JTL1lqb2h0cTFac2o2RnJLVzRSdkJQMkVJMXcwTHJwU3BEM09xaHBBPT06OuuGnyqBdaKAuRtEdn3IxGc%3D"
@@ -6857,7 +6857,7 @@ const allMovies = [
             "Troy Baker",
             "Vanessa Marshall"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/03/peKFgffHTs6gzDgAWOjIfxziLbQ.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/03/peKFgffHTs6gzDgAWOjIfxziLbQ.jpg",
         "description": "In LEGO DC Super Heroes: The Flash, Reverse-Flash manipulates the Speed Force to put the Flash into a time loop that forces him to relive the same day over and over again\u00e2\u20ac\u201dwith progressively disastrous results, including losing his powers and being fired by the Justice League. The Flash must find a way to restore time to its original path and finally apprehend his worst enemy before all is lost for the Flash\u00e2\u20ac\u00a6and the world!",
         "rating": 8.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?SERVV2o4dXd2Z28zTzFxMjZYOVVlYnRUSy8rTnFFL1dQbGpIb1dWSnZMV3hnY1J3NTgweFVyTHlXNno4MmJvdWhiMVFrZGwrQktCVGRDQzRaSlhUcThmS0IzZHJkL0l3SFIxTHozZU03UEJ4S0NMU0xtNGVVQ3VEOGdGMXFVK05Sa3R6UkdWbmhFY21YL0p3cFhIUEpRPT06Oq%2BC%2BNk5ya%2BarXb6du7PzgY%3D"
@@ -6881,7 +6881,7 @@ const allMovies = [
             "Jonathan Pryce",
             "Tom Hardy"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/02/om1wVOuEtwH3krHutIWO9sJzkS5-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/02/om1wVOuEtwH3krHutIWO9sJzkS5-152x228.jpg",
         "description": "Nonton Taboo S1 (2017) sub indo \u00e2\u20ac\u201c\u00c2\u00a0 Adventurer James Keziah Delaney returns to London from Africa in 1814 along with fourteen stolen diamonds to seek vengeance after the death of his father.",
         "rating": 7903.0,
         "videoUrl": "https://www.youtube.com/embed/W1fiijqrKuc"
@@ -6904,7 +6904,7 @@ const allMovies = [
             "Shannon Conley",
             "Tilman D\u00c3\u00b6bler"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/aKwgGlhdhdbx0duJhCRojkEZXgU.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/aKwgGlhdhdbx0duJhCRojkEZXgU.jpg",
         "description": "Orphaned at birth and raised by storks, the teenage sparrow Richard believes he is one of them. But when the time comes to migrate to Africa, his stork family is forced to reveal his true identity and leave him behind in the forest, since he is not a migratory bird and would not survive the journey. Determined to prove he is a stork after all, Richard ventures south on his own. But only with the help of Olga, an eccentric owl with an imaginary friend and Kiki, a narcissistic, disco-singing parakeet, does he stand a chance to reach his goal and learn to accept who he really is.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?bTlDNE9DZjZsckNjU2E1V1NQRmo1cVhLeWYzS1MxTzZZakhNSlpudVZFQTZxNFo5K0hUSUhvUlJBUFplRFp4bkpXVkFwc092b2cyYTE0VzRETTNMUDZVV1dWdFNUVTY5N3JmMmFFYkV3MjJnTUxkSmptWWQveURUNlg4aUw3dVBiSXV2NWdPNWUxb1NsT0ZkYTNRd2x2cjVYb0xnRTEwTEoyV1VSaHMxUk9KcWt3cWM1eVJTekNpQUluYURRK1ljZnl5RDNzNzVnMVhKbWJNOEpnbzMwaURBMW9xb0ZwU1dlSFFzemk4OXoxMmVPR2hzNGs3aTRmVmlLRjFiYjBQaElqbWdGYnRDWkp6b3U2Rk44MFVBNVZjcFJmZXJrTjZvNFV4a3J6Z01vNU9tZHdla1RTWWtYSXV5cFZoR3IxTjQ6OmaO4O20Nj4XcN5uZUhY5Mk%3D"
@@ -6926,7 +6926,7 @@ const allMovies = [
             "Andy Samberg",
             "Asher Blinkoff"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg",
         "description": "The residents of Hotel Transylvania find their world turned upside-down when youngster Dennis gets a surprise monster-sized pet.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-zpn47zlx"
@@ -6947,7 +6947,7 @@ const allMovies = [
             "John Krasinski",
             "Lydia Rose Taylor"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/dxFqZiO5MqqVoFZuWOjTdjmDh6d.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/dxFqZiO5MqqVoFZuWOjTdjmDh6d.jpg",
         "description": "A family must use a magical box of Animal Crackers to save a rundown circus from being taken over by their evil uncle Horatio P. Huntington.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt4155534"
@@ -6962,7 +6962,7 @@ const allMovies = [
         ],
         "sutradara": "",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/c4qDRYVcqMKl6fdiCwfb3icHrUM.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/c4qDRYVcqMKl6fdiCwfb3icHrUM.jpg",
         "description": "Shortly after the Inter-High of Kagami and Kuroko\u00e2\u20ac\u2122s second-year, a street basketball team from the USA called Team Jabberwock came to Japan to play a friendly match against a Japanese college-level street basketball team, Team Strky. Despite their best efforts, Strky is brutally crushed by Jabberwock. After the match, the Jabberwock players insult the players from Strky and all of Japanese basketball, claiming Strky\u00e2\u20ac\u2122s basketball was at the same level as monkeys and telling the players and crowds to quit playing basketball and kill themselves. As a revenge match, Kagetora assembles a dream team of all members of Generation of Miracles plus Kuroko Tetsuya and Kagami Taiga, along with bench players Hy\u00c5\u00abga Junpei, Takao Kazunari, and Wakamatsu K\u00c5\u008dsuke, forming Team Vorpal Swords, with the hopes of reclaiming the pride of Japanese basketball.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?WEgzV1JTdzFSdkVKb3RaaWwvb0RjTlBDcHBMSC9EdUtiOUx0cit2ODFra29oNDMyTFBJeDZoZmpTOHcrYlR5RmgweFhzUlp3SkFkU1pES2JHdVdqWk1pZXlYTTU2Y3I3clROY00zczlZbVl5TFFMSzcwMU02OG13eTFoWndQcDlVaVpNd3R0T1BuSkFpbXBTdm00ejBOamxydGZzRmZkUmw3aTltSE5nU2FBWE9jQURxRGFZYVVMSmRpdCtvREN4VHcvcjg0dnhuME9XTWFEeEhHcGhpNnJoVGNLbDVlZk5iTWtMVEN0Yk9wR0wrRnk5d3pZTTJlQU1yMXcyblQ0dkZxMmoxSnh0QmxTeUFtSk1XQlVpci90dVorQXhETEZlUW9GUmQ4OEk3bFc5WWNocUMyMnluWDYrb2d2RzYrZ05TWWlSbE9nMjJxcGF1d3NGMGpGZ3B3PT06OgFsdUCS2Yc%2FZV4p3MzmZu4%3D"
@@ -6982,7 +6982,7 @@ const allMovies = [
             "Lucy O\u00e2\u20ac\u2122Connell",
             "Ruth Negga"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/htzoW7Cu7Hqd0xofflI7bCKRh2C.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/htzoW7Cu7Hqd0xofflI7bCKRh2C.jpg",
         "description": "A trip to church with her family on Christmas Eve gives young Angela an extraordinary idea. A heartwarming tale based on a story by Frank McCourt.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt7829544"
@@ -7005,7 +7005,7 @@ const allMovies = [
             "Yoshitsugu Matsuoka",
             "Yumi Hara"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/vreK2YNFCvOaP6wNaOvT4r27w3V.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/vreK2YNFCvOaP6wNaOvT4r27w3V.jpg",
         "description": "The film\u00e2\u20ac\u2122s story begins when Arata inadvertently touches \u00e2\u20ac\u0153Hermes Apocrypha,\u00e2\u20ac\u009d Lilith\u00e2\u20ac\u2122s Grimoire. Suddenly, he is enveloped by a bright white light, and a girl appears before him. She calls herself Lilim, and treats both Arata and Lilith as her parents. At the same time she appears, something changes in the world. The forbidden Eternal Library awakens. In the Library is sealed the ultimate culmination of Alchemy, the White Demon Lord. The White Demon Lord plots to eliminate Arata and the Trinity Seven to usurp the position of Demon Lord. Bristling with untold power, the White Demon Lord attacks Arata, and triggers a desperate crisis where Arata and the Trinity Seven must save the world in this last battle.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/1wm4-cjmr3lw2yz"
@@ -7027,7 +7027,7 @@ const allMovies = [
             "Yuichi Nakamura",
             "Yumi Uchiyama"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/iUttStQFPGp8rCXn7JYfC5IIlQF.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/iUttStQFPGp8rCXn7JYfC5IIlQF.jpg",
         "description": "In the story, the seasons have changed and it will soon be the second spring. Tatsuya and Miyuki have finished their first year at First Magic High School and are on their spring break. The two go to their villa on the Ogasawara Island archipelago. After only a small moment of peace a lone young woman named Kokoa appears before them. She has abandoned the Naval base and she tells Tatsuya her one wish.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?OFJRQUNmaEZCc2ZMSDYwVDludkZTWnhiZmZzdytWRTA4QjMxQXB0UUFFYXF5WHcvQnVvVnJvVkNsU0lRemFJYkx4Um5lRDdOTUFyajhwK0NNNU12U1NKZSsxaXU2WmorMVFsSDV2WEkweVZvYmI4djMrVHBTNThhZW1RZ1E0cUlINDV1TUU4RUtla2dSTnlKU3Y5aExnVVlaYjJUeFA2WU90R0dLbG9rdXNJVHVUU0FWZFJ0R3pZOHNKOENqNnlReWxNM1Nhd052aSt3dUY3ekdJazBIc3lLVDJBam05ZEZPeTNKTi9OR1VwUmdQcWpVZVNBN2hWWmtXb1dkOUZqVXNwY3RNcm4zQzFNNkprdzlLVis0SzhWdlo4UTVBem42WWF5MmZSQXpKaGY3WngxQzV2REpvVkJDU2pBL0NwaGVJREl6ZWdMNytIUDR5Mm5wdzlZeGxreWx2ZXNYaW1uZmYxZjc3UEJ5bzhJPTo624sjqqTxL8E0PTarE6%2FAkg%3D%3D"
@@ -7048,7 +7048,7 @@ const allMovies = [
             "Mai Kadowaki",
             "Natsuki Hanae"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/XuP7OSWqM46J6yUyzbp09txQqC.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/XuP7OSWqM46J6yUyzbp09txQqC.jpg",
         "description": "",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?SSthRzBGWFhBL1VNQk9nd2w2ZVM0Nit4WUR2OEtPa1JIbVFZMTh4ejlSSnhVTERvYnpBenRRZHMzdTRlQlF2VWlvOTI5V0pTZWtEVFZxdUxwcDNWYzB4TkZuWGkxUWcweW9CdlJWZFFqR1lWTEhFcWFGd2tIUHAremF0NEVZM2l5THIzNkdjRVZrMmo2S0NXVmpLZlBPVjJUanIva0tjdkxuenlISEF1QWRpaWlUcjJ6UmV3akxRV2Rmb3c0a2sySDdsWUwvd2tNbEJTZ2NoeW1UZFpSMXRJVWxqN2s5SlUvZGdHUXh6RlZLeHVWaHFuTXhmTGNuTk5jNGZhOXN4RlJWMWNiVUF4c1FTcTR2WUpQM2xrNDJQLzI3OWxNSHg4RzMyZWhKWTBxdWNLZVN4TVhlOEVXSG9oTXhxK05NUTFtT3h2QlBacENKclA4dkRwVENrUm10dlRHTnJHQVBBRC9JVFFzWldJTWxVPTo6Pj%2BxJfmnzxvfxGbtvD2XgA%3D%3D"
@@ -7072,7 +7072,7 @@ const allMovies = [
             "Benjamin Bratt",
             "Gael Garc\u00c3\u00ada Bernal"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
         "description": "Despite his family\u00e2\u20ac\u2122s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel\u00e2\u20ac\u2122s family history.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?SE1nRFBQT2dNVGNOMGdQdUpCdzkzUmRLc0dmb28yMjdkMDcyT0tYckFUaWh3c0JKbmhqS0xPNFIyOUszSWp4VXdoZ1YyU1k1QXBZeVZKTlZzL2hFazVEMXNQUEMrTXU0UVVlWmE1WitnV2VsbEY0K1d6aER6K3Z1dWFrUTI1R1JhaW5xam1hQzlnMzlkWkZacmV2c2hwQS9tWjFCeDdMNElpM3FHeHhtY1ZsWGxIVFBKZ2tHaERvTllnamUzbW5yOVNwekFUK0x2ak1XeUFMOU51Y2w4L3JuRndpeElOSlJiVE16M1ZsQTMyODRlQWJIc25meU5VWERCQ3BpSlBuS2dNUjZoSG9iVnhHeXVQb2NEV2xnZUE9PTo6kr9%2BBIost%2BnZWmZOUBgczg%3D%3D"
@@ -7097,7 +7097,7 @@ const allMovies = [
             "Olivia Holt",
             "Tara Strong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/02/Gnome-Alone-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/02/Gnome-Alone-2017.jpg",
         "description": "When Chloe discovers that her new home\u00e2\u20ac\u2122s garden gnomes are not what they seem, she must decide between the pursuit of a desired high school life and taking up the fight against the Troggs.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?eExGcTY2RnRlTFRwRmZzWlFaTjZIYVVSRGVJMmV4ZG9hcHFhZXFJWml4K0ZZOCtCN1ByY004NWcxZGplanZYMGZtbFVua3I2RlduODdiMlZBRnd0SG1CTVFiTnQ1TWJDOEJSaHQ1R2NGT2N2SVZ2dnZseXQyWUFLRjh4dnUzdHZnOU9UQW9HdU9La1lPRTUybk1rUHpFU0pTdEFoMk9Hc1p3a1JRcjdlWnJrRzBFNU10QmJtK015dE1Eb1RPcXhuNlRiVExFVG0xMjI0RUVaamtRMHppcXU5b2VDTVVheXh0NE80ckRYdlJibWNRQW03YVpUTFFkQnpYMlcxM2o0SkJzdzNraGJFTEZSempTUVpnZGJHUktCU0FFU1pkbkt6cUhqdHhUYmZ5elk9OjrY9Ih6SNJPxrdhboOqGdSc"
@@ -7117,7 +7117,7 @@ const allMovies = [
             "Shannon Chan-Kent",
             "Sienna Bohn"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Barbie-Video-Game-Hero-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Barbie-Video-Game-Hero-2017.jpg",
         "description": "Get ready to power up! When Barbie magically gets pulled into her favorite video game, she is excited to see she\u00e2\u20ac\u2122s transformed into a fun roller-skating character. In the game, she meets Cutie, the lovable cloud-shaped friend, and Bella, the roller-skating princess. Together, they soon discover a mischievous emoji is trying to take control of the game. As they travel from level to level, Barbie must rely on her amazing gaming skills and out-of-the box thinking to save her team and beat the game!",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/j61j4hd3mm6wr2l"
@@ -7137,7 +7137,7 @@ const allMovies = [
             "Wasabi Mizuta",
             "Yumi Kakazu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Doraemon-Great-Adventure-in-the-Antarctic-Kachi-Kochi-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Doraemon-Great-Adventure-in-the-Antarctic-Kachi-Kochi-2017.jpg",
         "description": "Unable to endure the midsummer heat, Doraemon transports Nobita and his friends to a huge iceberg floating in the South Pacific. While creating an amusement parks with the secret tool \u00e2\u20ac\u0153Ice-working Iron\u00e2\u20ac\u009d the group finds a mysterious golden ring in the ice. Upon closer examination, they determine that the ring was buried in Antarctica 100,000 years ago \u00e2\u20ac\u201c before people could have lived there. Doraemon and friends head to Antarctica looking for the owner of the ring and come across the ruins of a huge city buried in the ice. Using Doraemon\u00e2\u20ac\u2122s Time Belt, the group travels back 100,000 years ago and meets the young girl Kara who is connected to the mysterious ring. But now the group must fight for survival as Doraemon faces the crisis of the entire Earth freezing.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/-wp2ycpggw750zd"
@@ -7159,7 +7159,7 @@ const allMovies = [
             "Michelle Jenner",
             "\u00c3\u201cscar Barber\u00c3\u00a1n"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Tad-the-Lost-Explorer-and-the-Secret-of-King-Midas-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Tad-the-Lost-Explorer-and-the-Secret-of-King-Midas-2017.jpg",
         "description": "Tad Jones, the most awkward explorer, must rescue his beloved Sara from a millionaire who is looking for King Midas\u00e2\u20ac\u2122 necklace.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/0wz2-cl-7-jk-7g"
@@ -7184,7 +7184,7 @@ const allMovies = [
             "Josh Gad",
             "Kristen Bell"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Olaf\u00e2\u20ac\u2122s-Frozen-Adventure-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Olaf\u00e2\u20ac\u2122s-Frozen-Adventure-2017.jpg",
         "description": "Olaf is on a mission to harness the best holiday traditions for Anna, Elsa, and Kristoff.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?SHArUW5EcHUvY0FsaDZxT0RqMm1DSFhyVU9kalhPOVZsZ201VlUxR1RzNkZrRkt5V3F2UDFJS3JxcU4zRU5NcUpFVjZOUVJhMDNTSGxpc2tDUkJKY1lVQ2VkS2pnazJTenhjZVVpanFlbURMV3kxRnkyakJEM1hHWFBCZVhoWWExT0RUUkI4a0lVNm1lbGlZejJNbUI0MHhBSktVbnhZRSt5L2dDMDVTQlNHNEltT0ZSa28weTJ6ajZ5R2RQa1pzeVRSUWJBMnhwOTNqckNad3hFWmJtK0dRQjE4QWhBUGhWOGFVR05tTkM5YWc3eWdMSGtJTlVXMXhGWWNhUHlFc0FlZ05hNzd4RnhZQnJ1L1o1M3VoZkg4RDJjeThPUFJUSHcyNFlxVjhEYmRuYUQ4ZEI1eEdpSk01Myt1MklrUzU6OhSdhuWaHopIoSV86IYB6EY%3D"
@@ -7206,7 +7206,7 @@ const allMovies = [
             "Jackie Chan",
             "Kumail Nanjiani"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/The-LEGO-Ninjago-Movie-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/The-LEGO-Ninjago-Movie-2017.jpg",
         "description": "Six young ninjas are tasked with defending their island home of Ninjago. By night, they\u00e2\u20ac\u2122re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they\u00e2\u20ac\u2122re ordinary teens struggling against their greatest enemy\u00e2\u20ac\u00a6.high school.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?ZXlHckZXMHd0V2IzZVBWQmNleE1nOVRuSUVUNmZaTGZ2N0dtb2R6Z3IycWViby90eHV3bitucExRQ0tYSkw0S0srdW9QTDY1NGNiL2xHQjJVVk5lTFBKQzZoZnkwTWRHQjRwK1U1SjZkcEFwcHcrOGlJRUswakVBampNWnJhUm5JZDNPQVZ3RHZ6eFBESWN6U0hNZU5FV2hESm5oMkpQdWttVmYwamdGUmVieGFNdlhBUVE0V1lLd1hZUGdkN0lYNmpuUDRzbGhwVUw4MjlFM3FoSkx1bzhkaUVYSG5iYm9laWhkSHZJT2xpRG1ZcFVPcHVLUnhlb2FCRkEyMzZuSXROSW5udmQ0THk2WmFhdTlMUmk2RUpIYmlaZGJkZkdoSnJxQVNSb2RxcDA9OjrZAOkWf8%2BeJI8gurhn8yi1"
@@ -7228,7 +7228,7 @@ const allMovies = [
             "Maya Rudolph",
             "T.J. Miller"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/The-Emoji-Movie-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/The-Emoji-Movie-2017.jpg",
         "description": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?aXMvSlU2ckVLWG5nM1FNZTZxcmZOL3dYQ0N0eDdMaDhsc0FWQXMzNnJXdkNWNk50Q2p6Mm9Oc0ZLOEdWb2ZiVmwxK24vUGJkNGJqVVdVc1NSOE9LaW4zNEVDeENCVy9NRWVRa3kybFhIZTBaUUR5OExYdGVQOUdXZlh1d1NCR1Zkd3pINCtwbXBNK25Nb0NBNGZuN2FyeVZQeG1keStIM1Z5a3RLQkI3WTFlOWVlMkdpR0RJV0J2ai9FOTArY0JRZVJtcW5LRmxPMWE5RTVFRUdyb3NkSzl4MEt1b2YweldJQTNJZVJ1RC9sQ1diUDFRYnZRMmhUVVNOMndFc0dXOWpHYXpUU1VOT1lSWkhSRTByQU1rcGs5VmNSMURUcjllOHBTM3AyWnpaOE09OjoVuMnWa9ETt6bkA%2B73S4sd"
@@ -7252,7 +7252,7 @@ const allMovies = [
             "Makoto Furukawa",
             "Tia Lynn Ballard"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Fairy-Tail-The-Movie-\u00e2\u20ac\u201c-Dragon-Cry-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Fairy-Tail-The-Movie-\u00e2\u20ac\u201c-Dragon-Cry-2017.jpg",
         "description": "Natsu Dragneel and his friends travel to the island Kingdom of Stella, where they will reveal dark secrets, fight the new enemies and once again save the world from destruction.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?cC9uUU9kYm5YMUFtNU5MUzcwRFB1eGNNL1huT0laek9vbjVvaG9yZmlENjV6d3J0QWhxMWxocWE5dzlHWEdPQWFTVjh6OE9TOGpQUEpydUl4Y3NxZWE2d3V0L0ZBUG1NOVNMU0FacVBzYW9iZWZtbEVLNmk2UkcxWlBuWE5HakVPNWpodnR0TzU4M2I0UklwZ240M1lpQUZYU0hiRDVkeGtJZHhEU0huemhtQ0xhYXNFcUcyRFB4VXJnQURKT29OUG5NR0VjVTZhUVZ4OFpKWFRsWDUvcE5kZlBUWG1DQ3h5U0tmdzV2SWFxOD06Or7rZUUJq9M3TinBghWvPYE%3D"
@@ -7274,7 +7274,7 @@ const allMovies = [
             "Keegan-Michael Key",
             "Steven Yeun"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/The-Star-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/The-Star-2017.jpg",
         "description": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?VDN4VStxcU1nWlN0cHorakQ1OGtnUTViai9yNjFhaEtvYys0cTcvcFRnY3hhaXNkZmxRMmVJQ1BERHZyUmhGREtHbElXeEhkSG01L1dNWHlWQ1BzZnFzR2Q3cGNaejVZSVYvWHFuVmZKc3d2Z1NBeGZkdGZtNmhNUnVkMmlvR1c1M21mQ2Z6aG1lL0hTV3NCUnd4ZHlRbTU2RDRUUGhGb1lGTHdPektzTGpVQWJnUWdFUXRBWUtGb3oxa1MvL1Y0dXludDBDRVc5Vm1KcFA3ZDBrYlJqaDA3RE5udENBcWorVUZsSmxIdUJTNEtFaXVxU3FVQnhUUFBCdjlOaVZQN01LU2VKT1JGMUtyOEhFaCtLcUwxcnpnTU1SOTluMHVOMXlSZmJRRGVkNmM9OjqKRSesn%2B%2BaRfykJCxZHpVy"
@@ -7299,7 +7299,7 @@ const allMovies = [
             "Sarah Natochenny",
             "Unsho Ishizuka"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Pok\u00c3\u00a9mon-the-Movie-I-Choose-You-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Pok\u00c3\u00a9mon-the-Movie-I-Choose-You-2017.jpg",
         "description": "This is the story of how Ash and Pikachu first met. At first, Pikachu was disobedient towards Ash, but Ash only wanted to be friends with Pikachu. On the day they set out from Pallet Town, both of them saw a Ho-Oh flying and they made a vow to meet it.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?WFJVK2c4RWlVbUpqNGtzWjNwUjVlQXArcUd5YjYrQ1NyYzN2K0ZZMmZqSUJvMlZIRE1xaUkvMWhqbi84cXlJK1E2WkZvaVoxNzlLWjB3Sm1sT3NVR1ByYW5WRkozWWlKRlI0MURkL0t6amtQRVF1WWpEcjF2VVZGUXdGSFFmeEtKdE9acW5JdUNNRDZWNHhJajUvelZBS1RHUXM3UmcxcFYrQ0pGVXIwbzVxanBNUlNIMjluWEZ3clN1bUwycUVhRnQwTHZwTHZWWlV3ejZHQWNnUHdpT3dkRU5Wek5BNGZYL3pKcE5vbGcwTFUxZWFJRWs2MmdVbDM5Qlp4STVKOEMrZVFxMVdKWHBialR6V1lDelRhbHo2VTNQMkxORDc2eFpnZ3ptRmNBd1p3WVdxV09oaEhOU05BcW1UeWU4WGVYbmc1QnQ4Sm1wSVp4SGF2Mi9EYVdBPT06OhjNepks3Y0qP559yeK%2FfgU%3D"
@@ -7321,7 +7321,7 @@ const allMovies = [
             "Francesca Marie Smith",
             "Mason Vale Cotton"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Hey-Arnold-The-Jungle-Movie-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Hey-Arnold-The-Jungle-Movie-2017.jpg",
         "description": "An upcoming two-hour American animated television film split into two parts. Based on Craig Bartlett\u00e2\u20ac\u2122s Hey Arnold! TV series, it will serve as a sequel to the series finale in which Arnold found his father\u00e2\u20ac\u2122s journal and read about the life of his scientist parents, including their first meeting, birthing him, and a map showing the route they took to the San Lorenzo before they disappeared.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/wej1lanzmy43q72"
@@ -7342,7 +7342,7 @@ const allMovies = [
             "Julie Newmar",
             "William Shatner"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Batman-vs.-Two-Face-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Batman-vs.-Two-Face-2017.jpg",
         "description": "Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number \u00e2\u20ac\u02dc2\u00e2\u20ac\u2122. All of his actions are decided by the flip of a defaced, two-headed silver dollar.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/rzj7kcez4e-7lm5"
@@ -7368,7 +7368,7 @@ const allMovies = [
             "Joseph Kloska",
             "Rasmus Hardiker"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/The-Little-Vampire-3D-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/The-Little-Vampire-3D-2017.jpg",
         "description": "Tony, a thirteen-year-old boy on vacation in rural Germany, is fascinated by the idea of vampires. Meanwhile Rudolph, a vampire of \u00e2\u20ac\u0153similar\u00e2\u20ac\u009d age (313!), encounters trouble when his clan is threatened by a dangerously obsessed hunter. Fate brings these two boys together, as Tony & Rudolph set off an action-packed battle to stop the villain, save Rudolph\u00e2\u20ac\u2122s family and learn the power of friendship.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt4729560"
@@ -7390,7 +7390,7 @@ const allMovies = [
             "Joey Camen",
             "Laila Berzins"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/The-Son-of-Bigfoot-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/The-Son-of-Bigfoot-2017.jpg",
         "description": "Teenage outsider Adam sets out on an epic and daring quest to uncover the mystery behind his long-lost dad, only to find out that he is none other than the legendary Bigfoot! He has been hiding deep in the forest for years to protect himself and his family from HairCo., a giant corporation eager to run scientific experiments with his special DNA. As father and son start making up for lost time after the boy\u00e2\u20ac\u2122s initial disbelief, Adam soon discovers that he too is gifted with superpowers beyond his imagination. But little do they know, HairCo. is on their tail as Adam\u00e2\u20ac\u2122s traces have led them to Bigfoot!",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?THFqbW9CNEVTeUxDK0FTYlV0L1g2MEZmYVREK05aU2luNGJoVnovd25VRDVpbTg2cktUMmdreWU1VDlXTzJlak5BZVpzYXdETDRHeVJWdGE2V1MzSHhDdWNIYWlucGUveTdtRzdpbkk5K3hTRjVxYXNTR2Q2TFQvc2VrdXV6SDRXbmtjNHdHZVk2SXdkN3piOXROcVlTTmRmcVlwSDlYdFdJNDNKNm5NSVVPVGJFejAxZzc0dndXWCtZM3Q1cDE0WUw5Q1JabHdncjA1TmdYNkdDNmFFUXZPUS91WHNjcksycU9MaXUzWjcrQkdlQjRzSUYvbXVjdUEySjlPdnc4ZzRZWlJDdkYvdEJtQ0tKbVdNMUJWQTZ1Ukt6djVuMStxeEphQk1yY28vR2c9OjryQiMO5jXSIpCz6n4aXRnS"
@@ -7413,7 +7413,7 @@ const allMovies = [
             "Melissa Rauch",
             "Paget Brewster"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Batman-and-Harley-Quinn-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Batman-and-Harley-Quinn-2017.jpg",
         "description": "Batman and Nightwing are forced to team with the Joker\u00e2\u20ac\u2122s sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/z4jmxujdl4pm45e"
@@ -7435,7 +7435,7 @@ const allMovies = [
             "Sumire Uesaka",
             "Toshihiko Seki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Mazinger-Z-Infinity-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Mazinger-Z-Infinity-2017.jpg",
         "description": "When the evil Dr. Hell attacks the Earth, the mighty giant mecha Mazinger Z is formed to stop him.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/0wz2-cl-ee87gx7"
@@ -7460,7 +7460,7 @@ const allMovies = [
             "Justin Timberlake",
             "Zooey Deschanel"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Trolls-Holiday-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Trolls-Holiday-2017.jpg",
         "description": "When the eternally optimistic Poppy, queen of the Trolls, learns that the Bergens no longer have any holidays on their calendar, she enlists the help of Branch and the rest of the gang on a delightfully quirky mission to fix something that the Bergens don\u00e2\u20ac\u2122t think is broken.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?R0FXUWF1amJQbjd4RmZzRWJaUWx0OGRyem9sMisxamR3eXZ0VTc2elE1UkU3Q3hwSnJKeFQvcm52ZVp6eG9NN1djK09GclM1OUlnR2JBMnVVUHdSWDA3aThJbFNSbnVRc2plZkhyUUd6Z2lvcFJGbWVqZkpUMWVtenEvTnFTR2tLU0VtQ0xrTkxvVDBMeW9FZ3NJV0NwSmxzbGdXVWM4ejYwYWJOQWs4L0tZb1FZbG9YMXl1c3I2ODlodFhOY1BiRkF6NENZQ205WUZ6WTViYzE0Y2U5cGNoQlJnZXhIa2hTa3lrcWpNRzVDMU5sU2ZNK0dKTlluZDMwdkR2bk9XSUQwVTB4S3hrZDVDejl3WGpOQjFqd3lybkl3Yy9QN3JOUnN6SDYzKzg1cjQ9OjrCOpwnnx2wo7lJN57o6E%2FD"
@@ -7482,7 +7482,7 @@ const allMovies = [
             "Ryunosuke Kamiki",
             "Y\u00c3\u00bbki Amami"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/DMCA-Mary-and-the-Witch\u00e2\u20ac\u2122s-Flower-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/DMCA-Mary-and-the-Witch\u00e2\u20ac\u2122s-Flower-2017.jpg",
         "description": "Young Mary follows a mysterious cat into the nearby forest and discovers an old broomstick and a strange flower. Mary finds herself at Endor College \u00e2\u20ac\u201d a school of magic run by headmistress Madam Mumblechook and the brilliant Doctor Dee. But there are terrible things happening at the school, and when Mary tells a lie, she must risk her life to try and set things right.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/xyjkeh5qprkyype"
@@ -7507,7 +7507,7 @@ const allMovies = [
             "Mandy Moore",
             "Zachary Levi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Tangled-Before-Ever-After-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Tangled-Before-Ever-After-2017.jpg",
         "description": "Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel\u00e2\u20ac\u2122s long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?Y1kyRVR2MVF5dGdOWkdQK3ZTT3hCdS9ybWY4ait4dXFpamtOSFRLRTdzUVl6clZnT3YwN3FmQU9SUjJZR0FtN3ZSelVEdmxtczFsNDhoc1A3WWdBNWFuOHl0VXhTTkE1MWo1RzhtSXNvMGQyQlUrSThiTk9TRFdaaTNHZ0RLRml5TTNKd1pNTVVwL2tndDUra2JNVGttVHl4YzRFWlRCQjlYamtWMVFUU2ErNW51ODJWZWs3UDRISHNFVGFYRnQvdUwzUTFrNGNCWjJSWVBNRmJENzlvaUwyUndoRGhvazBzOGtHTGdzY25rbDNudlc0b3hPN3NDRTJ4Z043ekpJRVFML0FDYU5Na1hETFFvOWJYMWdTdXFQZUVOYzlsdy8vcjc4a2lhbDY5VjFTWDJlbWR0d0hqQ1E5ZUw3dy92Slk6OjnGGnyPZXxRlPe02mP2MFw%3D"
@@ -7531,7 +7531,7 @@ const allMovies = [
             "Jeff Bennett",
             "Maria Bamford"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Puss-in-Book-Trapped-in-an-Epic-Tale-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Puss-in-Book-Trapped-in-an-Epic-Tale-2017.jpg",
         "description": "After tumbling into a magic storybook, Puss in Boots must fight, dance and romance his way through wild adventures as he searches for an escape.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/y3jzysepq8dp67r"
@@ -7554,7 +7554,7 @@ const allMovies = [
             "Josh Keaton",
             "Kate Higgins"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Lego-Scooby-Doo-Blowout-Beach-Bash-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Lego-Scooby-Doo-Blowout-Beach-Bash-2017.jpg",
         "description": "Mystery, Inc. heads to Blowout Beach for a real swinging beach party when the Ghost Pirates threaten to harsh the good vibes.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?WktvQ09pYmNFNTF2cjFhRklOY3RETmc1MmhmZFQ5VHYxcGkxZlNld0txMFRoZHZYeHJyb3AyVGttdVpYTDdpQzBuWGx6ZVdudTdZZFNjbmFzYmZiU3lTV3NmWXNOWDZBOXVrbldTc2cyaFcxS0VwdmFxU3BOKzZ4a1pTVnNEdG1iV3V1Tkx4bXFXTUt3VTNzaFNWVzNncmVGMEdWaGZaZ1hVSkxFS2w4emR1R3Rpa2VXd0p3OXN2djhUU3VXMHNxellvdHdmRjBtWC9zcjF3cVRiOGFuNjMxNjZNSmwwWUwxQ0Qwa0tjRGNZYitSd0pHQ0lCZjhuTnd2V1RDQllialYvOXhaZlMxUHczRElDWGRJYW5lK04wcGhPSERsNno4TmhacjVVOXJLOUNsL2VoRVhIUkhHSys5VldzNTdoUHA6Os3%2BntuFTE9%2FivEdo5W83Pk%3D"
@@ -7578,7 +7578,7 @@ const allMovies = [
             "Johnny Orlando",
             "Kelsey Grammer"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Bunyan-and-Babe-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Bunyan-and-Babe-2017.jpg",
         "description": "Travis and his sister, Whitney, visit their grandparents for the summer and fall through a magical portal which transports him to the world of American hero Paul Bunyan and his big, blue, talking ox, Babe.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-zez5kljw"
@@ -7602,7 +7602,7 @@ const allMovies = [
             "Kate Micucci",
             "Matthew Lillard"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Scooby-Doo-Shaggy\u00e2\u20ac\u2122s-Showdown-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Scooby-Doo-Shaggy\u00e2\u20ac\u2122s-Showdown-2017.jpg",
         "description": "When the Scooby gang visits a dude ranch, they discover that it and the nearby town have been haunted by a ghostly cowboy, Dapper Dan, who fires real fire from his fire irons. The mystery only deepens when it\u00e2\u20ac\u2122s discovered that the ghost is also the long lost relative of Shaggy Rogers!",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/k7kj6f3e6x0d6d0"
@@ -7626,7 +7626,7 @@ const allMovies = [
             "Matt Ryan",
             "Rosario Dawson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Justice-League-Dark-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Justice-League-Dark-2017.jpg",
         "description": "Beings with supernatural powers join together to fight against supernatural villains.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?a1lLc1J2K08zcHNhT0RKam82MXFqaFZZUlh2VUNYZ1V2ZWJyeS9UUFVjTWw2bjdPM2dFMHgweVVwVGpsUWVrNHFwWWVnenpWVVEyQVRLSUpVMU5TOGQyalF5bUs3U3pNdUhLblA2UUtkSGZZN0t0aVhiSmczZU90ZkxPWkM3QlFUU1daRC9pcWh6L1ZEQmVzUzRYNk4xdzBQRmtjRmFwdmNBMnBLUmJPdGgzK3RKTjNjZWxLbWNxM3FDRHRZdm9DTHpDeGZBRnRsZ0ZEV3h0a3k2WlcwaWtqaitVSnVPb0VrVm1yRWtLek5vWlE3bEZEVkxkYnAyZmlpb21oT1JHZmxEejZBdjhNeEVPbHpzWmNkWXgxZXNTWWVzcW14UmxVZGpDSkFKQ3lER0E9Ojr0tQ%2BHVcXeRsAg2oQbxAhf"
@@ -7648,7 +7648,7 @@ const allMovies = [
             "Max Mittelman",
             "Tara Sands"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Mobile-Suit-Gundam-Thunderbolt-Bandit-Flower-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Mobile-Suit-Gundam-Thunderbolt-Bandit-Flower-2017.jpg",
         "description": "Compilation film for Mobile Suit Gundam Thunderbolt 2nd Season.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=bKEF57arMDnHa2gofRJkJAlAxqb4H24%252FUp8Q5s%252Fju%252BKZQWyLcpq4Jt6jp1gSllX0MInwvfEgch504dnoQenj1xiYuZDyFhDw9jB79KgjS87UuNEmC%252FI5G02yTwfLcUDVhfInIkx0qV0IbCgJpDIE56S8cFHLlYxuaIjMC5zYjqi7WW0FbzA9wW6USEJLqdNEg%253D"
@@ -7670,7 +7670,7 @@ const allMovies = [
             "Dina Meyer",
             "Justin Doran"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Starship-Troopers-Traitor-of-Mars-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Starship-Troopers-Traitor-of-Mars-2017.jpg",
         "description": "Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/m0mjds5m6mq1m4g"
@@ -7693,7 +7693,7 @@ const allMovies = [
             "Maya Rudolph",
             "Will Arnett"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/The-Nut-Job-2-Nutty-by-Nature-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/The-Nut-Job-2-Nutty-by-Nature-2017.jpg",
         "description": "When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/53w0-sdzkll686k"
@@ -7741,7 +7741,7 @@ const allMovies = [
             "Rif Hutton",
             "Tony Oliver"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/05/88qfHWhlOBYXp69277QFhdPYnWf.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/05/88qfHWhlOBYXp69277QFhdPYnWf.jpg",
         "description": "BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Professor Rebecca Chambers from Alexander Institute of Biotechnology to stop a death merchant with a vengeance from spreading a deadly virus in New York.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?OHFKMUc0Nk1SVGFEb0FETHlCWWlRMGtNTW1zMTVEYUNmSExYTFk4Nng0eUZqazR6K25wc2dHOEpQVTdQZXdWTHRFdEVJbjErK1RQQ0F4V3JSUEFQbjV4K0ZiTStHK1dMblRvT0tJeFBxWmx6TWI1UU9WMDBaTFE1VHNrekRNdTFIMitWTzQyakxUNDRmbWtLOEIzaUZ5SkdJZXh6RWVDTzM0azQxSG9WaElEZkZ4U2ZhSG1ReG1RQmFtMnpZMHBsVkQ3UmF4Q3V2MVVleHBHcnVyaE9tR2UrK1RIRGRQamUzUlhKMitUQkdwb0hIeW5KdTRXU3NSejBFQ3pKR2JIa1dsSnNySnZReFNhR0NjVENzais4WUVSYVBiTGtFNHZLSXNNUmxqdTQxYUU9OjoWHNZ0wTYXXszHzE4DKNEw"
@@ -7789,7 +7789,7 @@ const allMovies = [
             "Saoirse Ronan",
             "Shaun Newnham"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/03/Loving-Vincent-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/03/Loving-Vincent-2017.jpg",
         "description": "The film brings the paintings of Vincent van Gogh to life to tell his remarkable story. Every one of the 65,000 frames of the film is an oil-painting hand-painted by 125 professional oil-painters who travelled from all across the world to the Loving Vincent studios in Poland and Greece to be a part of the production. As remarkable as Vincent\u00e2\u20ac\u2122s brilliant paintings are his passionate and ill-fated life and mysterious death.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/87x1-f80xp5kxxk"
@@ -7829,7 +7829,7 @@ const allMovies = [
             "Thomas Middleditch",
             "Tiffany Lauren Bennicke"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/01/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/01/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg",
         "description": "Two mischievous kids hypnotize their mean elementary school principal and turn him into their comic book creation, the kind-hearted and elastic-banded Captain Underpants.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?Ym92TTRCUHpFdnVjYUVTRHpHazJRd2sxOFZYY3dnWWI0RGpHNy9DQW5OTTVaTHduc01RUW9NZ3VrMW1IZmtTVS9mdjc4YWJuTUNIVHRTa3hNdW5jdDRCWFM1T3E3QVE4T0RDK1ZyVWtSZ3hZNlg0Nk5lVzBLU0J4TlhJd1JSVzhGeUdlaVpNY3pUQ2hDK3hJQWQvdUo5NTd4N2JqdGZmdExnb1FGVnJIOUI0T0ptMUR0NG9JaENZYlB4eEUxQ0VZWGlCVkRuaWNXRm5MNlpqb05Bcmx4V3R2YVgzYURMdHhiZElMUWc0OFU1ZjNTbU94cEtteWRGWTBhSi9aWUV6YndZTHFjUjVFUDEwVzFnd0xUbHdFMWlCMzFtejJYYXVtSzA5SUNhcnZsVGxWd0hzZmFpcGJZd3BRMWNiZUUwODkwQnRvTHVVUk5ZTTVZWklJbldCaytnPT06Okhmdzaoa0cbrebmmz0QoRY%3D"
@@ -7869,7 +7869,7 @@ const allMovies = [
             "Tara Strong",
             "Tituss Burgess"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/01/diYAZ6CKUuRAqLYMB2AyVutEFm0.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/01/diYAZ6CKUuRAqLYMB2AyVutEFm0.jpg",
         "description": "In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?NG5KanZTTmduS3hUNjBqWGppbXQ1NDJGRU9HN0dPbHVvSUc1RTZJd21NWmE0K2JhWFc2ZDZoZFpZVzFWaTUvYytPYytPNFZ6VFRwaFoxbWNqYTZVSXd3TmJOMDRLeUZtaE04eExVSk9zS29aVE1hVWdBRTkwUVVEVkVxL2JqZVFhcE5LSDdRRzlTR0RDQ25rK3QyTEl4RWlMZk1WbC9IUEtCWlduMUdZdXFMclhGVy9oZy92Yy9ISGVWVTdISEJVVm1kbVhONzl6SU9TYlFVTUszSE9xdlhVaXRzeEZYVzhGUlEyNlhiVWVtS01FeUh5aU9ndnplSERWRllGOFdGUHZlTmh5bTRudCtLM3dEMUtpa0Jrakk2Wm5hanArMWIyTDd3YlZDWURyZDQvbEJDRUlNMWcxKzFmcllkU0ZkeW86OuHgDKJNSB87P%2B3q82nU3Ks%3D"
@@ -7911,7 +7911,7 @@ const allMovies = [
             "ViviAnn Yee",
             "Walt Dohrn"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/01/The-Boss-Baby-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/01/The-Boss-Baby-2017.jpg",
         "description": "A story about how a new baby\u00e2\u20ac\u2122s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?U2U4THRpNDQ3RDIwNkxCVUlKNnBMR1NCV2hvSzRWRGpUbUJBSk1VbkdDaHNYYkk0eVkwaTZTRjlNYlB0Y3ZBVDE1RFd4YUlyZ2JBYy9rMkhYc2RuU0NRV1ZGLzhMS1ExKytOemNWRkVnUU43TXdBYSs3SFNnYjFMYlRnL1pleEZQTnBHL3NmdzM4NURWQkRiQWwvM2ZyMkovVWtvRlk3WkVVVzI4VG1aZmtUeVlSVG12dm5ObFZzcUUxTmhOdGorNGVNUmxDK3J3TmIxZnV3cnBNdlpmekpRTWNqVEdMZlJvR3lIRnNkVXkzSTNqWmtoQ2RONkxaRkF3Qjl2eUN6d0xYUjEzMTR5UUxIYzZkemxJa1dvd0FSdFJKVlE0T0hOd3dza3Ywc2NzdGs9Ojoq07o%2F5xZkZqBDoxLCtdqi"
@@ -7962,7 +7962,7 @@ const allMovies = [
             "Zach Galifianakis",
             "Zo\u00c3\u00ab Kravitz"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/12/The-Lego-Batman-Movie-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/12/The-Lego-Batman-Movie-2017.jpg",
         "description": "In the irreverent spirit of fun that made \u00e2\u20ac\u0153The Lego Movie\u00e2\u20ac\u009d a worldwide phenomenon, the self-described leading man of that ensemble\u00e2\u20ac\u201dLego Batman\u00e2\u20ac\u201dstars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker\u00e2\u20ac\u2122s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/e87jes-zk83dmpe"
@@ -7985,7 +7985,7 @@ const allMovies = [
             "Julie Nathanson",
             "Ryan Potter"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Throne-of-Elves-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Throne-of-Elves-2017.jpg",
         "description": "In the mythical Elven world of Altera, an epic battle unfolds between the beautiful Princess Liya and the Dark Elf Elena, who has gained possession of a jewel so powerful it allows its holder complete authority over all Alterans.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-0hc5jlj6kss3.html"
@@ -8017,7 +8017,7 @@ const allMovies = [
             "Yukiko Iwai",
             "Yuko Miyamura"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Detective-Conan-Crimson-Love-Letter-2017.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Detective-Conan-Crimson-Love-Letter-2017.jpg",
         "description": "Bombing case at Nichiuri TV in autumn. The Satsuki Cup, which crowns the winner of Japan\u00e2\u20ac\u2122s Hyakunin Isshu, is currently being filmed inside the facility. The incident results in a big commotion and, while the building is burning to ashes, the only people left inside are Hattori and Toyama Kazuha. They get rescued just in time by Conan , who rushes to the scene. Both the identity and purposes of the bomber are unknown.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-t24l6veytl6r.html"
@@ -8050,7 +8050,7 @@ const allMovies = [
             "Yasunori Matsumoto",
             "Yumi Kakazu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/iWA86HyuobU4Xd8tMx2KDSrTzYo.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/iWA86HyuobU4Xd8tMx2KDSrTzYo.jpg",
         "description": "Unable to endure the midsummer heat, Doraemon transports Nobita and his friends to a huge iceberg floating in the South Pacific. While creating an amusement parks with the secret tool \u00e2\u20ac\u0153Ice-working Iron\u00e2\u20ac\u009d the group finds a mysterious golden ring in the ice. Upon closer examination, they determine that the ring was buried in Antarctica 100,000 years ago \u00e2\u20ac\u201c before people could have lived there. Doraemon and friends head to Antarctica looking for the owner of the ring and come across the ruins of a huge city buried in the ice. Using Doraemon\u00e2\u20ac\u2122s Time Belt, the group travels back 100,000 years ago and meets the young girl Kara who is connected to the mysterious ring. But now the group must fight for survival as Doraemon faces the crisis of the entire Earth freezing.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-sz96fh2mq197.html"
@@ -8080,7 +8080,7 @@ const allMovies = [
             "Rina Hidaka",
             "Yoshitsugu Matsuoka"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/09/7KHY9NbwDxjMiGQq8XodLzZdltZ.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/09/7KHY9NbwDxjMiGQq8XodLzZdltZ.jpg",
         "description": "People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?eUNIeUpNdEd3SGR6dTV6RzN5dlU1blF4Qlk3cVJ0RU1yUzZSRU5jclB4WGhoVC9ORzZ5dS9CeWZiRFpkb0hmT05DY0t6OXduMmFqQXZOS3I4VmNTejczd1NYajByelB3ZWdkaUVYTHpDTnZKQVZzUTlGazFrZmozbVVjR3JNU1NQVjMxUkxQQlRwcnVBNXZORGVKZ0JLN1FCbnNVOGRjL1NjY0lwczdtLzVNakNEWkdKa2JScEd5Q0V5T1B5V0tRc1VaNVUza3JYS3VRSThBdnJ1R201SjM4YUZjMlB6aG1mVy9MVGZwNG5aNld4NENJTk9aYnZnK3NLeElGN056WWRVZGY4ZWV2Y2pzNVFuM2R5YXU2SXlwbWV1VEtoTDduanZEdWhubTlIZjZXMmpJdnY3N2FOWXFJNHVKK2xJSlBsd2RERWlnSkhmNisza2kza3VITDV4NTlOZElnckFWTkN4VUxpVkt1bmhrPTo6OE8%2B3RQ5Vq%2B5YFPLGpGjWA%3D%3D"
@@ -8141,7 +8141,7 @@ const allMovies = [
             "Teresa Ganzel",
             "Trey Parker"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/09/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/09/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg",
         "description": "Gru and his wife Lucy must stop former \u00e2\u20ac\u212280s child star Balthazar Bratt from achieving world domination.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?SUY4eXRKZ01RQlZGS2srUmdzTWsyaHZZeVNibnFTNXBJWDE2V3dJcXNYV1hQWnB6VDBKRFp0MStScVRORUFBcFU2RWE0eHQ1anlKdzRhNk42d2FidGpwTC9KbVA0eG0zMjMxOC9zajRSbFMvaG9sSS9HanBlNVRmaEx2NjNmQnZFS05zRHNnLzVFNWIzM1pOTXZHTzZJaVFxRDA2UC9GQU1iaXdLU3JyRFhxaXVNZEtiSzdpc1RGeDBld2U2S1lPKzFBVnBFVi9XZmN1WnliQVRaMmlQaVQ3TjVRU3AyVTdKWVZ6ZFdvencxSUg4WmNpTlpSeXBqTUljWGlyaURPWnZ4QXBYRFhUNzQ3Ti9kRDZZOWIvS2N5Q2x5aEhzWnFjU1R6TmNFMmt6dVE9OjqpkaZeOYOgh438qa8mSqFE"
@@ -8163,7 +8163,7 @@ const allMovies = [
             "Ilka Bessin",
             "Matthias Schweigh\u00c3\u00b6fer"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/03/Robinson-Crusoe-2016-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/03/Robinson-Crusoe-2016-152x228.jpg",
         "description": "On a tiny exotic island, Tuesday, an outgoing parrot lives with his quirky animal friends in paradise. However, Tuesday can\u00e2\u20ac\u2122t stop dreaming about discovering the world. After a violent storm, Tuesday and his friends wake up to find a strange creature on the beach: Robinson Crusoe. Tuesday immediately views Crusoe as his ticket off the island to explore new lands. Likewise, Crusoe soon realizes that the key to surviving on the island is through the help of Tuesday and the other animals. It isn\u00e2\u20ac\u2122t always easy at first, as the animals don\u00e2\u20ac\u2122t speak \u00e2\u20ac\u0153human.\u00e2\u20ac\u009d Slowly but surely, they all start living together in harmony, until one day, when their comfortable life is overturned by two savage cats, who wish to take control of the island. A battle ensues between the cats and the group of friends but Crusoe and the animals soon discover the true power of friendship up against all odds (even savage cats).",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/p2l4pbm8yd86435"
@@ -8185,7 +8185,7 @@ const allMovies = [
             "Sarah Hyland",
             "Troy Baker"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/03/LEGO-DC-Comics-Super-Heroes-Justice-League-\u00e2\u20ac\u201c-Gotham-City-Breakout-2016-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/03/LEGO-DC-Comics-Super-Heroes-Justice-League-\u00e2\u20ac\u201c-Gotham-City-Breakout-2016-152x228.jpg",
         "description": "The caped crusader reluctantly agrees to let Batgirl and Nightwing take him on a long overdue vacation from crime-fighting, while Superman and the Justice League watch over Gotham City.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/64xr-u034d4q3p8"
@@ -8206,7 +8206,7 @@ const allMovies = [
             "Jack Black",
             "James Hong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/03/Kung-Fu-Panda-Secrets-of-the-Scroll-2016-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/03/Kung-Fu-Panda-Secrets-of-the-Scroll-2016-152x228.jpg",
         "description": "As Po looks for his lost action figures, the story of how the panda inadvertently helped create the Furious Five is told.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/87x1-f8yy4e6wl7"
@@ -8227,7 +8227,7 @@ const allMovies = [
             "G.K. Bowes",
             "Gavin Hammon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/Throne-of-Elves-2016-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/Throne-of-Elves-2016-152x228.jpg",
         "description": "In the mythical Elven world of Altera, an epic battle unfolds between the beautiful Princess Liya and the Dark Elf Elena, who has gained possession of a jewel so powerful it allows its holder complete authority over all Alterans.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-ewqg6xz-"
@@ -8248,7 +8248,7 @@ const allMovies = [
             "Saori Hayami",
             "Y\u00c3\u00bbki Kaji"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/GantzO-2016-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/GantzO-2016-152x228.jpg",
         "description": "Somewhere in Tokyo, there is a room. In that room is a black sphere. Periodically, people who should otherwise have died are transferred to the room. There, the sphere gives them special suits and weapons, and sends them out on a mission to kill aliens here on Earth. While these missions take place, the rest of the world is largely oblivious to them. These missions are lethal \u00e2\u20ac\u201c few participants survive them. The sphere calls the shots, and it\u00e2\u20ac\u2122s not the slightest bit nice. Its name\u00e2\u20ac\u00a6 Gantz.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-ew4r03jl"
@@ -8271,7 +8271,7 @@ const allMovies = [
             "Eduardo Espa\u00c3\u00b1a",
             "Mayt\u00c3\u00a9 Cordero"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/The-Legend-of-the-Chupacabras-2016-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/The-Legend-of-the-Chupacabras-2016-152x228.jpg",
         "description": "Leo San Juan and his team of \u00e2\u20ac\u0153ghostbusters\u00e2\u20ac\u009d continue with their adventures, this time fighting against the mexican monster himself: \u00e2\u20ac\u0153El Chupacabras\u00e2\u20ac\u009d.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/xyjkeh5k1pz4x76"
@@ -8294,7 +8294,7 @@ const allMovies = [
             "Maaya Sakamoto",
             "Yui Horie"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/Kizumonogatari-Part-1-Tekketsu-2016-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/Kizumonogatari-Part-1-Tekketsu-2016-152x228.jpg",
         "description": "One day, Koyomi Araragi encounters the horrifying vampire, Kiss-shot Acerola-orion Heart-under-blade A.K.A. the \u00e2\u20ac\u0153King of Apparitions.\u00e2\u20ac\u009d He saves the fatally wounded Kiss-shot by offering his blood at the expense of his own life as a human. Now Koyomi has to face the vampire hunters to retrieve Kiss-shot\u00e2\u20ac\u2122s limbs which were taken by these hunters\u00e2\u20ac\u00a6",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/d86jlsx78n4-2gm"
@@ -8314,7 +8314,7 @@ const allMovies = [
             "Katsuhito Nomura",
             "Ken\u00e2\u20ac\u2122yuu Horiuchi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/g3HJOAjkAIoCcKRE3glxlWpHS2J.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/g3HJOAjkAIoCcKRE3glxlWpHS2J.jpg",
         "description": "Leon, who has succeeded the name of Golden Knight \u00e2\u20ac\u0153GARO,\u00e2\u20ac\u009d devotes himself to train a young Makai Knight for the next generation, together with Prince Alfonso of the Valiante Kingdom. Then, they receive an order to exterminate the most beautiful Horror in the world which resides in a neighboring country \u00e2\u20ac\u0153Vazelia.\u00e2\u20ac\u009d At the same time, a young Makai Knight for the next generation is kidnapped by an unknown person. Leon desperately follows them, only to find that he is surrounded by his enemies at a dead end. Then, a Makai Knight Dario who was supposed to be missing for some time suddenly appears and rescues him. Under his guidance, Leon is led to the town where he meets up a totally unexpected person.",
         "rating": 6.0,
         "videoUrl": "https://www.fembed.com/v/rzj7kce8m2w3qk7"
@@ -8335,7 +8335,7 @@ const allMovies = [
             "Haruka Tomatsu",
             "Kana Asumi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/kLV8qjtDVGmQpJVJKOe6yXY4BgG.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/kLV8qjtDVGmQpJVJKOe6yXY4BgG.jpg",
         "description": "Love is blooming at Sakuragaoka High School. Natsuki Enomoto has finally mustered the courage to confess to her childhood friend, Yuu Setoguchi. However, in the final moments of her confession, an embarrassed Natsuki passes it off as a \u00e2\u20ac\u0153practice confession.\u00e2\u20ac\u009d Oblivious to her true feelings and struggling with his own, Yuu promises to support Natsuki in her quest for love. While Natsuki deals with her failed confession, fellow classmate Koyuki Ayase struggles with his own feelings for Natsuki. Despite his timidness, he is determined to win over her heart. This movie follows Natsuki as she dreams of one day ending her practices and genuinely confessing to Yuu. Meanwhile, close friends also find themselves entangled in their own webs of unrequited love and unspoken affections.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/k7kj6f35j7jklqz"
@@ -8356,7 +8356,7 @@ const allMovies = [
             "Pan Shulan",
             "Su Shangqing"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg",
         "description": "Beyond the human realm, there is a magical race of beings who control the tides and the changing of the seasons. One of these beings, a young girl named Chun, seeks something more\u00e2\u20ac\u201dshe wants to experience the human world! At sixteen, she finally gets her chance and transforms into a dolphin in order to explore the world that has her fascinated. But she soon discovers that it\u00e2\u20ac\u2122s a dangerous place and nearly gets killed in a vortex. Luckily, her life is spared when a young boy sacrifices himself to save her. Moved by his kindness and courage, she uses magic to bring him back to life only to learn that this power comes at a serious price. On a new adventure, she\u00e2\u20ac\u2122ll have to make her own sacrifices in order to protect his soul until it is ready to return to the human world.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/53w0-sden4235dq"
@@ -8378,7 +8378,7 @@ const allMovies = [
             "Sumire Uesaka",
             "Yuka Iguchi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/grjoz79lPmeljxxipUgE8mzvXIG.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/grjoz79lPmeljxxipUgE8mzvXIG.jpg",
         "description": "The staff at the \u00e2\u20ac\u0153Dai-Ni-Kai \u00e2\u20ac\u02dcKanColle\u00e2\u20ac\u2122 Kankanshiki\u00e2\u20ac\u009d event in Yokohama in August 2015 announced that the Kantai Collection franchise will get an anime film in 2016. The event screened footage that features the Kan-musume characters Fubuki, Mutsuki, Yuudachi, Akagi and Kaga, Hiryuu Kaini and Souryuu Kaini, the four Kongou sisters (Kaini), Kitakami and Ooi, Choukai Kaini, Yuubari, Mutsu and Nagato, Kako Kaini and Furutaka Kaini, Zuikaku and Shoukaku, Shimakaze, Kuma, and Ouyodo.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/qkj61te8xy0n45j"
@@ -8399,7 +8399,7 @@ const allMovies = [
             "Maaya Sakamoto",
             "Yui Horie"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/88yQTtXzaH2UYf5ziMWwZykYdXL.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/88yQTtXzaH2UYf5ziMWwZykYdXL.jpg",
         "description": "Koyomi Araragi was turned into a vampire by the legendary vampire, Kiss-shot Acerola-orion Heart-under-blade, and he needs to revive the weakened vampire back to her complete form to return to being human again. The only way for Koyomi to achieve his goal is to fight the three vampire hunters \u00e2\u20ac\u201c Dramaturgy, Episode and Guillotinecutter.",
         "rating": 8.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-egkkx448"
@@ -8421,7 +8421,7 @@ const allMovies = [
             "Dane DeHaan",
             "Elle Fanning"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/02/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/02/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg",
         "description": "Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/1wm4-cjkxwwmy7d"
@@ -8441,7 +8441,7 @@ const allMovies = [
             "Kenjirou Tsuda",
             "Shunsuke Kazama"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/01/nFQkn1KE0Is3FUW0yPPgdVvCnlo.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/01/nFQkn1KE0Is3FUW0yPPgdVvCnlo.jpg",
         "description": "Yugi and Kaiba have a special duel that transcends dimensions.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/xyjkeh5qem413m4"
@@ -8463,7 +8463,7 @@ const allMovies = [
             "Lin Yun",
             "Yang Mi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/qIUDi1XDAREkarkwNzOOBgUzqyC.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/qIUDi1XDAREkarkwNzOOBgUzqyC.jpg",
         "description": "Based on the novel of the same name, the film depicts the endless battles of four kingdoms as they fight for power and domination of the one ultimate realm.Based on his 2 beloved fantasy novels with 6 million copies sold, L.O.R.D is acclaimed writer and director Guo Jingming\u00e2\u20ac\u2122s follow up to his Tiny Times films. The action-adventure odyssey is set in a world of warring Sorcerers, Lords and Beasts. The first CGI Film to come from China",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?T2pSRjJDd3lTK2o4cVhIS3FJS0JjTlFJcHZkN2lXam1QdzhXSXQzMnN0YWRSM0gzM3VRNldoYi9HeGRNemo5S2FUaEllMElEd2dudVVMS09rVm9lN2tpeWFneVI4RXNIVWpydXpOSVhwd1FIbi9ydWYrTVVXbVVSelJGUDF1ZUpPM0grVmJKNFVlK1poTDBjb1JiUklVOXBXYmRLZXRBUHJlK1JsZ1Uya2NhVTZaeHBTRjdaNkdWMHJla3VBREl5VDlxc1E5NG9mbFJnTDR6SE9IWG9nZzJkYVR2dm5seWd4TGRhVXZna3dwaDJ3SHZBeWR6eldsUGxia3IzYXYrdDZnRDRYRVQ3WnZFUmxCZVVMNjhXVzQ2SU03UUs1UkdzRkQxaWlBTk1FcERYZjlZRnI0SFpDRmJCazJKOXljYmk6OrqNC4dZ9FdZuvvwpiMLYYw%3D"
@@ -8485,7 +8485,7 @@ const allMovies = [
             "Natsuki Hanae",
             "Sora Amamiya"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/The-Moment-You-Fall-in-Love-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/The-Moment-You-Fall-in-Love-2016.jpg",
         "description": "Based on Vocaloid songs from \u00e2\u20ac\u0153Kokuhaku Jikko Iinkai ~Renai Series~\u00e2\u20ac\u009d by HoneyWorks, the movie is the second film based on the songs, following Tetsuya Yanagisawa\u00e2\u20ac\u2122s previous anime, \u00e2\u20ac\u0153I Want to Let You Know That I Love You\u00e2\u20ac\u009d.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=t37hc9XGwxUrB9YrapuXRAAhhXyjDygY9dPew%252Bng2jYQnXkGMMPvvsmKGfnDsLN2x3xEmCHaVXFxwbIloYfAZCZxG9oyJRglYs940VWpqQ%252Bcd4uMAOi16gGURnBvxI8iAEiE9Vzs1Z9JRPWb0oyvmm3wwYNqn9G2kA8BMu7%252B5%252FjVYNNArSinih%252BRSuDji4gsxX6aOe6fJZhWdQKQOmFE2curhirB3JuGaUd9UfYwnO4A%253D%253D"
@@ -8506,7 +8506,7 @@ const allMovies = [
             "Kira Buckland",
             "Non"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/In-This-Corner-of-the-World-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/In-This-Corner-of-the-World-2016.jpg",
         "description": "Newlywed Suzu Urano moves to her new life in Kure City on the coast of Hiroshima Prefecture, where she perseveres through World War II with pluck and determination.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/53w0-sdeq2lreej"
@@ -8530,7 +8530,7 @@ const allMovies = [
             "Jennifer Elrod",
             "Tyree Brown"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Ice-Age-The-Great-Egg-Scapade-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Ice-Age-The-Great-Egg-Scapade-2016.jpg",
         "description": "A harried prehistoric bird mom Ethel entrusts her precious, soon-to-hatch egg to Sid. When she recommends him to her neighbors \u00e2\u20ac\u201c a condor mom, Cholly Bear and Gladys Glypto \u00e2\u20ac\u201c business booms at his new egg-sitting service. However, dastardly pirate bunny Squint, who is seeking revenge on the herd, steals, camouflages and hides all the eggs. Once again, with Squint\u00e2\u20ac\u2122s twin brother, Clint, assisting, Manny, Diego and the rest of the gang come to the rescue and take off on a daring mission that turns into the world\u00e2\u20ac\u2122s first Easter egg hunt.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/z4jmxuj1jzw4q65"
@@ -8552,7 +8552,7 @@ const allMovies = [
             "Jenny Pellicer",
             "Stephanie Sheh"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Barbie-Spy-Squad-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Barbie-Spy-Squad-2016.jpg",
         "description": "Barbie and her best friends Teresa and Renee transform from hard-working gymnasts to undercover secret agents. When their amazing gymnastics skills catch the eye of a top-secret spy agency, the girls are soon following clues to a gem-stealing cat burglar, using high-tech gadgets, glam disguises and cute robo-pets to save the day.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-e473jk6q"
@@ -8574,7 +8574,7 @@ const allMovies = [
             "Miyu Irino",
             "Saori Hayami"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/A-Silent-Voice-The-Movie-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/A-Silent-Voice-The-Movie-2016.jpg",
         "description": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again\u00e2\u20ac\u00a6 until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late\u00e2\u20ac\u00a6?",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/76xp-hg3l4qlj5e"
@@ -8595,7 +8595,7 @@ const allMovies = [
             "Kathleen Barr",
             "Natasha Calis"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Barbie-Her-Sisters-in-a-Puppy-Chase-2016-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Barbie-Her-Sisters-in-a-Puppy-Chase-2016-152x228.jpg",
         "description": "Barbie and her sisters go to an island paradise for a dance competition, but they must work together as a team to find their pets after their furry friends go missing at a horse festival.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/d86jlsx7e81el78"
@@ -8617,7 +8617,7 @@ const allMovies = [
             "Kenji Fukuda",
             "Yumi Hara"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/New-Initial-D-the-Movie-Legend-3-\u00e2\u20ac\u201c-Dream-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/New-Initial-D-the-Movie-Legend-3-\u00e2\u20ac\u201c-Dream-2016.jpg",
         "description": "The third and final movie in a trilogy.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/e87jes-xkern6d3"
@@ -8633,7 +8633,7 @@ const allMovies = [
         ],
         "sutradara": "Alan Barillaro",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Piper-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Piper-2016.jpg",
         "description": "A mother bird tries to teach her little one how to find food by herself. In the process, she encounters a traumatic experience that she must overcome in order to survive.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-ee5qgw06"
@@ -8653,7 +8653,7 @@ const allMovies = [
             "S\u00c3\u00b4ichir\u00c3\u00b4 Hoshi",
             "Takuya Eguchi"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Kuroko-no-Basket-Movie-1-Winter-Cup-Soushuuhen-\u00e2\u20ac\u201c-Kage-to-Hikari-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Kuroko-no-Basket-Movie-1-Winter-Cup-Soushuuhen-\u00e2\u20ac\u201c-Kage-to-Hikari-2016.jpg",
         "description": "First of three compilation films of Kuroko no Basket.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/xyjkeh5km6pz--m"
@@ -8675,7 +8675,7 @@ const allMovies = [
             "Stuart Allan",
             "Yvonne Strahovski"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Batman-Bad-Blood-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Batman-Bad-Blood-2016.jpg",
         "description": "Bruce Wayne is missing. Alfred covers for him while Nightwing and Robin patrol Gotham City in his stead. And a new player, Batwoman, investigates Batman\u00e2\u20ac\u2122s disappearance.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/4wld-cznw1w0y44"
@@ -8700,7 +8700,7 @@ const allMovies = [
             "Lena Headey",
             "Sean Bean"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Kingsglaive-Final-Fantasy-XV-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Kingsglaive-Final-Fantasy-XV-2016.jpg",
         "description": "The magical kingdom of Lucis is home to the world\u00e2\u20ac\u2122s last remaining Crystal, and the menacing empire of Niflheim is determined to steal it. King Regis of Lucis commands an elite force of soldiers called the Kingsglaive. Wielding their king\u00e2\u20ac\u2122s magic, they fight to protect Lucis. As the overwhelming military might of the empire bears down, King Regis is faced with an impossible ultimatum \u00e2\u20ac\u201c to marry his son, Prince Noctis to Princess Lunafreya of Tenebrae, captive of Niflheim, and surrender his lands to Niflheim rule. Although the king concedes, it becomes clear that the empire will stop at nothing to achieve their devious goals, with only the Kingsglaive standing between them and world domination.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/4wld-czn4ld6e2n"
@@ -8741,7 +8741,7 @@ const allMovies = [
             "Vince McMahon",
             "Virgil Riley Runnels"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/06/qtdArGA4HmD7aDEwh6FOhkD8xdr.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/06/qtdArGA4HmD7aDEwh6FOhkD8xdr.jpg",
         "description": "It\u00e2\u20ac\u2122s pedal to the metal as Scooby-Doo, Shaggy and the gang team up with the superstars of WWE in this hi-octane, all-new original movie! When Scooby and Mystery Inc. visit an off-road racing competition, it\u00e2\u20ac\u2122s not long before strange events start to occur. A mysterious phantom racer, known only as Inferno, is causing chaos and determined to sabotage the race. It\u00e2\u20ac\u2122s up Scooby-Doo, Shaggy and their new driving partner, The Undertaker, to save the race and solve the mystery. Along with other WWE superstars such as Triple H, Paige and Shamus, it\u00e2\u20ac\u2122s time to start your engine and your appetite because Scooby-Doo and WWE are chasing down adventure and laughs just for you!",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/d86jlsx7723m5pm"
@@ -8765,7 +8765,7 @@ const allMovies = [
             "Robbie Daymond",
             "Sarah Anne Williams"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/05/9Yq33EXs9YpgrwGXJlJL73OTpt1.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/05/9Yq33EXs9YpgrwGXJlJL73OTpt1.jpg",
         "description": "Barbie is a cosmic princess who flies high on her hoverboard through a far-off universe with her adorable and devoted pet sidekick, Pupcorn. One day, everything changes when the twinkling stars start to dim and slow their dance in the sky. Barbie travels to a beautiful new planet to join a special rescue team on a mission to save the stars. Once there, she teams up with a group of talented new friends who work together to save the galaxy through exciting hoverboarding adventures. Barbie soon discovers that if she listens to her heart, and with the help of her friends, she might be the leader the whole universe has been waiting for!",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/d86jlsx7e81el78"
@@ -8799,7 +8799,7 @@ const allMovies = [
             "Spike Spencer",
             "Travis Dresden"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/05/ceurB6wkAgMKwR4bVq1PdEJ5bvL.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/05/ceurB6wkAgMKwR4bVq1PdEJ5bvL.jpg",
         "description": "Monsters once lived in hiding\u00e2\u20ac\u201deven from each other\u00e2\u20ac\u201dbecause they were afraid they would be in danger if humans knew they existed. But Draculaura, the daughter of Dracula, along with her best ghoulfriends, dreamt of a school where everyone was welcome and accepted for who they are. Determined to make their dream come true, the ghouls travel the world on an epic adventure to recruit new students. But even in this amazing place, there\u00e2\u20ac\u2122s drama: a villainess zombie is spreading trouble rather than friendship, and every student must live with the fear that their secret will be revealed. Now the ghouls must save their school so that every monster has a place where they belong and their uniqueness is celebrated!",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/k7kj6f35m13ln41"
@@ -8830,7 +8830,7 @@ const allMovies = [
             "Sayaka Ohara",
             "Tani Kanon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/01/xq1Ugd62d23K2knRUx6xxuALTZB.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/01/xq1Ugd62d23K2knRUx6xxuALTZB.jpg",
         "description": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki\u00e2\u20ac\u2122s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/j61j4hd3gn8egl2"
@@ -8982,7 +8982,7 @@ const allMovies = [
             "Vince Pisani",
             "Vince Romo"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/11/Office-Christmas-Party-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/11/Office-Christmas-Party-2016.jpg",
         "description": "When his uptight CEO sister threatens to shut down his branch, the branch manager throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/qkj61te83d3w0rm"
@@ -9015,7 +9015,7 @@ const allMovies = [
             "Temuera Morrison",
             "Troy Polamalu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/11/Moana-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/11/Moana-2016.jpg",
         "description": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain\u00e2\u20ac\u2122s daughter\u00e2\u20ac\u2122s island, she answers the Ocean\u00e2\u20ac\u2122s call to seek out the demigod to set things right.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?SkRQeFRGMEtEazZFazI2NVJ1NEFGbFBqNmdBQlpRRThMbEZiVzcyckVkZWpSWVBkTXVNZkNCYmVqMXJNQWM1bEpsKzM0ZVlIUmdValRsVWN0K2NpUk52TjV0UE9uaCtWaUNzSDBBV2dpUlJyeTd6M2JXUTh1WkQzWEtpb0hlb3NvejFuV2J3Y2lWUGQ2YzIzVW1MMGVBPT06OqomMUkiodSbVFxa%2BDQJCTw%3D"
@@ -9065,7 +9065,7 @@ const allMovies = [
             "Zo\u00c3\u00ab Crawford",
             "Zooey Deschanel"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/zKu5MNy9QW1a5ZHgv7iAp3kRZpE.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/zKu5MNy9QW1a5ZHgv7iAp3kRZpE.jpg",
         "description": "Lovable and friendly, the trolls love to play around. But one day, a mysterious giant shows up to end the party. Poppy, the optimistic leader of the Trolls, and her polar opposite, Branch, must embark on an adventure that takes them far beyond the only world they\u00e2\u20ac\u2122ve ever known.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?ZUVlVm5qdVBBcDU1K0tEdTVLRzZLUlJaN2p1T3lybENsSUtWV1gxcG1xbWRvU0lZNEUvVVdKZFBIU1Ryck4zS3RBdFZEOG9vdDNBWG93b0k3ck9TVzVEUldrd051NU1KOU8yZjZ5cG5ibGpOOW5ZTGk5b1I3MENQRmJvbE5ocnB3N3E0Y2EvM2dBZlN0Z2dxa3ZTNlpReXlXb3JtWjNSZ0NKNFF0aFNhVytabWRYSmw4MWR0MVV6TkYxcFdFNUIyT1hEeEF1WVk1bkcrU0dJc0RUcUJTTm5GbXFEMjZhbTQ2bWgrUkQyUmQ5QmdaQVZPdU8rQm0rVGZPcmNZaU11WldyNEhJQXFtODl3Mkxtd3hRNDJlZTRyZ1BUUGpTQUhsMUhMa1c4R1NOYk09OjprfJ9YPHykN61zaDbU7tMu"
@@ -9099,7 +9099,7 @@ const allMovies = [
             "Stephen Kramer Glickman",
             "Ty Burrell"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/5qVD5TD1CiALR5vUsMzh2BschVU.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/5qVD5TD1CiALR5vUsMzh2BschVU.jpg",
         "description": "Storks deliver babies\u00e2\u20ac\u00a6or at least they used to. Now they deliver packages for a global internet retail giant. Junior, the company\u00e2\u20ac\u2122s top delivery stork, is about to be promoted when he accidentally activates the Baby Making Machine, producing an adorable and wholly unauthorized baby girl\u00e2\u20ac\u00a6",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-e433x1pw"
@@ -9171,7 +9171,7 @@ const allMovies = [
             "Wes Anderson",
             "Willow Geer"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/dMblbyP7mnV8fKVuiy1i2GkS8Rg.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/dMblbyP7mnV8fKVuiy1i2GkS8Rg.jpg",
         "description": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-z24dpw86"
@@ -9209,7 +9209,7 @@ const allMovies = [
             "Saemi Nakamura",
             "Thomas Isao Morinaka"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Kubo-and-the-Two-Strings-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Kubo-and-the-Two-Strings-2016.jpg",
         "description": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt4302938"
@@ -9238,7 +9238,7 @@ const allMovies = [
             "Robin Atkin Downes",
             "Tara Strong"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Batman-The-Killing-Joke-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Batman-The-Killing-Joke-2016.jpg",
         "description": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness. Based on the graphic novel by Alan Moore and Brian Bolland.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/4wld-cznpmm1e03"
@@ -9279,7 +9279,7 @@ const allMovies = [
             "Stephanie Beatriz",
             "Wanda Sykes"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Ice-Age-Collision-Course-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Ice-Age-Collision-Course-2016.jpg",
         "description": "Set after the events of Continental Drift, Scrat\u00e2\u20ac\u2122s epic pursuit of his elusive acorn catapults him outside of Earth, where he accidentally sets off a series of cosmic events that transform and threaten the planet. To save themselves from peril, Manny, Sid, Diego, and the rest of the herd leave their home and embark on a quest full of thrills and spills, highs and lows, laughter and adventure while traveling to exotic new lands and encountering a host of colorful new characters.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?UW51M3R2b2dJajdFVjNBbFU4MVphYjVQOVZQTHhhYUowOU10K0Z0Y0xNcDJlL083QzlNdWs4NVZ4TGpFUGp3eUpFYURITWp3TUhqQVJXMFZ5WlRkNmNLc0VmdTlmU3RSeWoxT29RMUxYb1NFUGk4NUFnUnlBN2QyQjlCMGhiWjdVNUJiUWsxOTNQMGQrdHg0RGJmMDUvcjJ2NnRZdTVWazlWbk41T0pPeXhjUi9mb2RJY252NkpkalFaUEJkVURReGJOVW9oRlFrRVNEbTdYWWtyTktJbXZzQVh5N1cvMThvT3psNFZ3WW8yWmY0ZDA5dkQ4bzRNYlR1VDdWUytGeVY2eHYzdHVuS3oyR2JOOFlpTGo1dHhTSldlOGJnbDhLOTcwOFNaY29qRWZaZms4RlVFT2FTaXJ1aTVzZi85Mmc6OtfOqXHoMlfAYlP%2FY80FdD0%3D"
@@ -9329,7 +9329,7 @@ const allMovies = [
             "Vicki Lewis",
             "Willem Dafoe"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Finding-Dory-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Finding-Dory-2016.jpg",
         "description": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?ZzQyNUFoN0VySmFZK3lnTkRrTUVSSEk3M2tScnM1bklhSVlKbnB0UExJQWlkWTV4Z3BjRERyd25xL1AzOU13VHFMbjZEWUZkL1dSdkw0anR0blorUUkvV25KUTdWUFIvVkFEQ25tVlVvaVpBV0s5VkllR253cXZ1VU1QQlE2akhubWswblRrTkFtcHUvQzBPcjNzYXk2cStlbkUrWEVzUnA1UUpMei9hWjVjWlVDaXBkNmdiYmttcHB5dTlhNmJQTDZkbUVXZnFsWVVxSWtnclBmWERRc3dWWjB2T28wWGFaR3dXOW0wK0xMN2cwQkVURzdKSXUxWU1scktRdU5xVDlxcUN3QWlLajNiTThacGJXM3F6bEFCWHN2UHRHRENpNS9FakFVaHZiTWhSV0NSRkNFU0hUNGZwR29TSnZRYzc6OlgnyWgErni%2BOpXBt9WynME%3D"
@@ -9377,7 +9377,7 @@ const allMovies = [
             "Tara Strong",
             "Tyler Werrin"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/The-Secret-Life-of-Pets-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/The-Secret-Life-of-Pets-2016.jpg",
         "description": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/j61j4hd23p6q004"
@@ -9426,7 +9426,7 @@ const allMovies = [
             "Tituss Burgess",
             "Tony Hale"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/The-Angry-Birds-Movie-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/The-Angry-Birds-Movie-2016.jpg",
         "description": "An island populated entirely by happy, flightless birds or almost entirely. In this paradise, Red, a bird with a temper problem, speedy Chuck, and the volatile Bomb have always been outsiders. But when the island is visited by mysterious green piggies, it\u00e2\u20ac\u2122s up to these unlikely outcasts to figure out what the pigs are up to.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/d86jlsx74112j4n"
@@ -9455,7 +9455,7 @@ const allMovies = [
             "Rosario Dawson",
             "Sylvester Stallone"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Ratchet-Clank-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Ratchet-Clank-2016.jpg",
         "description": "Ratchet and Clank tells the story of two unlikely heroes as they struggle to stop a vile alien named Chairman Drek from destroying every planet in the Solana Galaxy. When the two stumble upon a dangerous weapon capable of destroying entire planets, they must join forces with a team of colorful heroes called The Galactic Rangers in order to save the galaxy. Along the way they\u00e2\u20ac\u2122ll learn about heroism, friendship, and the importance of discovering one\u00e2\u20ac\u2122s own identity.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/-wp2ycpyydn33j5"
@@ -9515,7 +9515,7 @@ const allMovies = [
             "Tommy Chong",
             "Zach King"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Zootopia-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Zootopia-2016.jpg",
         "description": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia\u00e2\u20ac\u2122s police force, jumps at the chance to crack her first case \u00e2\u20ac\u201c even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?ZFpOYnhPU05STTdjYTlZTlVMTWVKVjJHSnZsVnlaTTR5cGFaMFZKd00wbnAwZmxBOExtMEM1WnMzaHg2dUN1MGNBdHlyWVFzTTZuc3pmRmFhVk96N2xrOGQrN25ybEFsRlZqVnEvcW9MMFQ3dS9LUFhyY1JSNGlCTHE0MEcwd0VLelgrcmpHUHUyTFl0UFIwNXd0K3ZNeWZlZnJEQnVWbzNFK3FkRGNLRXYxTlM3a0xTSURkdHcxNzRyYVJ0WDlZM3daT2lKczdYRllRWk9QWXFIME4zMzcxb0ZYZ1dCNk1NQWRUbmlIT2tlTm1pTXcxV2p6bTdqeS9wTDVmaHJHTWczeWhQY3lDaGUrSWh5VmNMTEJTMmhsRFBLN2dyWDdaTHpMTG42M2dDMmM9OjqX8trNFiF%2BoFc2mR0mhzYw"
@@ -9569,7 +9569,7 @@ const allMovies = [
             "Willie Geist",
             "Zahara Jolie-Pitt"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Kung-Fu-Panda-3-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Kung-Fu-Panda-3-2016.jpg",
         "description": "Continuing his \u00e2\u20ac\u0153legendary adventures of awesomeness\u00e2\u20ac\u009d, Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?WDREMjdoZGVHUWxhQVZVMmdHKzhHaDMvS3NMT0pzazVpdHlacmY3Z244SzBrcnVzRXc3YXJ6M0JqS29vSWk2clVoYjFMYVV0bkRqVzFRYWFQYnhqN3ZkOWhDUlc5MU40YnliM1NyZzhXN0ZSSHNEOFIxMmxZZGJPZ3F6RytLY2FwWVdhOTl0TnpmYnQxVVRyUFIvbVlWY0VHZjBJKzhxWmd2OXduemE1V2tLYVhBS1NVVWZKZkYycVg0b0E3MkJvY0d2TEFqMjUwYzh4eXViSUhocmJQVnJ5blp0UkpyNnRmbGxjV3V1dzNmcnpUcWFTMDhZU0hsVW9wOEhOR1JMdWZlYldTQ1FMckc2RXdRS1FJajg1WEttK3JXZUVRWFFEQkxRcjg4NTJEODQ9OjpZP0RxCmR%2FXXylsdF7SsRN"
@@ -9607,7 +9607,7 @@ const allMovies = [
             "Salome Jens",
             "Zachary Gordon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/qv09dxeJoNQIbalsl47yObGgcc5.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/qv09dxeJoNQIbalsl47yObGgcc5.jpg",
         "description": "The stereoscopic 3D animated family film \u00e2\u20ac\u0153Norm\u00e2\u20ac\u009d tells the story of the titular polar bear and his three Arctic lemming buddies, who are forced out into the world once their icy home begins melting and breaking apart. Landing in New York, Norm begins life anew as a performing corporate mascot, only to discover that his new employers are directly responsible for the destruction of his polar home.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?TE5sWGpHL0tPdnpPZjlaUWYzbU1qMitJRStnaXBadnczRE9hN093U3JKRlI5a25QS2MvMkE0R292ekMyT0ZvcTFOV0NPdE03SHJrSDU0Y2RHWnJEYUZONHFvY2diNE1SZUxuUThVUUg5eXhqamYxRnhsQy93SmVYRVZhL0RKanhBaGFoY0o5NXY5ZUhKVFhiZGFoaVloZStOU0wrQTFlNVhQWU1kL2xyeWJtL3hLTW9KM1dQMmh4K3dLQkQ1dDltM2YvRmRPSGhucXBmcVQzbldKaUdmcFl3MGVKWmxVTVZYUFh1WUdYQTk1T1lMRUViYTZjSkpqM2dISVRXeDRMUHVINkpGeU5ZMnNnc050WlJIaGZBMms0Y3ExQVBlY1czVmk4dWllRlIrWDQ9Ojqpl4DR7IyIOviN9mR2aV7U"
@@ -9636,7 +9636,7 @@ const allMovies = [
             "Stuart Allan",
             "Taissa Farmiga"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Justice-League-vs.-Teen-Titans-2016.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Justice-League-vs.-Teen-Titans-2016.jpg",
         "description": "Robin is sent by Batman to work with the Teen Titans after his volatile behavior botches up a Justice League mission. The Titans must then step up to face Trigon after he possesses the League and threatens to conquer the world.",
         "rating": 0.0,
         "videoUrl": "https://cubeplay.xyz/embed.php?dDAvT0VrMUxLL3dUdTZCb1pYUWIrWXhFQW9Xak5xVm1XYTcwdXVyNFFjZldndytMTm9kVTloeTB0VHdIKzEvdDZRVzNyeWw4R3hQK0dBbTYzUWRFWHpDNnlKSXZHMkZPbXFKYXdmMFAyV3BUUktRc096ODRsbmhOS2VDSUxJTTFwKzduUzVUL045L1Y5a1Q2YjlhTG9RPT06OtuzZr4v1WYu7YE4Wj1FhR8%3D"
@@ -9667,7 +9667,7 @@ const allMovies = [
             "Takeshi Kusao",
             "Toshio Furukawa"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/ociFZNFVtfvlimInD56ULtPHGsb-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/ociFZNFVtfvlimInD56ULtPHGsb-152x228.jpg",
         "description": "One peaceful day on Earth, two remnants of Frieza\u00e2\u20ac\u2122s army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Frieza. They succeed, and Frieza subsequently seeks revenge on the Saiyans.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=lhodda7lx2ZVpPmShmsVAQUKJ%252BI1ulihfUyI3xpHQCpgSfdK4wapHqPtTq2JVu%252BZJ1%252BckQBd0Xlbz80cq%252BL6y%252FVp6yxeYzoJ2YaEQV2fRuy7TDr0hxzv4eNZK%252FHyg9suSMoCa6r6gLgS713TzGIL7HogUMO%252Fxc86gaX%252FwoDYu2ia34V%252FsHGUPGqx1F1WmuuIo%253D"
@@ -9695,7 +9695,7 @@ const allMovies = [
             "Shin-ichiro Miki",
             "Yoshiko Sakakibara"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/uVMb8eOhQziydeyVzLawyg6KmUL-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/uVMb8eOhQziydeyVzLawyg6KmUL-152x228.jpg",
         "description": "In the future, Utopia has finally been achieved thanks to medical nanotechnology and a powerful ethic of social welfare and mutual consideration. This perfect world isn\u00e2\u20ac\u2122t that perfect though, and three young girls stand up to totalitarian kindness and super-medicine by attempting suicide via starvation. It doesn\u00e2\u20ac\u2122t work, but one of the girls\u00e2\u20ac\u201dTuan Kirie\u00e2\u20ac\u201dgrows up to be a member of the World Health Organization. As a crisis threatens the harmony of the new world, Tuan rediscovers another member of her suicide pact, and together they must help save the planet\u00e2\u20ac\u00a6from itself.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=9rSZ6h6tWLojNuOn2dA4uweUtWyd43ECBhMck0dicC1C6%252FO%252BSaVzRPIrkrFbp2fHKd0G8YTRQzlIqbCtMZ2eH6fyXft7QA2SFzZVnuFJK6Dy29Ww9ScGTOPfNHdHQUfmoWQ8o3bLGKVfh%252B%252FzeNFfUQemQMf1KyNvXtuqUNV1vHQgHkTRcAdYp9jeT0h7chPvU%253D"
@@ -9717,7 +9717,7 @@ const allMovies = [
             "Christopher Knights",
             "Tom McGrath"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/04/Penguins-of-Madagascar-2014-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/04/Penguins-of-Madagascar-2014-152x228.jpg",
         "description": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/wej1lanr0z2n346"
@@ -9738,7 +9738,7 @@ const allMovies = [
             "Junko Takeuchi",
             "Nana Mizuki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/04/bAQ8O5Uw6FedtlCbJTutenzPVKd-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/04/bAQ8O5Uw6FedtlCbJTutenzPVKd-152x228.jpg",
         "description": "Two years after the events of the Fourth Great Ninja War, the moon that Hagoromo Otsutsuki created long ago to seal away the Gedo Statue begins to descend towards the world, threatening to become a meteor that would destroy everything on impact. Amidst this crisis, a direct descendant of Kaguya Otsutsuki named Toneri Otsutsuki attempts to kidnap Hinata Hyuga but ends up abducting her younger sister Hanabi. Naruto and his allies now mount a rescue mission before finding themselves embroiled in a final battle to decide the fate of everything.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/m0mjds5m-p-n4kj"
@@ -9760,7 +9760,7 @@ const allMovies = [
             "Wasabi Mizuta",
             "Yumi Kakazu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Stand-by-Me-Doraemon-2014.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Stand-by-Me-Doraemon-2014.jpg",
         "description": "In the suburbs of Tokyo some time ago, there lived a clumsy boy about 10 years old. There appeared in front of him named Sewashi, Nobita\u00e2\u20ac\u2122s descendant of four generations later from the 22nd century, and Doraemon, a 22nd century cat-type caretaker robot who helps people with its secret gadgets. Sewashi claims that his family is suffering from the debts Nobita made even to his generation, so in order to change this disastrous future, he brought along Doraemon as Nobita\u00e2\u20ac\u2122s caretaker to bring happiness to his future, although Doraemon is not happy about this. And so Sewashi installed an accomplishment program into Doraemon forcing him to take care of Nobita. Unless he makes Nobita happy, Doraemon can no longer go back to the 22nd century. This is how the life of Doraemon and Nobita begins. Will Doraemon succeed this mission and return to the 22nd century?",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/g80jxs-p1zxx81-"
@@ -9785,7 +9785,7 @@ const allMovies = [
             "Gerard Butler",
             "Jay Baruchel"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/How-to-Train-Your-Dragon-2-2014.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/How-to-Train-Your-Dragon-2-2014.jpg",
         "description": "The thrilling second chapter of the epic How To Train Your Dragon trilogy brings back the fantastical world of Hiccup and Toothless five years later. While Astrid, Snotlout and the rest of the gang are challenging each other to dragon races (the island\u00e2\u20ac\u2122s new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/ldzj7bnp1ywqnye"
@@ -9808,7 +9808,7 @@ const allMovies = [
             "Maaya Sakamoto",
             "Tarusuke Shingaki"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Ghost-in-the-Shell-Arise-Border-3-\u00e2\u20ac\u201c-Ghost-Tears-2014.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Ghost-in-the-Shell-Arise-Border-3-\u00e2\u20ac\u201c-Ghost-Tears-2014.jpg",
         "description": "Posing as lovers on vacation, Motoko and Batou work to try to stop a terrorist organization whose symbol is the Scrasath. Meanwhile, Togusa investigates a murder of a man who possessed a prosthetic leg manufactured by the Mermaid\u00e2\u20ac\u2122s Leg corporation.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=vHzv3Oy9LiFLosRlpV2GjQ9y955CY%252Bt0UYMSpcDD4vDSPeC7257c1jfb0vMCy5BX4EHT%252FphJ%252Be4ipbLbdaeCpVypRlGkK576xqj2%252FPC3o5b%252FmyPV878lzh4pEu4Wxc2dDfxLwhfcbMrXEaTmTGZuH140jesC8UPKsNwGgTAH49%252F%252Fg%252FNYW5XnP1vhqiZ9zfuvU%253D"
@@ -9874,7 +9874,7 @@ const allMovies = [
             "Yumi Mizui",
             "Yuri Lowenthal"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/08/Big-Hero-6-2014.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/08/Big-Hero-6-2014.jpg",
         "description": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/rzj7kce41zexk31"
@@ -9929,7 +9929,7 @@ const allMovies = [
             "Will Ferrell",
             "Will Forte"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/01/lMHbadNmznKs5vgBAkHxKGHulOa.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/01/lMHbadNmznKs5vgBAkHxKGHulOa.jpg",
         "description": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from gluing the universe together.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=Qm%252FmFvD%252B8RMGeJzUW0K7PAyK6zODiaJCjO0b1FYY0g1GmintMGR95JQa4WMZ63qen%252Frq8dw%252FSWBPymUs89tzZxzqfNOsnJsr%252Bq%252BZzXm945UzXOCTqgzFga%252FOavhrCx5UFoH%252B7f5GgCkxlujVH7hyK1Q83mlBbdzwHXDYDK6QRSFUV6pPYWS%252BOMIPEXXRQQNm4%253D"
@@ -9967,7 +9967,7 @@ const allMovies = [
             "Stephen Lang",
             "Will Arnett"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/12/The-Nut-Job-2014.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/12/The-Nut-Job-2014.jpg",
         "description": "Surly, a curmudgeon, independent squirrel is banished from his park and forced to survive in the city. Lucky for him, he stumbles on the one thing that may be able to save his life, and the rest of park community, as they gear up for winter \u00e2\u20ac\u201c Maury\u00e2\u20ac\u2122s Nut Store.",
         "rating": 0.0,
         "videoUrl": "//haxhits.com/?e=V4tjSLfXkcRMJDi"
@@ -9989,7 +9989,7 @@ const allMovies = [
             "Kana Hanazawa",
             "Miyu Irino"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/The-Garden-of-Words-2013.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/The-Garden-of-Words-2013.jpg",
         "description": "Takao, who is training to become a shoemaker, skipped school and is sketching shoes in a Japanese-style garden. He meets a mysterious woman, Yukino, who is older than him. Then, without arranging the times, the two start to see each other again and again, but only on rainy days. They deepen their relationship and open up to each other. But the end of the rainy season soon approaches \u00e2\u20ac\u00a6",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=1fXihbaVD35XbwfAxJsmKg6TX4Mssdz87GCGbD8kbC0sHfkw%252F9kGe48i1zOmbg8gFJbIpPCrfigq9sOY3dLgLKpEwVwrQZGfWC58J650ele0qU4D8ZZKyFN%252BLZ%252Fzgvl7DgnogcQtksp0g2z82jiu1b4GfwMPBk%252FVrObb9sj1tKlwpaSp4f4EdSGE%252FjhF8%252F0VM%253D"
@@ -10012,7 +10012,7 @@ const allMovies = [
             "Jayma Mays",
             "Neil Patrick Harris"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/The-Smurfs-2-2013.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/The-Smurfs-2-2013.jpg",
         "description": "The evil wizard Gargamel creates a couple of mischievous Smurf-like creatures called the Naughties that he hopes will let him harness the all-powerful, magical Smurf-essence. But when he discovers that only a real Smurf can give him what he wants, and only a secret spell that Smurfette knows can turn the Naughties into real Smurfs, Gargamel kidnaps Smurfette and brings her to Paris, where he has been winning the adoration of millions as the world\u00c2\u00b9s greatest sorcerer. It\u00e2\u20ac\u2122s up to Papa, Clumsy, Grouchy, and Vanity to return to our world, reunite with their human friends Patrick and Grace Winslow, and rescue her! Will Smurfette, who has always felt different from the other Smurfs, find a new connection with the Naughties Vexy and Hackus or will the Smurfs convince her that their love for her is True Blue?",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=cQS8o24yxYmPOYzAp25m%252Bg1HaMvVh2OT%252BfWjtBq3Z65XG1%252FCCGsxgmcSIVHMetOsmoDkFY%252B7xgmIu330roL1zTMRZ79onawba0iqZ5k83w0gQ12tJkyvnngEdq%252BJVxYes%252Bs8WCf0AAwdSI4x6HhO27IP7D%252BDNICeJms9i5AgUsh18P%252B8mmv3shZ%252BigtWMwvK0%253D"
@@ -10053,7 +10053,7 @@ const allMovies = [
             "Steve Buscemi",
             "Tyler Labine"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/Monsters-University-2013.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/Monsters-University-2013.jpg",
         "description": "A look at the relationship between Mike and Sulley during their days at Monsters University \u00e2\u20ac\u201d when they weren\u00e2\u20ac\u2122t necessarily the best of friends.",
         "rating": 7.0,
         "videoUrl": "https://hxfile.co/embed-15jc1eh3m9b6.html"
@@ -10081,7 +10081,7 @@ const allMovies = [
             "Thierry Fr\u00c3\u00a9mont",
             "Vernon Dobtcheff"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/r6srwaqTFbZj7WODwWIzSC50sKP-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/r6srwaqTFbZj7WODwWIzSC50sKP-152x228.jpg",
         "description": "Inspired by the true story of the first giraffe to visit France, Zarafa is a sumptuously animated and stirring adventure, and a throwback to a bygone era of hand-drawn animation and epic storytelling set among sweeping CinemaScope vistas of parched desert, wind-swept mountains and open skies. Under the cover of darkness a small boy, Maki, loosens the shackles that bind him and escapes into the desert night. Pursued by slavers across the moon-lit savannah, Maki meets Zarafa, a baby giraffe \u00e2\u20ac\u201c and an orphan, just like him \u00e2\u20ac\u201c as well as the nomad Hassan, Prince of the Desert. Hassan takes them to Alexandria for an audience with the Pasha of Egypt, who orders him to deliver the exotic animal as a gift to King Charles of France.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=BqLiyOU9OfjYJhZ7JuKZdwgNte7EMkxtFmNnHrlBEvm%252BgS0KNLbB3QOs5In%252BBSZURaDku7tObHYuSttmKNlLcmj2jcYaagcuzjWy1MW6Zrte%252FZdMFLt7mf3wDQW%252F0M1fPrmFu4mZekhhAjKD0Jenz%252Bj01qCzxNnKZYw%252B8XZhTCmXPEEn7dq2srJ6yUFE4khaw%253D"
@@ -10103,7 +10103,7 @@ const allMovies = [
             "Lowell Bartholomee",
             "Meg Bauman"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Rurouni-Kenshin-New-Kyoto-Arc-\u00e2\u20ac\u201c-The-Chirps-of-Light-2012.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Rurouni-Kenshin-New-Kyoto-Arc-\u00e2\u20ac\u201c-The-Chirps-of-Light-2012.jpg",
         "description": "Shishio\u00e2\u20ac\u2122s plan is enacted while Kenshin and Misao help defend the city.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=xSAYaUCQ%252BtUACcud0LdBGg2uqkBFmv99adSQqBq3zDJmxNYWX0d1BxiQFrTQeKOpdnFEe0kOCR0WzXTO6Wm8xjqeQ2Cr0ajGrAST4UdcvjlFM5%252FqMU0aaEVpIyUqBsjrTLnMtSr6h61GOwTlhqlDs5FYDolb2F9S07RYx2nKuHBLQxRmwGbYwBKJn4dfhu9GI%253D"
@@ -10125,7 +10125,7 @@ const allMovies = [
             "Julianne Buescher",
             "Obba Babatund\u00c3\u00a9"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Scooby-Doo-Music-of-the-Vampire-2012.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Scooby-Doo-Music-of-the-Vampire-2012.jpg",
         "description": "Scooby and the gang have their first musical mystery in \u00e2\u20ac\u0153Scooby Doo: Music of the Vampire.\u00e2\u20ac\u009d It begins when they take a sing-a-long road trip into bayou country to attend the \u00e2\u20ac\u0153Vampire-Palooza Festival\u00e2\u20ac\u009d \u00e2\u20ac\u201c an outdoor fair dedicated to all things Draculian. At first it looks as if they\u00e2\u20ac\u2122re in for some fun and lots of Southern snacks, but events soon turn scary when a real live vampire comes to life, bursts from his coffin and threatens all the townsfolk. On top of that, this baritone blood sucker seems intent on taking Daphne as his vampire bride! Could the vampire be a descendant of a famous vampire hunter who is trying to sell his book? Or perhaps he\u00e2\u20ac\u2122s the local politician, who has been trying to make his name in the press by attacking the vampires as downright unwholesome. The answers are to be found in a final song-filled showdown in the swamp in which our heroes unmask one of their most macabre monsters yet.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=b7MIXo2v7rqtF5SPbWjBmwKBK5WV0AZ4s9yC%252BvlIQbX3BB2BJOJYYwbaogGSTLtJh1Np9P9rzGylz9r9N%252Bs7GrRPvVsMVFzJEqv8iSBRiz8UObccTeYjtVtq0RiRoPK%252B%252FeFFkYDHG%252BuCwnvxZ3xWEpeERjdkER18nx7MwTB3oLUufSNmjeVSx0hjV%252FbSI71mI%253D"
@@ -10149,7 +10149,7 @@ const allMovies = [
             "Neil Patrick Harris",
             "Sof\u00c3\u00ada Vergara"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/02/The-Smurfs-2011.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/02/The-Smurfs-2011.jpg",
         "description": "When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world and into ours \u00e2\u20ac\u201d in fact, smack dab in the middle of Central Park. Just three apples high and stuck in the Big Apple, the Smurfs must find a way to get back to their village before Gargamel tracks them down.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=SoZtghxc4HtyaEaI9Rl%252FTAi4ZbQgJCDzw2WpRNuNCeAm4Kc7H05D04dp1o2tgXlSFbYanvgnswt5zGg5rYilFY2j%252Bm%252BsT8lgBATgx0wQdLXqRuV2x5XTrnwhl8J6%252FCz5cG3ERljLhbJOJR5cw5bPiYqYH17urp6KbFm%252FX38PwiRU9j%252FX5w%252BgaVQaw3T5mRhuA%253D"
@@ -10171,7 +10171,7 @@ const allMovies = [
             "Subaru Kimura",
             "Yumi Kakazu"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Doraemon-Nobita-and-the-New-Steel-Troops-Angel-Wings-2011.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Doraemon-Nobita-and-the-New-Steel-Troops-Angel-Wings-2011.jpg",
         "description": "The title character, Nobita, is upset because he cannot get a large RC toy to show off to a rich boy, Suneo. His fit makes Doraemon angry, and with the hot Japanese summer, he decides to \u00e2\u20ac\u0153cool off\u00e2\u20ac\u009d at the North Pole with the Anywhere Door, a mysterious portal. Nobita follows him there after he\u00e2\u20ac\u2122s gone for a long time, and discovers a strange bowling ball-like orb which starts blinking with a pulsating light, and summons what looks like a giant robot\u00c2\u00b4s foot. After sledding down the hill on it and having it crash into his room through the Anywhere Door, the bowling ball follows him home through the door and another robot piece falls into his backyard.",
         "rating": 0.0,
         "videoUrl": "https://www.fembed.com/v/qkj61te87412-8k"
@@ -10241,7 +10241,7 @@ const allMovies = [
             "Velibor Topic",
             "Vitaly Petrov"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/10/Cars-2-2011.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/10/Cars-2-2011.jpg",
         "description": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=iLKRAhRrUhZHVSgnEvFG9QTo%252FR0BU3dail%252Bh9VjUuI0LqKJ6a5krNMIAwqBi9YfzU5B9lLeLL3PtYkAUSvk2185uJ0Q8NhKan5vaY%252FRvOVt3NyzF%252FuEIBeT%252FQNsn%252BCrFFUDqn49qy4UiVAjt21s11mTo0q8AlilpikmO9fR8Jaaq%252FPq163%252BwCxCJyMs%252FMyDD8%253D"
@@ -10267,7 +10267,7 @@ const allMovies = [
             "Nina Zoe Bakshi",
             "Walt Dohrn"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/3L1fUwF4RbnMIvXOt0KYFFwfm2y.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/3L1fUwF4RbnMIvXOt0KYFFwfm2y.jpg",
         "description": "Puss in Boots is on a mission to recover the Princess\u00e2\u20ac\u2122 stolen ruby from the notorious French thief, Whisperer. Reluctantly accompanied by three little kittens, Three Diablos, Puss must tame them before they endanger the mission.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-mk8fdoatjw3f.html"
@@ -10318,7 +10318,7 @@ const allMovies = [
             "Wendy Hoffman",
             "Will Arnett"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/4zHJhBSY4kNZXfhTlmy2TzXD51M-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/4zHJhBSY4kNZXfhTlmy2TzXD51M-152x228.jpg",
         "description": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=b%252FKa0cZzQsY3gj51t2ObkAXPLKVHjAbQB%252FdXzy35f9%252BjXUzOGVgfPWnCPFyJF2Jp%252F45cVkW2TSfdNi5giB6VflRR5PH1b8Aop2WsT5wKZ39iKwU42%252BUwsyCu4WZ6C9%252F%252BoPvw3BI%252BEONyJ2diskD2xJzNuMmCjtJNUXTKdpmUE2C7%252Bs3lW3KvC90j2vYmt0mx4%253D"
@@ -10366,7 +10366,7 @@ const allMovies = [
             "Teddy Newton",
             "Teresa Ganzel"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/WALL\u00c2\u00b7E-2008.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/WALL\u00c2\u00b7E-2008.jpg",
         "description": "WALL\u00c2\u00b7E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL\u00c2\u00b7E thinks he\u00e2\u20ac\u2122s finally found a friend and stows away on the ship when it leaves.",
         "rating": 0.0,
         "videoUrl": "https://hxfile.co/embed-nla05umgbqlb.html"
@@ -10409,7 +10409,7 @@ const allMovies = [
             "Tony Fucile",
             "Will Arnett"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/03/xVxxSYHAfrEbllyWFQG5df5nwH4-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/03/xVxxSYHAfrEbllyWFQG5df5nwH4-152x228.jpg",
         "description": "A rat named Remy dreams of becoming a great French chef despite his family\u00e2\u20ac\u2122s wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely \u00e2\u20ac\u201c and certainly unwanted \u00e2\u20ac\u201c visitor in the kitchen of a fine French restaurant, Remy\u00e2\u20ac\u2122s passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=3oE0%252FvrnSEgkmF2rGaEX2AGjo5BHZxKeEX03EuuJqsoKpnRXlfu%252Fjjep4vFrjcXCacJ%252BV7bxK1%252FvMP70MjNMFqvtzHzH%252Bk4x3%252FTF5SU%252F5%252F0eYsxCnuUs1sGZsj5Xy9i%252FZeOx4Py%252FdY9QxPhLmIZWhiJ8mTinoyvToVTTFDo%252FFMv2bTBUXDPRXBQVGrsT2fpAY%253D"
@@ -10431,7 +10431,7 @@ const allMovies = [
             "Nancy Cartwright",
             "Yeardley Smith"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/The-Simpsons-Movie-2007.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/The-Simpsons-Movie-2007.jpg",
         "description": "After Homer accidentally pollutes the town\u00e2\u20ac\u2122s water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=%252FDlK2V9RZ0xLEiU9FSKjpQjE2Nqr3d7SoDSJIpVB7fPjpHBdAa6LzDlJLDD4ZYsEDxopRQL%252F40sg4P%252BrxpyBklx%252FZbIG6l0jlx4ByWeW7GdzjMfnelLaPQKcxaLIpoYJZgApIWo1gXtOcVlpehVSQZM6ObQ%252BcrTJy%252B4spBWf%252BeKio7iHb5GUbx8a6eLDoY%252FDw%253D"
@@ -10454,7 +10454,7 @@ const allMovies = [
             "Sh\u00c3\u00b4tar\u00c3\u00b4 Morikubo",
             "Takahiro Sakurai"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Final-Fantasy-VII-Advent-Children-2005.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Final-Fantasy-VII-Advent-Children-2005.jpg",
         "description": "Two years have passed since the final battle with Sephiroth. Though Midgar, city of mako, city of prosperity, has been reduced to ruins, its people slowly but steadily walk the road to reconstruction. However, a mysterious illness called Geostigma torments them. With no cure in sight, it brings death to the afflicted, one after another, robbing the people of their fledgling hope.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=A76zluxo0yIEIPnIF4wLgQi63h2E0%252B0eige5R9kEIjQBQi4livmai2B4g7XMWQGL%252BPv3SDL%252BCQ9YU1ZzSsAr8otW4R7torURFRKHBHQMHS5V9T4Wn5h6CH0ExUVjVoULNu0JhblDa%252BVvhRJAqWcZrgc6H%252BS0xFoQYYAoWPD64R1ek4zu%252Bi%252FJYRHmom8NZvRnc%253D"
@@ -10477,7 +10477,7 @@ const allMovies = [
             "Jason Lee",
             "Samuel L. Jackson"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/The-Incredibles-2004.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/The-Incredibles-2004.jpg",
         "description": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it\u00e2\u20ac\u2122s time to get back into costume.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=uuNHtqSkHfGiR905AOEZYwkvrOzqADtCd8Q3S2zwyBZtcdtJ2OeyfZOco3lxPX%252FI8zW7cKEfd1QZN632liVmCyFEy9k6D%252BbFxhWEpIRRoni2bh3Zh1jruQnKT5ILgU%252BAtWArXFCOwEzZfVZqaQQ%252BlgT3AdCbfV30OcCs0d0bpnN6gE6RU%252B2GTzo7tEEbFebfc%253D"
@@ -10516,7 +10516,7 @@ const allMovies = [
             "Rick Moranis",
             "Sherry Lynn"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/09/Brother-Bear-2003.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/09/Brother-Bear-2003.jpg",
         "description": "When an impulsive boy named Kenai is magically transformed into a bear, he must literally walk in another\u00e2\u20ac\u2122s footsteps until he learns some valuable life lessons. His courageous and often zany journey introduces him to a forest full of wildlife, including the lovable bear cub Koda, hilarious moose Rutt and Tuke, woolly mammoths and rambunctious rams.",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=EmHiUGtc%252Ft67%252FO%252B0uOQFJA8s2itwSOfcpCWzSkwAJqk53gTaa7VUuM17s34vRldIF1tUpPSdSEbnndf%252FcJ63XmY9eQPBUu%252FFd%252Fpp1XXGjEMdnFECKIUuLmkgmP%252Fy85hdeCEw1AuGfu8fX112cyKv1wsJp6YQwkdeTcWwwTALz4fPd22b8lS2DCXGKJ%252B8HWEf8%253D"
@@ -10538,7 +10538,7 @@ const allMovies = [
             "John Leguizamo",
             "Ray Romano"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
         "description": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters \u00e2\u20ac\u201c Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth \u00e2\u20ac\u201c find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0268380"
@@ -10562,7 +10562,7 @@ const allMovies = [
             "James Cromwell",
             "Matt Damon"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Spirit-Stallion-of-the-Cimarron-2002.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Spirit-Stallion-of-the-Cimarron-2002.jpg",
         "description": "As a wild stallion travels across the frontiers of the Old West, he befriends a young human and finds true love with a mare.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0166813"
@@ -10586,7 +10586,7 @@ const allMovies = [
             "John Lithgow",
             "Mike Myers"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Shrek-2001.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Shrek-2001.jpg",
         "description": "It ain\u00e2\u20ac\u2122t easy bein\u00e2\u20ac\u2122 green \u00e2\u20ac\u201d especially if you\u00e2\u20ac\u2122re a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot \u00e2\u20ac\u201d a wisecracking donkey.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0126029"
@@ -10609,7 +10609,7 @@ const allMovies = [
             "Rica Matsumoto",
             "Yuji Ueda"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/g2C95ubS56O1ITXy1MgC69kAwF0.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/g2C95ubS56O1ITXy1MgC69kAwF0.jpg",
         "description": "When Me Snowdon\u00e2\u20ac\u2122s sadness of her father\u00e2\u20ac\u2122s disappearance get to her, she unknowingly uses the Unknown to create her own dream world along with Entei, who she believes to be her father. When Entei kidnaps Satoshi\u00e2\u20ac\u2122s mother, Satoshi along with Kasumi & Takeshi invade the mansion looking for his mom and trying to stop the mysteries of Me\u00e2\u20ac\u2122s Dream World and Entei!",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0235679"
@@ -10632,7 +10632,7 @@ const allMovies = [
             "Kevin Kline",
             "Rosie Perez"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/ryXm7xp4aqQyda0FU2eMfHehPBg.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/ryXm7xp4aqQyda0FU2eMfHehPBg.jpg",
         "description": "After a failed swindle, two con-men end up with a map to El Dorado, the fabled \u00e2\u20ac\u0153city of gold,\u00e2\u20ac\u009d and an unintended trip to the New World. Much to their surprise, the map does lead the pair to the mythical city, where the startled inhabitants promptly begin to worship them as gods. The only question is, do they take the worshipful natives for all they\u00e2\u20ac\u2122re worth, or is there a bit more to El Dorado than riches?",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0138749"
@@ -10655,7 +10655,7 @@ const allMovies = [
             "Eartha Kitt",
             "John Goodman"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/12/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/12/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
         "description": "Kuzco is a self-centered emperor who summons Pacha from a village and to tell him that his home will be destroyed to make room for Kuzco\u00e2\u20ac\u2122s new summer home. Kuzco\u00e2\u20ac\u2122s advisor, Yzma, tries to poison Kuzco and accidentally turns him into a llama, who accidentally ends up in Pacha\u00e2\u20ac\u2122s village. Pacha offers to help Kuzco if he doesn\u00e2\u20ac\u2122t destroy his house, and so they form an unlikely partnership.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0120917"
@@ -10678,7 +10678,7 @@ const allMovies = [
             "Rica Matsumoto",
             "Yuji Ueda"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/04/z9j5rhnvka3POllsBwIzfLYBa6s-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/04/z9j5rhnvka3POllsBwIzfLYBa6s-152x228.jpg",
         "description": "When Me Snowdon\u00e2\u20ac\u2122s sadness of her father\u00e2\u20ac\u2122s disappearance get to her, she unknowingly uses the Unknown to create her own dream world along with Entei, who she believes to be her father. When Entei kidnaps Satoshi\u00e2\u20ac\u2122s mother, Satoshi along with Kasumi & Takeshi invade the mansion looking for his mom and trying to stop the mysteries of Me\u00e2\u20ac\u2122s Dream World and Entei!",
         "rating": 0.0,
         "videoUrl": "//gdriveplayer.to/embed2.php?link=jqYaqMyCcDm%252FtNK%252BewdYhwyzsaHl5coALrm04aYyOCe65LfxvKorMJjP5AvPh0apYx7Pyq5JOrSCLdJjsZvW3hIrTen9%252Bk9VWYDU%252FQFQNvpZgKwRJIZqTLMJknYVnGRr71u%252B6x6Tp81Yvb0jLZgs2QAj%252F60Ov%252FhHn%252BOBxGMQndXLEstgoPUyvWMVDAszIV8qE%253D"
@@ -10703,7 +10703,7 @@ const allMovies = [
             "Saemi Nakamura",
             "Y\u00c3\u00bbki Kud\u00c3\u00b4"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Blood-The-Last-Vampire-2000.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Blood-The-Last-Vampire-2000.jpg",
         "description": "In Japan, the vampire-hunter Saya, who is a powerful original, is sent by her liaison with the government, David, posed as a teenage student to the Yokota High School on the eve of Halloween to hunt down vampires. Saya asks David to give a new katana to her. Soon she saves the school nurse Makiho Amano from two vampires disguised of classmates and Makiho witnesses her fight against the powerful demon.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0275230"
@@ -10725,7 +10725,7 @@ const allMovies = [
             "Phil Daniels",
             "Tony Haygarth"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2020/01/Chicken-Run-2000.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2020/01/Chicken-Run-2000.jpg",
         "description": "Having been hopelessly repressed and facing eventual certain death at the British chicken farm where they are held, Rocky the american rooster and Ginger the chicken decide to rebel against the evil Mr. and Mrs. Tweedy, the farm\u00e2\u20ac\u2122s owners. Rocky and Ginger lead their fellow chickens in a great escape from the murderous farmers and their farm of doom.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0120630"
@@ -10746,7 +10746,7 @@ const allMovies = [
             "Mark Hamill",
             "Will Friedle"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/Batman-Beyond-Return-of-the-Joker-2000.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/Batman-Beyond-Return-of-the-Joker-2000.jpg",
         "description": "The Joker is back with a vengeance, and Gotham\u00e2\u20ac\u2122s newest Dark Knight needs answers as he stands alone to face Gotham\u00e2\u20ac\u2122s most infamous Clown Prince of Crime.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0233298"
@@ -10770,7 +10770,7 @@ const allMovies = [
             "Kazuya Nakai",
             "Mayumi Tanaka"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/12/One-Piece-The-Movie-2000.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/12/One-Piece-The-Movie-2000.jpg",
         "description": "There once was a pirate known as the Great Gold Pirate Woonan, who obtained almost one-third of the world\u00e2\u20ac\u2122s gold. Over the course of a few years, the pirate\u00e2\u20ac\u2122s existence faded, and a legend grew that he disappeared with his gold to a remote island, an island pirates continue to search for. Aboard the Going Merry, Luffy and his crew, starved and reckless, are robbed of their treasure. In an attempt to get it back, they wreck the getaway ship, guided by a young boy named Tobio, who\u00e2\u20ac\u2122s a captured part of El Drago\u00e2\u20ac\u2122s pirate crew. El Drago\u00e2\u20ac\u2122s love for gold has driven him to look for Woonan\u00e2\u20ac\u2122s island, and thanks to Woonan\u00e2\u20ac\u2122s treasure map, he finds it. During this time, Luffy\u00e2\u20ac\u2122s crew have been split up, and despite their own circumstances, they must find a way to stop El Drago from obtaining Woonan\u00e2\u20ac\u2122s gold.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0814243"
@@ -10791,7 +10791,7 @@ const allMovies = [
             "Max Casella",
             "Ossie Davis"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2019/11/Dinosaur-2000.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2019/11/Dinosaur-2000.jpg",
         "description": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home.",
         "rating": 0.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0130623"
@@ -10818,7 +10818,7 @@ const allMovies = [
             "Rob Paulsen",
             "Vicki Lewis"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2018/06/kHV9ABnZtDeDtSQfTNIveSoxS9m.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2018/06/kHV9ABnZtDeDtSQfTNIveSoxS9m.jpg",
         "description": "It\u00e2\u20ac\u2122s all extreme sports and a life of freedom as Max sets off for college \u00e2\u20ac\u201d but Goofy misses Max so much he loses his job and goes to finish college alongside Max and his friends. But as Goofy tries to get closer to Max, both must go to the extreme to learn how to live their own lives together.",
         "rating": 6.0,
         "videoUrl": "https://databes.driveplayer.net/player/movie/?id=tt0208185"
@@ -10841,7 +10841,7 @@ const allMovies = [
             "Kazuya Nakai",
             "Mayumi Tanaka"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/11/dum1wnm6kJOUos0XJqjB8s2UWi9-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/11/dum1wnm6kJOUos0XJqjB8s2UWi9-152x228.jpg",
         "description": "Years ago, the fearsome pirate king Gol D. Roger was executed, leaving a huge pile of treasure and the famous \u00e2\u20ac\u0153One Piece\u00e2\u20ac\u009d behind. Whoever claims the \u00e2\u20ac\u0153One Piece\u00e2\u20ac\u009d will be named the new pirate king. Monkey D. Luffy, a boy who consumed a \u00e2\u20ac\u0153Devil\u00e2\u20ac\u2122s Fruit,\u00e2\u20ac\u009d decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he\u00e2\u20ac\u2122s surrounded by a bevy of skilled fighters and thieves to help him along the way. Luffy will do anything to get the One Piece and become King of the Pirates!",
         "rating": 0.0,
         "videoUrl": "https://www.youtube.com/embed/TbHtbzAnZJ4"
@@ -10869,7 +10869,7 @@ const allMovies = [
             "Toshiyuki Amagasa",
             "Y\u00c3\u00bbko Maruyama"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2017/10/My-Neighbor-Totoro-1988.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2017/10/My-Neighbor-Totoro-1988.jpg",
         "description": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
         "rating": 8.0,
         "videoUrl": "https://hxfile.co/embed-3mzscfsi5d99.html"
@@ -10884,7 +10884,7 @@ const allMovies = [
         ],
         "sutradara": "Leonid Nosyrev",
         "artis": [],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2024/10/ugvTrNJ3Bls128BuLQdMxfGeMvE.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2024/10/ugvTrNJ3Bls128BuLQdMxfGeMvE.jpg",
         "description": "",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/ovQOUDIQkN6O/"
@@ -11443,7 +11443,7 @@ const allMovies = [
             "Aubrey Caraan",
             "Xia Vigor"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/02/tTLNnXAYq9YHu41qVMUV2DopL8p.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/02/tTLNnXAYq9YHu41qVMUV2DopL8p.jpg",
         "description": "Three orphans, Olive, Paula, and Bettina, escape captivity and are adopted by Amanda and Lito, who lost their daughter, Malena. The orphans discover that Malena, now possessed by a demon due to her parents\u00e2\u20ac\u2122 pact, is imprisoned in the stockroom. As Malena hunts them down, the orphans are coerced into robbing the couple. The conflict leads to several deaths, including the couple\u00e2\u20ac\u2122s. Olive and Bettina escape, promising to care for each other.",
         "rating": 0.0,
         "videoUrl": ""
@@ -17505,7 +17505,7 @@ const allMovies = [
             "Holland Roden",
             "Kyle Gallner"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2023/08/iBYEX7IxR9wocuhgzco7D3SG90F-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2023/08/iBYEX7IxR9wocuhgzco7D3SG90F-152x228.jpg",
         "description": "Emmett enters into a nightmarish game of therapy with his wife Anya, who has inexplicably taken on the persona of his estranged and recently-deceased mother.",
         "rating": 0.0,
         "videoUrl": ""
@@ -26610,7 +26610,7 @@ const allMovies = [
             "Heather Peace",
             "Tony Todd"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/05/ix9FilNvqYKKHHcWzyUkfC08Oas-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/05/ix9FilNvqYKKHHcWzyUkfC08Oas-152x228.jpg",
         "description": "With the streets now empty, it isn\u00e2\u20ac\u2122t just nature that is taking advantage of this unprecedented global disaster. Spirits are freer than ever before and the spirit of a notorious serial killer, AKA \u00e2\u20ac\u02dcThe Locksmith\u00e2\u20ac\u2122, is back from the dead and he has even more potential victims. Can self-isolating detective George Parker (Angela Dixon) with the guidance of paranormal expert Jordan Myers (Tony Todd), prevent more young women from becoming victims of The Lockdown Hauntings?",
         "rating": 4.0,
         "videoUrl": ""
@@ -26632,7 +26632,7 @@ const allMovies = [
             "James Norton",
             "Natalia Dyer"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/05/9tSkNmGt1K5Lgf0L0BTHHYJNz0W-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/05/9tSkNmGt1K5Lgf0L0BTHHYJNz0W-152x228.jpg",
         "description": "Catherine Clare reluctantly trades life in 1980 Manhattan for a remote home in the tiny hamlet of Chosen, New York, after her husband George lands a job teaching art history at a small Hudson Valley college. Even as she does her best to transform the old dairy farm into a place where young daughter Franny will be happy, Catherine increasingly finds herself isolated and alone. She soon comes to sense a sinister darkness lurking both in the walls of the ramshackle property\u00e2\u20ac\u201dand in her marriage to George.",
         "rating": 0.0,
         "videoUrl": ""
@@ -26651,7 +26651,7 @@ const allMovies = [
             "Katharine King",
             "Lauren Beatty"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2021/05/5bGQYPGE4Ndb98XDRUJW25h0LFC-152x228.jpg",
+        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2021/05/5bGQYPGE4Ndb98XDRUJW25h0LFC-152x228.jpg",
         "description": "When indie singer Grey struggles to write her sophomore album, she teams up with a mysterious producer at his secluded cabin. Though their bond strengthens her music, it also starts to irreparably alter Grey\u00e2\u20ac\u2122s body and mind.",
         "rating": 0.0,
         "videoUrl": ""
