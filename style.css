@@ -233,3 +233,122 @@ body {
     border-left: 4px solid #e50914;
     padding-left: 10px;
 }
+
+/*==================================*/
+/* RESPONSIVE DESIGN (MOBILE)       */
+/*==================================*/
+
+/* Aturan ini berlaku untuk layar dengan lebar 768px atau lebih kecil */
+@media (max-width: 768px) {
+
+    /* --- Penyesuaian Navbar untuk Mobile --- */
+
+    .navbar {
+        position: relative; /* Diperlukan untuk menu mobile */
+    }
+
+    /* Sembunyikan navigasi desktop */
+    .navbar-collapse {
+        display: none;
+        position: absolute;
+        top: 100%; /* Muncul di bawah navbar */
+        left: 0;
+        width: 100%;
+        background-color: #141414;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 15px;
+        border-top: 1px solid #333;
+    }
+    
+    /* Tampilkan menu saat navbar memiliki class 'mobile-menu-open' */
+    .navbar.mobile-menu-open .navbar-collapse {
+        display: flex;
+    }
+    
+    .navbar-nav {
+        flex-direction: column;
+        width: 100%;
+        gap: 0;
+    }
+
+    .nav-item {
+        width: 100%;
+        border-bottom: 1px solid #222;
+    }
+
+    .nav-link {
+        padding: 10px 0;
+        display: block;
+    }
+
+    .dropdown-menu {
+        position: static; /* Ubah posisi dropdown di mobile */
+        border: none;
+        width: 100%;
+        background-color: #222;
+        box-shadow: none;
+    }
+
+    .navbar-search {
+        margin-top: 15px;
+        width: 100%;
+    }
+    
+    .navbar-search input {
+        width: 100%;
+    }
+
+    /* Tampilkan tombol hamburger */
+    .mobile-menu-toggle {
+        display: flex; /* Tampilkan tombol */
+        flex-direction: column;
+        gap: 5px;
+        cursor: pointer;
+        background: none;
+        border: none;
+    }
+
+    .mobile-menu-toggle .bar {
+        width: 25px;
+        height: 3px;
+        background-color: #fff;
+        border-radius: 2px;
+    }
+
+    /* --- Penyesuaian Grid Film untuk Mobile --- */
+
+    .movies-grid {
+        /* Ubah menjadi 2 atau 3 kolom di mobile */
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+        gap: 12px;
+    }
+    
+    .card-info h3 {
+        font-size: 0.85em;
+    }
+
+    /* --- Penyesuaian Halaman Playback untuk Mobile --- */
+    
+    .playback-container {
+        padding: 0 10px;
+    }
+
+    .movie-info-box {
+        padding: 15px;
+    }
+
+    .movie-info-box h1 {
+        font-size: 1.5em;
+    }
+
+    .meta-info {
+        flex-wrap: wrap; /* Izinkan badge untuk turun baris jika tidak muat */
+        gap: 8px;
+    }
+}
+
+/* Sembunyikan tombol hamburger di layar besar (Desktop) */
+.mobile-menu-toggle {
+    display: none;
+}

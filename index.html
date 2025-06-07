@@ -8,25 +8,34 @@
 </head>
 <body>
 
-   <header class="navbar">
-    <div class="navbar-brand">
-        <a href="index.html">MyFlix</a>
-    </div>
-    <nav class="navbar-nav">
-        <div class="nav-item dropdown">
-            <a href="#" class="nav-link">Genre</a>
-            <div class="dropdown-menu" id="genreDropdown"></div>
+    <header class="navbar" id="navbar">
+        <div class="navbar-brand">
+            <a href="index.html">MyFlix</a>
         </div>
-        <div class="nav-item dropdown">
-            <a href="#" class="nav-link">Tahun</a>
-            <div class="dropdown-menu" id="yearDropdown"></div>
+
+        <button class="mobile-menu-toggle" id="mobileMenuToggle">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+
+        <div class="navbar-collapse" id="navbarCollapse">
+            <nav class="navbar-nav">
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link">Genre</a>
+                    <div class="dropdown-menu" id="genreDropdown"></div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link">Tahun</a>
+                    <div class="dropdown-menu" id="yearDropdown"></div>
+                </div>
+            </nav>
+            <div class="navbar-search">
+                <input type="search" id="searchInput" placeholder="Cari judul film...">
+                <button id="searchBtn">Cari</button>
+            </div>
         </div>
-    </nav>
-    <div class="navbar-search">
-        <input type="search" id="searchInput" placeholder="Cari judul film...">
-        <button id="searchBtn">Cari</button>
-    </div>
-</header>
+    </header>
 
     <main class="container">
         <section class="movies-section">

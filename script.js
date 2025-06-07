@@ -1,21 +1,25 @@
 document.addEventListener('DOMContentLoaded', () => {
     // === ELEMEN DOM ===
+    // Mengambil semua elemen interaktif dari halaman HTML
     const moviesGrid = document.getElementById('moviesGrid');
     const loadMoreBtn = document.getElementById('loadMoreBtn');
     const genreDropdown = document.getElementById('genreDropdown');
     const yearDropdown = document.getElementById('yearDropdown');
     const searchInput = document.getElementById('searchInput');
     const searchBtn = document.getElementById('searchBtn');
+    const navbar = document.getElementById('navbar'); // REVISI: Ditambahkan untuk menu mobile
+    const mobileMenuToggle = document.getElementById('mobileMenuToggle'); // REVISI: Ditambahkan untuk tombol hamburger
 
     // === STATE APLIKASI ===
+    // Variabel untuk mengelola status halaman saat ini
     let currentPage = 1;
-    const moviesPerPage = 12;
+    const moviesPerPage = 12; // Jumlah film yang dimuat per klik "Lihat Lebih Banyak"
     let currentFilters = {
         genre: 'all',
         year: 'all',
         search: ''
     };
-    let currentlyDisplayedMovies = [];
+    let currentlyDisplayedMovies = []; // Menyimpan daftar film yang sudah difilter
 
     // =======================================================================
     // ==         PUSAT DATA FILM ANDA - TAMBAHKAN SEMUA FILM DI SINI       ==
