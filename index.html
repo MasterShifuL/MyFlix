@@ -7,19 +7,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <header class="navbar" id="navbar">
         <div class="navbar-brand">
             <a href="index.html">MyFlix</a>
         </div>
-
-        <button class="mobile-menu-toggle" id="mobileMenuToggle">
-            <span class="bar"></span>
-            <span class="bar"></span>
-            <span class="bar"></span>
-        </button>
-
-        <div class="navbar-collapse" id="navbarCollapse">
+        <div class="navbar-desktop">
             <nav class="navbar-nav">
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link">Genre</a>
@@ -30,24 +22,43 @@
                     <div class="dropdown-menu" id="yearDropdown"></div>
                 </div>
             </nav>
-            <div class="navbar-search">
-                <input type="search" id="searchInput" placeholder="Cari judul film...">
-                <button id="searchBtn">Cari</button>
+            <div class="navbar-search-desktop">
+                <input type="search" id="desktopSearchInput" placeholder="Cari judul...">
+                <button id="desktopSearchBtn">Cari</button>
             </div>
         </div>
+        <div class="navbar-actions">
+            <button class="action-btn" id="searchToggleBtn">🔍</button>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                <span class="bar"></span><span class="bar"></span><span class="bar"></span>
+            </button>
+        </div>
     </header>
+
+    <div class="search-overlay" id="searchOverlay">
+        <button class="close-btn" id="closeSearchBtn">&times;</button>
+        <div class="search-bar-mobile">
+            <input type="search" id="mobileSearchInput" placeholder="Cari judul film...">
+            <button id="mobileSearchBtn">Cari</button>
+        </div>
+    </div>
+
+    <div class="sidenav" id="mySidenav">
+        <a href="javascript:void(0)" class="close-btn" id="closeSidenavBtn">&times;</a>
+        <div id="sidenav-content"></div>
+    </div>
 
     <main class="container">
         <section class="movies-section">
             <h2>Rekomendasi Film</h2>
-            <div class="movies-grid" id="moviesGrid">
-                </div>
+            <div class="movies-grid" id="moviesGrid"></div>
             <div class="load-more-container">
                 <button id="loadMoreBtn">Lihat Lebih Banyak</button>
             </div>
         </section>
     </main>
 
+    <script src="data.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
