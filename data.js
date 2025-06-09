@@ -27899,7 +27899,7 @@ const allMovies = [
         "artis": [
             "Jack Black, Jason Momoa, Sebastian Eugene Hansen"
         ],
-        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/04/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+        "thumbnail": "https://84.46.243.135/wp-content/uploads/2025/04/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
         "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, theyâ€™ll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
         "rating": 0.0,
         "videoUrl": "https://newer.stream/v/YLaORGfXHbAY/"
