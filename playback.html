@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nonton Film - MyFlix</title>
     <link rel="stylesheet" href="style.css">
-    <script type='text/javascript' src='//pl26874279.profitableratecpm.com/1c/ce/3f/1cce3f678c99a1aaa9dadefa5dbfe17a.js'></script>
+    <script type='text/javascript' src='//pl26874279.profitableratecpm.com/1c/ce/3f/1cce3f678c99a1aaa9dadefa5dbfe17a.js' defer></script>
 </head>
 <body>
     <header class="navbar" id="navbar">
@@ -21,35 +21,22 @@
         <div class="video-container">
             <iframe id="videoPlayerFrame" class="responsive-iframe" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
-    <script type="text/javascript">
-        atOptions = {
-            'key': 'd45dfeedabac3bc0f6f4403e2aa76ed5',
-            'format': 'iframe',
-            'height': 50,
-            'width': 320,
-            'params': {}
-        };
-    </script>
-    <script type="text/javascript"
-        src="//www.highperformanceformat.com/d45dfeedabac3bc0f6f4403e2aa76ed5/invoke.js"></script>
-        </div>
+
+        <div class="ad-container">
+            </div>
+
         <div class="movie-info-box">
             <h1 id="movieTitle"></h1>
-
             <div class="meta-info">
                 <span id="movieQuality" class="meta-badge"></span>
                 <span class="meta-badge-ss">SS</span>
                 <span id="movieRating" class="meta-badge rating"></span>
                 <span id="movieYear" class="meta-badge"></span>
             </div>
-
             <div class="action-buttons">
-                <a id="watchBtn" href="#" class="btn-main"><span class="icon">▶</span> Tonton Sekarang</a>
-                <a id="trailerBtn" href="#" target="_blank" class="btn-secondary"><span class="icon">▶</span> Trailer</a>
+                <a id="trailerBtn" href="#" target="_blank" rel="noopener noreferrer" class="btn-secondary"><span class="icon">▶</span> Trailer</a>
             </div>
-
             <p id="movieDescription" class="movie-description"></p>
-
             <div class="movie-details">
                 <p><strong>Rilis:</strong> <span id="movieRelease"></span></p>
                 <p><strong>Negara:</strong> <span id="movieCountry"></span></p>
@@ -68,41 +55,79 @@
 
     <script src="data.js"></script>
     <script>
-        const renderRecommendations = (currentMovieId) => { const recommendationsGrid = document.getElementById('recommendationsGrid'); if (!recommendationsGrid) return; const recommendedMovies = allMovies.filter(m => m.id !== currentMovieId).sort(() => 0.5 - Math.random()).slice(0, 6); recommendationsGrid.innerHTML = ''; recommendedMovies.forEach(movie => { const movieCard = document.createElement('div'); movieCard.classList.add('movie-card'); movieCard.innerHTML = `<div class="card-thumbnail"><img src="${movie.thumbnail}" alt="${movie.title}"><span class="quality-badge">${movie.quality}</span><span class="rating-badge">⭐ ${movie.rating}</span></div><div class="card-info"><div class="title-container"><h3>${movie.title} (${movie.year})</h3></div><a href="#" class="watch-button">Tonton</a></div>`; movieCard.addEventListener('click', (e) => { e.preventDefault(); sessionStorage.setItem('selectedMovie', JSON.stringify(movie)); window.location.reload(); }); recommendationsGrid.appendChild(movieCard); }); };
+        // Fungsi untuk menampilkan kartu rekomendasi
+        const renderRecommendations = (currentMovieId) => {
+            const recommendationsGrid = document.getElementById('recommendationsGrid');
+            if (!recommendationsGrid) return;
 
+            const recommendedMovies = allMovies
+                .filter(movie => movie.id !== currentMovieId)
+                .sort(() => 0.5 - Math.random())
+                .slice(0, 6);
+
+            recommendationsGrid.innerHTML = '';
+            recommendedMovies.forEach(movie => {
+                const movieCard = document.createElement('div');
+                movieCard.classList.add('movie-card');
+                movieCard.innerHTML = `
+                    <div class="card-thumbnail">
+                        <img src="${movie.thumbnail}" alt="${movie.title}">
+                        <span class="quality-badge">${movie.quality}</span>
+                        <span class="rating-badge">⭐ ${movie.rating}</span>
+                    </div>
+                    <div class="card-info">
+                        <div class="title-container">
+                            <h3>${movie.title} (${movie.year})</h3>
+                        </div>
+                        <a href="playback.html?id=${movie.id}" class="watch-button">Tonton</a>
+                    </div>
+                `;
+                // **PERBAIKAN ADA DI SINI: Menambahkan kembali baris yang hilang**
+                recommendationsGrid.appendChild(movieCard);
+            });
+        };
+
+        // Fungsi utama saat halaman dimuat
         document.addEventListener('DOMContentLoaded', () => {
             const mobileMenuToggle = document.getElementById('mobileMenuToggle');
             if(mobileMenuToggle) {
                 mobileMenuToggle.addEventListener('click', () => { window.location.href = 'index.html'; });
             }
 
-            const movieDataString = sessionStorage.getItem('selectedMovie');
+            const urlParams = new URLSearchParams(window.location.search);
+            const movieId = urlParams.get('id');
 
-            if (movieDataString) {
-                const movie = JSON.parse(movieDataString);
-                document.title = `Nonton ${movie.title} - MyFlix`;
-                document.getElementById('videoPlayerFrame').src = movie.videoUrl;
-                document.getElementById('watchBtn').href = movie.videoUrl;
-                document.getElementById('movieTitle').textContent = movie.title;
-                document.getElementById('movieQuality').textContent = movie.quality;
-                document.getElementById('movieRating').innerHTML = `⭐ ${movie.rating}`;
-                document.getElementById('movieYear').textContent = movie.year;
-                document.getElementById('movieDescription').textContent = movie.description;
-                document.getElementById('movieRelease').textContent = movie.year;
-                document.getElementById('movieCountry').textContent = movie.negara || 'N/A';
-                document.getElementById('movieDirector').textContent = movie.sutradara || 'N/A';
-                document.getElementById('movieGenres').textContent = movie.genres.join(', ');
-                document.getElementById('movieCast').textContent = movie.artis.join(', ');
-                const trailerBtn = document.getElementById('trailerBtn');
-                if (movie.trailerUrl && movie.trailerUrl !== '#') {
-                    trailerBtn.href = movie.trailerUrl;
-                    trailerBtn.style.display = 'inline-flex';
+            if (movieId && typeof allMovies !== 'undefined') {
+                const movie = allMovies.find(m => m.id.toString() === movieId);
+
+                if (movie) {
+                    document.title = `Nonton ${movie.title} - MyFlix`;
+                    document.getElementById('videoPlayerFrame').src = movie.videoUrl;
+                    document.getElementById('movieTitle').textContent = movie.title;
+                    document.getElementById('movieQuality').textContent = movie.quality;
+                    document.getElementById('movieRating').innerHTML = `⭐ ${movie.rating}`;
+                    document.getElementById('movieYear').textContent = movie.year;
+                    document.getElementById('movieDescription').textContent = movie.description;
+                    document.getElementById('movieRelease').textContent = movie.year;
+                    document.getElementById('movieCountry').textContent = movie.negara || 'N/A';
+                    document.getElementById('movieDirector').textContent = movie.sutradara || 'N/A';
+                    document.getElementById('movieGenres').textContent = movie.genres.join(', ');
+                    document.getElementById('movieCast').textContent = movie.artis.join(', ');
+                    const trailerBtn = document.getElementById('trailerBtn');
+                    if (movie.trailerUrl && movie.trailerUrl !== '#') {
+                        trailerBtn.href = movie.trailerUrl;
+                        trailerBtn.style.display = 'inline-flex';
+                    } else {
+                        trailerBtn.style.display = 'none';
+                    }
+                    
+                    renderRecommendations(movie.id);
                 } else {
-                    trailerBtn.style.display = 'none';
+                    alert("Film dengan ID tersebut tidak ditemukan!");
+                    window.location.href = 'index.html';
                 }
-                renderRecommendations(movie.id);
             } else {
-                alert("Data film tidak ditemukan!");
+                alert("Link tidak valid atau data film tidak dapat dimuat!");
                 window.location.href = 'index.html';
             }
         });

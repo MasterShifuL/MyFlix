@@ -38,8 +38,8 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="card-info"><div class="title-container"><h3>${movie.title} (${movie.year})</h3></div><a href="#" class="watch-button">Tonton</a></div>`;
         movieCard.addEventListener('click', (e) => {
             e.preventDefault();
-            sessionStorage.setItem('selectedMovie', JSON.stringify(movie));
-            window.location.href = 'playback.html';
+            // Metode BARU: Arahkan ke URL dengan ID film
+            window.location.href = `playback.html?id=${movie.id}`;
         });
         return movieCard;
     };
