@@ -5,6 +5,20 @@ body { font-family: Arial, sans-serif; background-color: #141414; color: #fff; m
 /* ================================== */
 /* Navbar Styles                      */
 /* ================================== */
+/* Style untuk Wadah Iklan */
+/* Style untuk Wadah Iklan */
+.ad-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Beri margin & tinggi HANYA JIKA TIDAK KOSONG */
+.ad-container:not(:empty) {
+    margin: 20px 0;
+    min-height: 90px; /* Sesuaikan dengan tinggi iklan Anda */
+}
 .navbar { display: flex; justify-content: space-between; align-items: center; padding: 15px 5%; border-bottom: 1px solid #333; }
 .navbar-brand a { color: #e50914; font-size: 1.8em; font-weight: bold; text-decoration: none; }
 .navbar-desktop { display: flex; align-items: center; gap: 20px; flex-grow: 1; margin-left: 20px; }
@@ -79,6 +93,43 @@ body { font-family: Arial, sans-serif; background-color: #141414; color: #fff; m
 .movie-details strong { color: #fff; }
 .recommendations-section { margin-top: 40px; }
 
+
+/* ================================== */
+/* Scroll to Top Button Styles        */
+/* ================================== */
+
+#scrollTopBtn {
+    display: none; /* Sembunyi secara default */
+    position: fixed; /* Tetap di posisi yang sama saat di-scroll */
+    bottom: 20px;
+    right: 30px;
+    z-index: 999; /* Muncul di atas konten lain */
+    border: none;
+    outline: none;
+    background-color: #e50914; /* Warna merah */
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%; /* Membuatnya bulat */
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    transition: opacity 0.3s, transform 0.3s; /* Transisi untuk muncul/hilang */
+    opacity: 0; /* Mulai dengan transparan */
+    transform: translateY(10px); /* Mulai dari sedikit di bawah */
+}
+
+/* Style saat tombol ditampilkan oleh JavaScript */
+#scrollTopBtn.show {
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#scrollTopBtn:hover {
+    background-color: #f6121d; /* Warna sedikit lebih terang saat hover */
+}
 
 /* ================================== */
 /* RESPONSIVE DESIGN (MOBILE)         */

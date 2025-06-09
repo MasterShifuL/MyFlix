@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nonton Film - MyFlix</title>
     <link rel="stylesheet" href="style.css">
+    <script type='text/javascript' src='//pl26874279.profitableratecpm.com/1c/ce/3f/1cce3f678c99a1aaa9dadefa5dbfe17a.js'></script>
 </head>
 <body>
     <header class="navbar" id="navbar">
@@ -21,6 +22,18 @@
             <iframe id="videoPlayerFrame" class="responsive-iframe" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
 
+        <div class="ad-container">
+            <script type="text/javascript">
+                var atOptions = {
+                    'key' : 'GANTI_DENGAN_KEY_UNIK_ANDA', // <-- GANTI INI DENGAN KEY ANDA
+                    'format' : 'iframe',
+                    'height' : 250,
+                    'width' : 300,
+                    'params' : {}
+                };
+            </script>
+            <script type="text/javascript" src="//www.profitablecreativeformat.com/GANTI_DENGAN_KEY_UNIK_ANDA/invoke.js"></script>
+        </div>
         <div class="movie-info-box">
             <h1 id="movieTitle"></h1>
 
@@ -56,11 +69,9 @@
 
     <script src="data.js"></script>
     <script>
-        // ... (Fungsi renderRecommendations tetap sama seperti sebelumnya) ...
         const renderRecommendations = (currentMovieId) => { const recommendationsGrid = document.getElementById('recommendationsGrid'); if (!recommendationsGrid) return; const recommendedMovies = allMovies.filter(m => m.id !== currentMovieId).sort(() => 0.5 - Math.random()).slice(0, 6); recommendationsGrid.innerHTML = ''; recommendedMovies.forEach(movie => { const movieCard = document.createElement('div'); movieCard.classList.add('movie-card'); movieCard.innerHTML = `<div class="card-thumbnail"><img src="${movie.thumbnail}" alt="${movie.title}"><span class="quality-badge">${movie.quality}</span><span class="rating-badge">⭐ ${movie.rating}</span></div><div class="card-info"><div class="title-container"><h3>${movie.title} (${movie.year})</h3></div><a href="#" class="watch-button">Tonton</a></div>`; movieCard.addEventListener('click', (e) => { e.preventDefault(); sessionStorage.setItem('selectedMovie', JSON.stringify(movie)); window.location.reload(); }); recommendationsGrid.appendChild(movieCard); }); };
 
         document.addEventListener('DOMContentLoaded', () => {
-            // Logika Hamburger
             const mobileMenuToggle = document.getElementById('mobileMenuToggle');
             if(mobileMenuToggle) {
                 mobileMenuToggle.addEventListener('click', () => { window.location.href = 'index.html'; });
@@ -70,8 +81,6 @@
 
             if (movieDataString) {
                 const movie = JSON.parse(movieDataString);
-
-                // Mengisi semua elemen baru
                 document.title = `Nonton ${movie.title} - MyFlix`;
                 document.getElementById('videoPlayerFrame').src = movie.videoUrl;
                 document.getElementById('watchBtn').href = movie.videoUrl;
@@ -85,16 +94,13 @@
                 document.getElementById('movieDirector').textContent = movie.sutradara || 'N/A';
                 document.getElementById('movieGenres').textContent = movie.genres.join(', ');
                 document.getElementById('movieCast').textContent = movie.artis.join(', ');
-
-                // Mengatur tombol trailer
                 const trailerBtn = document.getElementById('trailerBtn');
                 if (movie.trailerUrl && movie.trailerUrl !== '#') {
                     trailerBtn.href = movie.trailerUrl;
                     trailerBtn.style.display = 'inline-flex';
                 } else {
-                    trailerBtn.style.display = 'none'; // Sembunyikan jika tidak ada link trailer
+                    trailerBtn.style.display = 'none';
                 }
-                
                 renderRecommendations(movie.id);
             } else {
                 alert("Data film tidak ditemukan!");
