@@ -27880,5 +27880,28 @@ const allMovies = [
         "description": "When indie singer Grey struggles to write her sophomore album, she teams up with a mysterious producer at his secluded cabin. Though their bond strengthens her music, it also starts to irreparably alter Grey\u00e2\u20ac\u2122s body and mind.",
         "rating": 0.0,
         "videoUrl": ""
+    },
+    {
+        "id": 1370,
+        "title": "A Minecraft Movie (2025)",
+        "year": 2025,
+        "quality": "6.08",
+        "genres": [
+            "Horror",
+            "Adventure", 
+            "Box Office",
+            "Comedy", 
+            "Family",
+            "Fantasy"
+
+        ],
+        "sutradara": "Jared Hess",
+        "artis": [
+            "Jack Black, Jason Momoa, Sebastian Eugene Hansen"
+        ],
+        "thumbnail": "http://84.46.243.135/wp-content/uploads/2025/04/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+        "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, theyâ€™ll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+        "rating": 0.0,
+        "videoUrl": "https://newer.stream/v/YLaORGfXHbAY/"
     }
 ];
