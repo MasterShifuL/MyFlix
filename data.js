@@ -6779,7 +6779,6 @@ const allMovies = [
         "year": 2018,
         "quality": "N/A",
         "genres": [
-            "1",
             "Animation"
         ],
         "sutradara": "Jake Castorena",
@@ -11457,25 +11456,6 @@ const allMovies = [
         ],
         "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/01/pf52vijXcYHphDqHzaRrOaPL74G.jpg",
         "description": "It is said that in the Northeast, spiritual animals are known as immortals. In the turbulent times of the Republic of China, the entire Qingliu Village is invaded by evil spirits and shrouded in the horror of the \u00e2\u20ac\u0153Gray Immortals Murders,\u00e2\u20ac\u009d with girls in the village frequently being kidnapped and killed by the Gray Immortals and villagers often being killed in the middle of the night. To uncover the truth of this mysterious old case, forensic pathologist Fang Tianyi, who is proficient in the art of exorcism, goes deep into the old forest of Northeast China\u00e2\u20ac\u00a6",
-        "rating": 0.0,
-        "videoUrl": ""
-    },
-    {
-        "id": 467,
-        "title": "Nanay",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Horror"
-        ],
-        "sutradara": "Roni S. Benaid",
-        "artis": [
-            "Andrea Del Rosario",
-            "Aubrey Caraan",
-            "Xia Vigor"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/02/tTLNnXAYq9YHu41qVMUV2DopL8p.jpg",
-        "description": "Three orphans, Olive, Paula, and Bettina, escape captivity and are adopted by Amanda and Lito, who lost their daughter, Malena. The orphans discover that Malena, now possessed by a demon due to her parents\u00e2\u20ac\u2122 pact, is imprisoned in the stockroom. As Malena hunts them down, the orphans are coerced into robbing the couple. The conflict leads to several deaths, including the couple\u00e2\u20ac\u2122s. Olive and Bettina escape, promising to care for each other.",
         "rating": 0.0,
         "videoUrl": ""
     },
@@ -31939,27 +31919,6 @@ const allMovies = [
         "videoUrl": ""
     },
     {
-        "id": 1570,
-        "title": "Umjolo: There Is No Cure",
-        "year": 2025,
-        "quality": "N/A",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "Romance"
-        ],
-        "sutradara": "Mthunzi Dubazana",
-        "artis": [
-            "Busisiwe Mtshali",
-            "Nombuleleo Mhlongo",
-            "Tina Redman"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/02/fLsqbS6polYms46pJ02nCmH5MjN.jpg",
-        "description": "After losing her title for publicly exposing a scandal, a former pageant queen works on a tell-all book \u00e2\u20ac\u201d all while her love life remains unwritten.",
-        "rating": 7.0,
-        "videoUrl": "Tidak Ditemukan"
-    },
-    {
         "id": 1571,
         "title": "Love Forever",
         "year": 2025,
@@ -32460,23 +32419,6 @@ const allMovies = [
         "videoUrl": ""
     },
     {
-        "id": 1597,
-        "title": "Setelah sebuah tragedi menyebabkannya kehilangan ingatan",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Fan Zhen",
-            "Xu Kaixin",
-            "Zhang Lu"
-        ],
-        "sutradara": "",
-        "artis": [],
-        "thumbnail": "",
-        "description": "",
-        "rating": 0.0,
-        "videoUrl": ""
-    },
-    {
         "id": 1598,
         "title": "Les Belles",
         "year": 2025,
@@ -32595,23 +32537,6 @@ const allMovies = [
         "artis": [],
         "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/wp-content/uploads/2025/02/hP9bsI2B7HONwDrzoNw5Q3QJMqU.jpg",
         "description": "Sinopsis",
-        "rating": 0.0,
-        "videoUrl": ""
-    },
-    {
-        "id": 1604,
-        "title": "Lee Jae-Yoon (Park Jeong-Min) adalah seorang tentara",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "55 Min"
-        ],
-        "sutradara": "Im Sung-jae, Jisoo, Park Jeong-min",
-        "artis": [
-            "https://www.youtube.com/embed/HtaaO9D9ZcU"
-        ],
-        "thumbnail": " sebuah virus tak dikenal tiba-tiba menyebar. Orang-orang yang terinfeksi virus tersebut berubah menjadi zombi. Lee Jae-Yoon dan Kang Young-Joo berlari ke arah satu sama lain di daerah pusat kota Seoul yang berbahaya yang dipenuhi zombi.\"",
-        "description": "Action & Adventure, Comedy, Drama, Drama Korea, On Going, Sci-Fi & Fantasy",
         "rating": 0.0,
         "videoUrl": ""
     },
@@ -33632,22 +33557,6 @@ const allMovies = [
         "videoUrl": "https://www.youtube.com/embed/ASd_GLr3ZFY"
     },
     {
-        "id": 1656,
-        "title": "Umjolo: My Beginnings",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Caught between her family and her free spirit",
-            "Mayi begins to question her upcoming nuptials when she meets a charming and passionate saxophonist."
-        ],
-        "sutradara": "74 Min",
-        "artis": [],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/umjolo-my-beginnings-my-end-2025/",
-        "description": "http://84.46.243.135/wp-content/uploads/2025/01/nSE7PLJoYsclxgmF9mSVnHBPy9C.jpg",
-        "rating": 0.0,
-        "videoUrl": "Busisiwe Mtshali, Nirvana Nokwe-Mseleku, Tina Redman"
-    },
-    {
         "id": 1657,
         "title": "Don\u00e2\u20ac\u2122t Die: The Man Who Wants to Live Forever",
         "year": 2025,
@@ -33776,34 +33685,6 @@ const allMovies = [
         "description": "Real wedding project with 100 singles, aiming to find destiny at the \u00e2\u20ac\u02dcCouple Palace\u00e2\u20ac\u2122, a matchmaking palace.",
         "rating": 10.0,
         "videoUrl": "https://www.youtube.com/embed/VQOnh2l4Ihw"
-    },
-    {
-        "id": 1664,
-        "title": "Nanay",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Three orphans",
-            "Olive",
-            "Paula",
-            "and Bettina",
-            "escape captivity and are adopted by Amanda and Lito",
-            "who lost their daughter",
-            "Malena. The orphans discover that Malena",
-            "now possessed by a demon due to her parents\u00e2\u20ac\u2122 pact",
-            "is imprisoned in the stockroom. As Malena hunts them down",
-            "the orphans are coerced into robbing the couple. The conflict leads to several deaths",
-            "including the couple\u00e2\u20ac\u2122s. Olive and Bettina escape",
-            "promising to care for each other."
-        ],
-        "sutradara": "120 Min",
-        "artis": [
-            "Roni S. Benaid"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/nanay-tatay-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2025/02/tTLNnXAYq9YHu41qVMUV2DopL8p.jpg",
-        "rating": 0.0,
-        "videoUrl": "Andrea Del Rosario, Aubrey Caraan, Xia Vigor"
     },
     {
         "id": 1665,
@@ -42346,24 +42227,6 @@ const allMovies = [
         "videoUrl": "https://www.youtube.com/embed/x8fbx2qH6I0"
     },
     {
-        "id": 2091,
-        "title": "Dongjae",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Sinopsis Drama Dong Jae",
-            "the Good or the Bastard (2024):"
-        ],
-        "sutradara": "",
-        "artis": [
-            "Lee Soo-yeon"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/tv/dongjae-the-good-or-the-bastard-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/10/at4li751SPGzH6bWvyTmcGsdM0L.jpg",
-        "rating": 0.0,
-        "videoUrl": "Hyun Bong-sik, Lee Jun-hyuk, Park Sung-woong"
-    },
-    {
         "id": 2092,
         "title": "Death Streamer",
         "year": 2024,
@@ -43613,29 +43476,6 @@ const allMovies = [
         "description": "Story about a happily married couple visited by an old friend, who ends up stirring the pot by becoming sexually involved with both the husband and the wife.",
         "rating": 0.0,
         "videoUrl": "https://boosterx.stream/v/7ifVuaqUB1n1/"
-    },
-    {
-        "id": 2153,
-        "title": "Pwede G",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Basil",
-            "a 30-year-old womanizer",
-            "has his life turned upside down when he wakes up from a night of drunken sex with his straight best friend",
-            "Theo",
-            "who is about to be married. Suddenly",
-            "every time he tries to hook up with a woman",
-            "a man magically appears to have sex with him instead. Is this a result of a curse from one of the countless women he has hurt? Or is this the outcome of his unconfronted feelings for his best friend?"
-        ],
-        "sutradara": "50 Min",
-        "artis": [
-            "Ivan Andrew Payawal"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/pwede-g-pwede-b-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/10/7q2TgfR7HaODv4yuHzxhthimA6J.jpg",
-        "rating": 0.0,
-        "videoUrl": "Elora Espa\u00c3\u00b1o, Gio Gahol, Julian Roxas"
     },
     {
         "id": 2154,
@@ -46174,24 +46014,6 @@ const allMovies = [
         "description": "In 1992, Mercer is desperately trying to rebuild his life and his relationship with his son amidst the turbulent Los Angeles uprising following the Rodney King verdict. Across town, another father and son put their own strained relationship to the test as they plot a dangerous heist to steal catalytic converters, which contain valuable platinum from the factory where Mercer works. As tensions rise and chaos erupts, both families reach their boiling points when their worlds collide.",
         "rating": 5778.0,
         "videoUrl": "https://boosterx.stream/v/JyoiCBaQX83N/"
-    },
-    {
-        "id": 2279,
-        "title": "Deon Cole: Ok",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "From the telltale signs of aging to bedroom mishaps and dating deal-breakers",
-            "Deon Cole spins comedy gold in this playfully candid special."
-        ],
-        "sutradara": "65 Min",
-        "artis": [
-            "Ryan Polito"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/deon-cole-ok-mister-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/09/gEkFRkOGrAi93n1DXRaGcZUIRkH.jpg",
-        "rating": 0.0,
-        "videoUrl": "Deon Cole"
     },
     {
         "id": 2280,
@@ -50539,25 +50361,6 @@ const allMovies = [
         "videoUrl": "https://boosterx.stream/v/NoSuJ3DPnJqB/"
     },
     {
-        "id": 2493,
-        "title": "Mon Laferte",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Artist and singer Mon Laferte recounts intimate moments of her life as she navigates a world tour",
-            "motherhood",
-            "and her deepest wounds."
-        ],
-        "sutradara": "79 Min",
-        "artis": [
-            "Camila Grandi"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/mon-laferte-te-amo-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/08/iZDjedpJHmI4WLmdGr3RTgkDqML-152x228.jpg",
-        "rating": 0.0,
-        "videoUrl": "Mon Laferte"
-    },
-    {
         "id": 2494,
         "title": "The Beast Within",
         "year": 2024,
@@ -50800,28 +50603,6 @@ const allMovies = [
         "description": "Savi, a simple housewife, attempts a daring jailbreak to get her husband out of one of England\u00e2\u20ac\u2122s high-security prisons consisting of 400 inmates, 75 armed guards, and 60 surveillance cameras.",
         "rating": 6.0,
         "videoUrl": "https://boosterx.stream/v/kP9wTEDTNq6w/"
-    },
-    {
-        "id": 2506,
-        "title": "Justice League: Crisis on Infinite Earths",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Now fully revealed as the ultimate threat to existence",
-            "the Anti-Monitor wages an unrelenting attack on the surviving Earths that struggle for survival in a pocket universe. One by one",
-            "these worlds and all their inhabitants are vaporized! On the planets that remain",
-            "even time itself is shattered",
-            "and heroes from the past join the Justice League and their rag-tag allies against the epitome of evil. But as they make their last stand",
-            "will the sacrifice of the superheroes be enough to save us all?"
-        ],
-        "sutradara": "99 Min",
-        "artis": [
-            "Jeff Wamester"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/justice-league-crisis-on-infinite-earths-part-three-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/08/a3q8NkM8uTh9E23VsbUOdDSbBeN-152x228.jpg",
-        "rating": 0.0,
-        "videoUrl": "Corey Stoll, Darren Criss, Jensen Ackles"
     },
     {
         "id": 2507,
@@ -57457,26 +57238,6 @@ const allMovies = [
         "videoUrl": ""
     },
     {
-        "id": 2839,
-        "title": "Jang Jae-Kyeong (Ji Sung) adalah seorang detektif jagoan di gugus tugas narkoba di Kantor Polisi Anhyeon. Motto hidupnya adalah kelemahan dalam kesuksesan terjadi ketika koneksi pribadi dan pendukung terlibat. Untuk menghindari jebakan tersebut",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Oh Yoon-Jin (Jeon Mi-Do) adalah reporter berita lokal untuk Surat Kabar Harian Ekonomi Anhyeon. Dia sangat tegas dan mengatakan sesuatu tanpa syarat. Karena kepribadiannya"
-        ],
-        "sutradara": " dia terlibat dengan Detektif Jang Jae-Kyeong.\"",
-        "artis": [
-            "Complete",
-            "Crime",
-            "Drama",
-            "Drama Korea"
-        ],
-        "thumbnail": " dan bahkan keluarganya sendiri jika ia merasa hal tersebut dapat menimbulkan masalah. Dia adalah orang yang memiliki keyakinan dan prinsip yang kuat. Krisis kemudian terjadi dalam hidupnya. Dia dipaksa menjadi kecanduan narkoba oleh seseorang. Dengan kematian temannya sebagai petunjuk",
-        "description": " ia mengungkap keseluruhan kisah hubungan dalam persahabatan korup selama 20 tahun. Sementara itu",
-        "rating": 0.0,
-        "videoUrl": ""
-    },
-    {
         "id": 2840,
         "title": "Earth Arcade\u00e2\u20ac\u2122s Vroom Vroom",
         "year": 2024,
@@ -58683,26 +58444,6 @@ const allMovies = [
         "description": "The story begins with three teens coming to Bangalore for their engineering education and getting involved in a fight with seniors. They find a local gangster named Ranga to help them take revenge. The events, after meeting him, takes them through a journey, which seemed like a dream at first but soon turned into a nightmare.",
         "rating": 0.0,
         "videoUrl": "https://vectorx.top/v/rcuqXTN6O0Tb/"
-    },
-    {
-        "id": 2903,
-        "title": "LaRoy",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "A man named Ray discovers his wife is cheating on him and decides to kill himself. Before he can pull the trigger",
-            "he is mistaken for a low-rent hired killer. Desperate for a little respect",
-            "and with nothing else to live for",
-            "Ray decides to take the job \u00e2\u20ac\u201d and soon begins to question whether he made the right choice."
-        ],
-        "sutradara": "110 Min",
-        "artis": [
-            "Shane Atkinson"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/laroy-texas-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/05/9OvSeMHed2zENuoxI7YWMvvkQS2.jpg",
-        "rating": 0.0,
-        "videoUrl": "Galadriel Stineman, John Magaro, Steve Zahn"
     },
     {
         "id": 2904,
@@ -60740,24 +60481,6 @@ const allMovies = [
         "videoUrl": "https://vectorx.top/v/9amqEK1AU50n/"
     },
     {
-        "id": 3006,
-        "title": "Love",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "She\u00e2\u20ac\u2122s a young pianist preparing for an audition. He is a games inventor who can only concentrate in complete silence. Separated by only a paper-thin wall in conjoined apartments",
-            "will they learn to live in harmony with one another? Will romance blossom through the wall?"
-        ],
-        "sutradara": "98 Min",
-        "artis": [
-            "Patricia Font"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/love-divided-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/04/zvrkAXaFFPpJCFcus18qlsGfOrz-152x228.jpg",
-        "rating": 0.0,
-        "videoUrl": "Aitana, Fernando Guallar, Natalia Rodr\u00c3\u00adguez"
-    },
-    {
         "id": 3007,
         "title": "Under The Gun",
         "year": 2024,
@@ -61434,23 +61157,6 @@ const allMovies = [
         "description": "Sinopsis",
         "rating": 0.0,
         "videoUrl": ""
-    },
-    {
-        "id": 3041,
-        "title": "Di sebuah bar",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Sen mendapati dirinya benar-benar tertarik pada gadis baik hati ini. Suatu hari"
-        ],
-        "sutradara": " ikatan Sen dan Ling Yi tumbuh saat mereka menemukan pelipur lara satu sama lain. Mereka berdua berjanji untuk memulai kembali bersama setelah semuanya selesai. Dengan bantuan Ling Yi",
-        "artis": [
-            "Sen secara diam-diam mengumpulkan informasi penting tentang urusan Grup Kuntai dengan mendekati istri Kun"
-        ],
-        "thumbnail": " dan jalan mereka saling terkait. Dalam interaksi mereka",
-        "description": " Sen mengetahui penderitaan Ling Yi setelah ditinggalkan oleh pacarnya sejak dia dipenjara karena tidak sengaja menyebabkan kematian seseorang. Meski menutup diri secara emosional",
-        "rating": 0.0,
-        "videoUrl": " Elena"
     },
     {
         "id": 3042,
@@ -64972,25 +64678,6 @@ const allMovies = [
         "videoUrl": "https://bestx.stream/v/qJAEjpaKIqLr/"
     },
     {
-        "id": 3221,
-        "title": "Snoopy Presents: Welcome Home",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Franklin is new to town and hoping to make friends",
-            "but his usual tactics don\u00e2\u20ac\u2122t work on the Peanuts gang. When the Soap Box Derby arrives",
-            "he\u00e2\u20ac\u2122s sure it\u00e2\u20ac\u2122s a chance to impress new pals and teams up with the only other unpartnered kid: Charlie Brown."
-        ],
-        "sutradara": "40 Min",
-        "artis": [
-            "Raymond S. Persi"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/snoopy-presents-welcome-home-franklin-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/02/pjIrYzc31kHTySiovHAt0o3qDc2-152x228.jpg",
-        "rating": 0.0,
-        "videoUrl": "Caleb Bellavance, Etienne Kellici, Isabella Leo"
-    },
-    {
         "id": 3222,
         "title": "This Is Me\u00e2\u20ac\u00a6 Now",
         "year": 2024,
@@ -66592,25 +66279,6 @@ const allMovies = [
         "description": "Sinopsis",
         "rating": 0.0,
         "videoUrl": "Tidak Ditemukan"
-    },
-    {
-        "id": 3300,
-        "title": "Palipat-lipat",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Edna and Larry\u00e2\u20ac\u2122s simple life in the province gets shaken when Amy",
-            "an alluring woman",
-            "comes in between them."
-        ],
-        "sutradara": "143 Min",
-        "artis": [
-            "Roman Perez Jr."
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/palipat-lipat-papalit-palit-2024/",
-        "description": "http://84.46.243.135/wp-content/uploads/2024/01/zyp5MPZva1WZ3fhoC3inxKK4ZQ2-152x228.jpg",
-        "rating": 0.0,
-        "videoUrl": "Aiko Garcia, Denise Esteban, VR Relosa"
     },
     {
         "id": 3301,
@@ -69589,26 +69257,6 @@ const allMovies = [
         "description": "Intent on dispensing their own brutal form of justice, two ordinary men abduct a felon who committed a horrific crime many years before.",
         "rating": 6833.0,
         "videoUrl": "https://bestx.stream/v/C8RJVKnpr4Hk/"
-    },
-    {
-        "id": 3448,
-        "title": "Thank You",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Suddenly alone during the late stages of her pregnancy",
-            "Sara receives an unexpected lifeline when Linda",
-            "her estranged older sister",
-            "arrives."
-        ],
-        "sutradara": "91 Min",
-        "artis": [
-            "Lisa Aschan"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/thank-you-im-sorry-2023/",
-        "description": "http://84.46.243.135/wp-content/uploads/2023/12/uGnFNjzi1hXZ7CiywbOERUh1KAE-152x228.jpg",
-        "rating": 0.0,
-        "videoUrl": "Charlotta Bj\u00c3\u00b6rck, Ia Langhammer, Sanna Sundqvist"
     },
     {
         "id": 3449,
@@ -73852,29 +73500,6 @@ const allMovies = [
         "description": "Comedian Mike Birbiglia dives headlong into mortality, medical tests, nature\u00e2\u20ac\u2122s pillows and an overchlorinated YMCA pool in this candid one-man show.",
         "rating": 8.0,
         "videoUrl": "https://bestx.stream/v/qyFqAUDMFVgz/"
-    },
-    {
-        "id": 3658,
-        "title": "Luxembourg",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Kolya and Vasylii learn that their father",
-            "who left them when they were children",
-            "is dying in Luxembourg",
-            "far away from them. One of them wants to go and find his father",
-            "while the other one does everything he can to prevent the first from leaving the country. As a result",
-            "they both go to Luxembourg in search of their dad: Kolya considers him a hero",
-            "while Vasylii thinks he is a scoundrel."
-        ],
-        "sutradara": "106 Min",
-        "artis": [
-            "Antonio Lukich"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/luxembourg-luxembourg-2023/",
-        "description": "http://84.46.243.135/wp-content/uploads/2023/11/9GGORXI4WRusI7XWje8c4lBm9WS-152x228.jpg",
-        "rating": 0.0,
-        "videoUrl": "Amil Nasirov, Liudmyla Sachenko, Ramil Nasirov"
     },
     {
         "id": 3659,
@@ -79198,27 +78823,6 @@ const allMovies = [
         "description": "When a nun in a remote convent claims immaculate conception, the Vatican sends a team of priests to investigate, concerned about an ancient prophecy that a woman will give birth to twin boys: one the Messiah, the other the Anti-Christ.",
         "rating": 0.0,
         "videoUrl": "https://bestx.stream/v/PbQPLyvX2mzJ/"
-    },
-    {
-        "id": 3924,
-        "title": "Ruby Gillman",
-        "year": "N/A",
-        "quality": "N/A",
-        "genres": [
-            "Ruby Gillman",
-            "a sweet and awkward high school student",
-            "discovers she\u00e2\u20ac\u2122s a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain",
-            "power-hungry mermaids. Destined to inherit the throne from her commanding grandmother",
-            "Ruby must use her newfound powers to protect those she loves most."
-        ],
-        "sutradara": "91 Min",
-        "artis": [
-            "Kirk DeMicco"
-        ],
-        "thumbnail": "https://images.weserv.nl/?url=84.46.243.135/ruby-gillman-teenage-kraken-2023-2/",
-        "description": "http://84.46.243.135/wp-content/uploads/2023/10/kgrLpJcLBbyhWIkK7fx1fM4iSvf-152x228.jpg",
-        "rating": 0.0,
-        "videoUrl": "Annie Murphy, Lana Condor, Toni Collette"
     },
     {
         "id": 3925,
